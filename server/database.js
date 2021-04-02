@@ -24,7 +24,6 @@ CREATE TABLE seasons (
 DROP TABLE IF EXISTS types CASCADE;
 CREATE TABLE types (
   id SERIAL PRIMARY KEY NOT NULL,
-  name varchar(255) NOT NULL,
   season_id INTEGER REFERENCES seasons(id) ON DELETE CASCADE,
   region_id INTEGER REFERENCES regions(id) ON DELETE CASCADE
 );
@@ -33,6 +32,11 @@ CREATE TABLE tournaments (
   id VARCHAR(255) PRIMARY KEY NOT NULL,
   name varchar(255) NOT NULL,
   type INTEGER REFERENCES types(id) ON DELETE CASCADE
+);
+DROP TABLE IF EXISTS solos CASCADE;
+CREATE TABLE solos (
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
+  player1_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE
 );
 DROP TABLE IF EXISTS duos CASCADE;
 CREATE TABLE duos (
@@ -82,7 +86,7 @@ CREATE TABLE squad_games (
 DROP TABLE IF EXISTS solo_games_played CASCADE;
 CREATE TABLE solo_games_played (
   id SERIAL PRIMARY KEY NOT NULL,
-  solo_id VARCHAR(255) REFERENCES trios(id) ON DELETE CASCADE,
+  solo_id VARCHAR(255) REFERENCES solos(id) ON DELETE CASCADE,
   game_id VARCHAR(255) REFERENCES solo_games(id) ON DELETE CASCADE
 );
 DROP TABLE IF EXISTS duo_games_played CASCADE;
@@ -145,7 +149,7 @@ exports.resetDB = resetDB
 const addPlayer = function(player) {
   return pool.query(`
     INSERT INTO players(id, name)
-    VALUES ($1, $2, $3)
+    VALUES ($1, $2)
     RETURNING *
   `, [player.id, player.name])
     .then((data) => {
@@ -154,12 +158,11 @@ const addPlayer = function(player) {
 }
 exports.addPlayer = addPlayer
 const addSeason = function(season) {
-  
   return pool.query(`
     INSERT INTO seasons(id, season)
     VALUES ($1, $2)
     RETURNING *
-  `, [season.season, season.season])
+  `, [season, season])
     .then((data) => {
       return data.rows[0]
     })
@@ -171,7 +174,7 @@ const addRegion = function(region) {
     INSERT INTO regions(name)
     VALUES ($1)
     RETURNING *
-  `, [region['region']])
+  `, [region])
     .then((data) => {
       return data.rows[0]
     })
@@ -179,7 +182,7 @@ const addRegion = function(region) {
 exports.addRegion = addRegion
 const addType = function(type) {
   return pool.query(`
-    INSERT INTO types(name, season_id, region_id)
+    INSERT INTO types(id, season_id, region_id)
     VALUES ($1, $2, $3)
     RETURNING *
   `, [type.id, type.season_id, type.region_id])

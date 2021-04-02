@@ -1,6 +1,5 @@
 module.exports = function(router, database) {
-
-  router.post('/reset', (req, res) => {
+  router.get('/reset', (req, res) => {
     database.resetDB()
       .then(()=>{
         res.send('reset db :)')
@@ -11,7 +10,7 @@ module.exports = function(router, database) {
       })
   })
   router.post('/regions', (req, res) => {
-    database.addRegion(req.query)
+    database.addRegion(req.body['name'])
       .then(region => {
         res.send(region)
       })
@@ -21,7 +20,8 @@ module.exports = function(router, database) {
       });
   });
   router.post('/seasons', (req, res) => {
-    database.addSeason(req.query)
+    // console.log("REQUEST OBJECT", req.body)
+    database.addSeason(req.body['season'])
       .then(season => {
         res.send(season)
       })
@@ -31,7 +31,8 @@ module.exports = function(router, database) {
       });
   });
   router.post('/players', (req, res) => {
-    database.addPlayer(req.body)
+    console.log(req.body)
+    database.addPlayer({id: req.body.id, name: req.body.name})
       .then(player => {
         res.send(player)
       })
@@ -100,6 +101,5 @@ module.exports = function(router, database) {
         res.send(e)
       });
   });
-
   return router;
 }
