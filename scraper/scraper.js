@@ -118,25 +118,30 @@ regions.map((region) => {
 let tournaments = {}
 let teams = {}
 let games = {}
+let gamesNoKillfeed = {}
 let games_played = []
 let eliminations = {}
 
-Promise.all([promiseArray[0], promiseArray[1]])
+Promise.all(promiseArray)
 .then(res => {
   res.map((x)=> {
     let tournamentID = x.data.split(`eventWindow = {`)[1].split(`eventId": "`)[1].split(`"`)[0];
-    let playerInfoArray = ((x.data.split('"internal_Accounts":')[1]).split(`"entries"`)[0]).slice(0, ((x.data.split('"internal_Accounts":')[1]).split(`"entries"`)[0]).length - 5).split(`}`)
-    playerInfoArray.map((player) => {
-      let playerObj = ('{'+player.split(`,`)[1]+'}}')
-      if (!playerObj.includes('{undefined}') && playerObj.includes('nickname')) {
-        let playerParsed = JSON.parse(playerObj)
-        if (playerList[Object.keys(playerParsed)[0]] && (!playerList[Object.keys(playerParsed)[0]].includes(playerParsed[Object.keys(playerParsed)[0]]))) {
-          playerList[Object.keys(playerParsed)[0]] = playerList[Object.keys(playerParsed)[0]] + ',' + playerParsed[Object.keys(playerParsed)[0]].nickname
-        } else if (!playerList[Object.keys(playerParsed)[0]]) {
-          playerList[Object.keys(playerParsed)[0]] = playerParsed[Object.keys(playerParsed)[0]].nickname
+    if ((x.data.split('"internal_Accounts":')[1])) {
+      let playerInfoArray = ((x.data.split('"internal_Accounts":')[1]).split(`"entries"`)[0]).slice(0, ((x.data.split('"internal_Accounts":')[1]).split(`"entries"`)[0]).length - 5).split(`}`)
+      playerInfoArray.map((player) => {
+        let playerObj = ('{'+player.split(`,`)[1]+'}}')
+        if (!playerObj.includes('{undefined}') && playerObj.includes('nickname')) {
+          let playerParsed = JSON.parse(playerObj)
+          if (playerList[Object.keys(playerParsed)[0]] ) {
+            if (playerList[Object.keys(playerParsed)[0]] != playerParsed[Object.keys(playerParsed)[0]]) {
+              console.log(playerList[Object.keys(playerParsed)[0]].split(',')[playerList[Object.keys(playerParsed)[0]].split(',').length - 1])
+            }
+          } else if (!playerList[Object.keys(playerParsed)[0]]) {
+            playerList[Object.keys(playerParsed)[0]] = playerParsed[Object.keys(playerParsed)[0]].nickname
+          }
         }
-      }
-    })
+      })
+    }
     let tournamentRegion
     let tournamentSeason
     for (region of regions) {
@@ -157,18 +162,43 @@ Promise.all([promiseArray[0], promiseArray[1]])
     }
     tournaments[tournamentID] = `S${tournamentSeason}_${type}_${tournamentRegion}`
     let teamArray = x.data.split("imp_leaderboard")[1].split("teamAccountIds")
-    let size = teamArray[1].split('[')[1].split(']')[0].split(',').length
-    if (size > 1) {
-      teamArray.map((team, index) => {
-        if (index > 0) {
-          let players = team.split('[')[1].split(']')[0].split(',')
-          let id = team.split(`teamId":`)[1].split(`"`)[1]
-          teams[id] = {size: size}
-          players.map((x, i) => {
-            teams[id][`player${i+1}_id`] = x.split(`"`)[1]
-          })
+    if (teamArray[1]) {
+      let size = teamArray[1].split('[')[1].split(']')[0].split(',').length
+      if (size > 1) {
+        teamArray.map((team, index) => {
+          if (index > 0) {
+            let players = team.split('[')[1].split(']')[0].split(',')
+            let id = team.split(`teamId":`)[1].split(`"`)[1]
+            teams[id] = {size: size}
+            players.map((x, i) => {
+              teams[id][`player${i+1}_id`] = x.split(`"`)[1]
+            })
+          }
+        })
+      }
+    }
+    if (tournamentID.includes('Invitational')) {
+      let matches = JSON.parse(x.data.split('var imp_matches = ')[1].split(`;`)[0])
+      let mode
+      if (matches[0]) {
+        switch(matches[0].winners.length){
+          case 1: mode = 'solo'
+            break
+          case 2: mode = 'duo'
+            break
+          case 3: mode = 'trio'
+            break 
+          case 4: mode = 'squad'
+            break
         }
-      })
+      }
+      if (mode) {
+        matches.map((game) => {
+          games[game.sessionId] = {mode: mode, tournamentID: tournamentID}
+        })
+      }
+    } else {
+      
     }
     let matches = JSON.parse(x.data.split('var imp_matches = ')[1].split(`;`)[0])
     let mode
@@ -190,7 +220,6 @@ Promise.all([promiseArray[0], promiseArray[1]])
       })
     }
   })
-  console.log(games)
 })
 .catch(function(err){
   console.log(err)

@@ -50704,3 +50704,27294 @@ var imp_replayData = {
     "302646d1-23a0-470f-bd56-fcc13900fafa": "Centric Snagged7"
   }
 };
+
+var imp_leaderboard = {
+  "internal_Last_Updated": "2021-04-03T20:22:04.941264Z",
+  "internal_Cache_Mins": 5,
+  "internal_Next_Update": "2021-04-03T20:27:04.941264Z",
+  "internal_Accounts": {
+    "918c7d46-23d1-4fb7-b4d6-0063e766975d": {
+      "nickname": "Flaming 666",
+      "countryCode": "CA"
+    },
+    "27c219d3-704c-478f-bef7-00722c2623a2": {
+      "nickname": "Spy Natsu"
+    },
+    "0af5a483-261c-4490-ba8f-05f36f23676e": {
+      "nickname": "Mako Pumpkin"
+    },
+    "10740712-61ae-4fdb-b433-099c4c8cc527": {
+      "nickname": "PYXL TEKBAE",
+      "countryCode": "AU",
+      "twitchName": "MawAUS",
+      "twitchId": "258025268"
+    },
+    "60545900-be27-4292-92f4-0daccfad9188": {
+      "nickname": "elusiveㅤㅤ",
+      "countryCode": "AU"
+    },
+    "63617d65-4b81-4918-9dd1-1747b850d636": {
+      "nickname": "volx"
+    },
+    "933b3448-6f24-4cd9-b7c0-1b36e8290713": {
+      "nickname": "рhluxzy"
+    },
+    "b681f129-a70e-4bc3-976c-1b576966fca9": {
+      "nickname": "scammed ihmo"
+    },
+    "d1325df6-aae5-4ee6-9596-1ce9bb449b0e": {
+      "nickname": "EpikPulsiv",
+      "countryCode": "AU"
+    },
+    "2eb367b8-e27c-4396-a58f-1dee96b44821": {
+      "nickname": "ked Ψ"
+    },
+    "fc1158d5-dc85-4467-bd1d-20209521e6ef": {
+      "nickname": "preсks"
+    },
+    "9773c6f1-a4cc-441c-b5e2-2512d18435a0": {
+      "nickname": "fluffy ャ"
+    },
+    "abe92af2-55cc-408d-afd7-25b107c93f9a": {
+      "nickname": "nancker",
+      "countryCode": "AU"
+    },
+    "a8c5dff2-dcfe-447a-a34c-26a56ae90824": {
+      "nickname": "EC DaFlux"
+    },
+    "e1555b76-5f28-48d4-80ef-29cb31ce2246": {
+      "nickname": "JFT syncil"
+    },
+    "1da01e18-80bf-4cef-8348-2af90f5ecbd9": {
+      "nickname": "child predator04"
+    },
+    "90240417-68ef-42f3-9ccb-2e65a28a7733": {
+      "nickname": "50ㅤ",
+      "countryCode": "AU",
+      "twitchName": "50__"
+    },
+    "42ac382a-c672-4055-ade3-2e700a1ed9b3": {
+      "nickname": "6S Finish"
+    },
+    "9d0e06e9-6a8a-4d01-a4d6-30aea47704a5": {
+      "nickname": "bhrax ӝ"
+    },
+    "a3add78f-4b60-41e1-88d9-35123ec31c11": {
+      "nickname": "8kden"
+    },
+    "9fbf1b5c-e28b-4cd1-9b52-35e6844de700": {
+      "nickname": "Agent Eshz",
+      "countryCode": "AU"
+    },
+    "1fb89e22-2dbd-4099-a80d-38fe3a56164a": {
+      "nickname": "DOG BANGA SHULEH"
+    },
+    "0f2921c5-5a0d-4bcd-b289-3a109701700a": {
+      "nickname": "Hypro Wutty",
+      "countryCode": "HK",
+      "twitchName": "ItsWutty",
+      "twitchId": "433328816"
+    },
+    "f24c9bea-62d6-42ce-bc0f-3a53cd714e6d": {
+      "nickname": "FURY skits"
+    },
+    "2980e184-2f50-4b5f-8af4-3b2425f22f9d": {
+      "nickname": "SPY ArTy"
+    },
+    "fe6342e8-9aa9-4ec7-903a-3bd1088e5aac": {
+      "nickname": "AGENT Raiku"
+    },
+    "4fc659bb-057d-4881-bc56-3d10b04239d8": {
+      "nickname": "6S dareMALE"
+    },
+    "63c1a3ab-88d6-4080-92cf-3ffc04d013d4": {
+      "nickname": "twitch Μightyau"
+    },
+    "4be7af79-536e-4081-8982-4078ffd17582": {
+      "nickname": "Facebook Qclix"
+    },
+    "ee27298f-be78-4a56-bfd4-40aef7530f93": {
+      "nickname": "twitch skeamau"
+    },
+    "df16ae59-1837-4b4e-9538-447ef7401167": {
+      "nickname": "prісе"
+    },
+    "a2bcf6ac-4b54-453b-b2bf-491a0b7a369f": {
+      "nickname": "wрuc"
+    },
+    "04b61fb0-7a95-429d-a705-495dcda7e68c": {
+      "nickname": "Quoakalicious",
+      "countryCode": "AU"
+    },
+    "211e8023-3877-4131-86fa-4dc49037a554": {
+      "nickname": "demon mode x",
+      "countryCode": "CN"
+    },
+    "db11b4c9-c953-42ed-a44b-50ca51beb086": {
+      "nickname": "JFT xalkerr",
+      "countryCode": "AU",
+      "twitchName": "xalkerr",
+      "twitchId": "256945554"
+    },
+    "a47545ef-850a-40d4-8a93-525ae986d6ba": {
+      "nickname": "Huѕkу"
+    },
+    "9b7329af-becb-4bcd-90f2-5428f61d7368": {
+      "nickname": "Harem 32"
+    },
+    "bb87c399-da1b-49fe-82ef-5a1b4f7d9513": {
+      "nickname": "blаke on switch",
+      "countryCode": "AU"
+    },
+    "c178b4e0-d81d-476a-a8f0-5a7f5d8f5b93": {
+      "nickname": "XPG tayreN"
+    },
+    "f358a2ec-8c2e-4543-8ef7-5fd9ddd54957": {
+      "nickname": "BBG lel",
+      "countryCode": "AU"
+    },
+    "5088029d-12e1-4902-9c9f-6120a4e905bd": {
+      "nickname": "dawgyy likes men",
+      "countryCode": "AU"
+    },
+    "973e8074-cc20-4e03-84fc-650d03944ffc": {
+      "nickname": "pudnara"
+    },
+    "4f6aaaf9-fec0-4a93-baae-6520d215ce37": {
+      "nickname": "Lem lehd"
+    },
+    "96047154-7daa-44bc-8c4a-6a92161a7996": {
+      "nickname": "prdx tekbae",
+      "countryCode": "AU"
+    },
+    "9f079469-8d1d-401c-9cfc-6da1333dea74": {
+      "nickname": "6S Fhaqs",
+      "countryCode": "AU"
+    },
+    "926fb149-f4db-4ac3-9def-6fd91f2d643d": {
+      "nickname": "EC Rangga_Ow",
+      "countryCode": "ID",
+      "twitchName": "rangga4nite",
+      "twitchId": "427915825"
+    },
+    "805b6624-380b-4fd9-a5b1-71726c5f2971": {
+      "nickname": "PYXL Rizza"
+    },
+    "71524d66-8f39-4f71-8944-72e5e03fbc60": {
+      "nickname": "radialmale"
+    },
+    "a0f0d3af-6c94-48b7-ab88-765987e7b9a5": {
+      "nickname": "FivesAU"
+    },
+    "73481590-206d-4982-a8cf-769e2d7adb02": {
+      "nickname": "Zuck 燥"
+    },
+    "c70e7a88-ca35-4213-93e5-76c7bdb8edc8": {
+      "nickname": "Baily.ㅤ"
+    },
+    "5d946791-d164-4bed-b029-76e6d5cbd342": {
+      "nickname": "unlucky nici",
+      "countryCode": "AT"
+    },
+    "31a373d1-82ae-4902-9317-783c85a822e0": {
+      "nickname": "CYN Juxe",
+      "countryCode": "AU",
+      "twitchName": "juxefn",
+      "twitchId": "408006160"
+    },
+    "8bd4f821-6934-400d-a7cb-7b3fb975f0ac": {
+      "nickname": "jаhlyn"
+    },
+    "595824d8-261f-48f1-8197-7b5a16572918": {
+      "nickname": "twitter zecstra"
+    },
+    "e449fcae-cf69-4dff-a585-87b5e6532d51": {
+      "nickname": "Bruzeys"
+    },
+    "2ab2287a-13b9-40b6-b67b-89f07147f0c3": {
+      "nickname": "Twitch Gobxii"
+    },
+    "7220f0f0-289a-4724-96e6-8c06de00243f": {
+      "nickname": "flobber ricko"
+    },
+    "1702e7ee-7d46-4185-9bb4-8f5c858508fe": {
+      "nickname": "1inch flqx",
+      "countryCode": "AU"
+    },
+    "cde82e15-aa02-4a17-9619-947f032aeca7": {
+      "nickname": "twitch chukklzz"
+    },
+    "d794d93c-0e85-4c42-8b45-96dda8f11987": {
+      "nickname": "6S Wreckless"
+    },
+    "143ab2fd-5f8d-4c05-bc8f-9864c20851bf": {
+      "nickname": "x2prhzy"
+    },
+    "38a4e158-49d3-4b58-93ab-9c4a316eb5a1": {
+      "nickname": "Quinn Laden"
+    },
+    "e845b978-ac38-4d5a-8e86-9d8538fe8bce": {
+      "nickname": "DLS Trexy"
+    },
+    "8938ee8b-c5a1-460f-9078-9ff6029a87dd": {
+      "nickname": "ANDERS 父"
+    },
+    "7c3ad462-e0bf-4403-b770-a0c39c7db695": {
+      "nickname": "6s crippas"
+    },
+    "070f6080-b689-4ffa-b3a3-a23254e1d44b": {
+      "nickname": "Kirk on piano",
+      "countryCode": "SI",
+      "twitchName": "kirkoce",
+      "twitchId": "549795029"
+    },
+    "1eb374cf-1370-4ae0-9c8d-a7a4ccc3a0a5": {
+      "nickname": "PWR xpired"
+    },
+    "4043db65-1e2e-4cff-bb19-abd86fba8c7f": {
+      "nickname": "twitter rochehfn"
+    },
+    "bf865df0-ef77-4487-9992-ad31bc6cf94d": {
+      "nickname": "ghost trаpped"
+    },
+    "93259d35-eed1-4fe0-aa47-b00206f953b1": {
+      "nickname": "Psycho Runs"
+    },
+    "aea98bc2-e01b-4c87-bf9f-b4bd75943c30": {
+      "nickname": "kоrq"
+    },
+    "ad53e398-b588-4b15-a797-ba0a61658cc4": {
+      "nickname": "Jace 75",
+      "countryCode": "AU"
+    },
+    "a4a881da-733d-4ac0-b710-bb38fb671568": {
+      "nickname": "GLM Snow",
+      "countryCode": "AU",
+      "twitchName": "glm_snow",
+      "twitchId": "485601222"
+    },
+    "d3195238-f1d0-4478-9325-bd607a636730": {
+      "nickname": "lol cal"
+    },
+    "e85bae62-d687-412c-a100-bda6e62b7c4c": {
+      "nickname": "litеning"
+    },
+    "8175b84a-680c-4f8d-ae3b-bfc23239290a": {
+      "nickname": "PhantomAU yt"
+    },
+    "00454ab0-7656-4e8d-9e3b-c3f38d8bcffd": {
+      "nickname": "VXY wants tns"
+    },
+    "2fa701ba-a412-4a60-8983-c666e683a809": {
+      "nickname": "basil 74"
+    },
+    "91db8f6e-fe5e-486f-8ef5-c76fb7f82cd4": {
+      "nickname": "gеk"
+    },
+    "6e6a5c28-287f-4565-83f1-c8678a17913c": {
+      "nickname": "GLM Results"
+    },
+    "e8ab2f32-267a-4c89-b505-cbee7c9626a0": {
+      "nickname": "marz."
+    },
+    "6288fe61-495a-4ed1-849e-d0c74616eeee": {
+      "nickname": "QEL 王"
+    },
+    "7a70c5dd-0c6d-45cf-8f7a-d429ddd29ef2": {
+      "nickname": "Shaggyャ"
+    },
+    "3885d121-6e00-4bf3-82cd-d4e69b1dc938": {
+      "nickname": "Venox 父"
+    },
+    "f07e1707-b2e9-4e81-ab99-d98f46b4579a": {
+      "nickname": "SYX Keemo"
+    },
+    "8e0540ab-69d0-4a7f-9f01-dff74dac99de": {
+      "nickname": "GLM x2Suns"
+    },
+    "df84fbb2-7b54-4a6f-8981-e0bf3c28aa1b": {
+      "nickname": "MADE Maniasaurus",
+      "countryCode": "AU",
+      "twitchName": "ManiaFN",
+      "twitchId": "257935234"
+    },
+    "859e5d3a-5048-46ba-8b3d-e1d3441d46cf": {
+      "nickname": "LGS_Rodrigo05"
+    },
+    "e162b360-a045-4728-a7b1-e24e6fa09bde": {
+      "nickname": "El Dexifer"
+    },
+    "234887ea-510f-41d4-8d59-e3042f944c6e": {
+      "nickname": "РWR Banana"
+    },
+    "6b7ac0e1-4817-42b0-b50f-e4099c4a4c00": {
+      "nickname": "MADE waf",
+      "countryCode": "AU",
+      "twitchName": "waf1x",
+      "twitchId": "255129204"
+    },
+    "c1e6ddae-d2ea-4691-979c-ee31c7ec6fba": {
+      "nickname": "ᵣₑₘᵢₓ"
+    },
+    "afd55c40-e893-457e-a7b2-efb9b9369cbd": {
+      "nickname": "JFT Fleakz"
+    },
+    "79edbda5-9fdb-4641-897e-f508b9cd76cc": {
+      "nickname": "Azury ϟ",
+      "countryCode": "GB"
+    },
+    "5cf52053-1cf8-4601-b7a4-f8d7a7606dc8": {
+      "nickname": "bugsу"
+    },
+    "751b62c5-014b-44f8-974e-f8f282006d7d": {
+      "nickname": "Fresh"
+    },
+    "4cd6ece2-d64e-4f79-8273-f9191913e32c": {
+      "nickname": "Zelqu."
+    },
+    "45b91147-ac37-4205-9204-f9e06bbc711c": {
+      "nickname": "ʜᴠᴛ ꜱᴘɪᴋᴇʀ"
+    },
+    "7b1ce9bb-305a-4944-b6ab-fa24eaba4018": {
+      "nickname": "SKIPZǃ",
+      "countryCode": "AU"
+    }
+  },
+  "entries": [
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 35.0,
+          "pointsEarned": 35.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 178,
+      "rank": 1,
+      "score": 3132626348713857,
+      "sessionHistory": [
+        {
+          "sessionId": "8d222624900240c8b190b4208bf2e352",
+          "endTime": "2021-04-03T08:25:10.731Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1413,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:51:59.406Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1361,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:16:37.526Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1328,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:31:04.83Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 454,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T10:00:59.608Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1395,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:46.523Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1416,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:54:26.909Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1390,
+            "TEAM_ELIMS_STAT_INDEX": 12,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:46.475Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1355,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "234887ea-510f-41d4-8d59-e3042f944c6e"
+      ],
+      "teamId": "234887ea510f41d48d59e3042f944c6e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_turkey"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 34.0,
+          "pointsEarned": 34.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 175,
+      "rank": 2,
+      "score": 3082032682688738,
+      "sessionHistory": [
+        {
+          "sessionId": "10ec19c287864790aed731f3ba89e6b1",
+          "endTime": "2021-04-03T08:05:47.821Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 67,
+            "TIME_ALIVE_STAT": 194,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 33,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "407aa8342d084c67b89a7a441bf9be30",
+          "endTime": "2021-04-03T08:31:09.197Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1316,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:33:57.466Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 100,
+            "TIME_ALIVE_STAT": 46,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 0,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T09:02:38.458Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1342,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:31:16.521Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1253,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:57:35.402Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 1192,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:24:11.456Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1316,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:50:18.907Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:20:23.729Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1390,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "4043db65-1e2e-4cff-bb19-abd86fba8c7f"
+      ],
+      "teamId": "4043db651e2e4cffbb19abd86fba8c7f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 34.0,
+          "pointsEarned": 34.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 173,
+      "rank": 3,
+      "score": 3045748805345497,
+      "sessionHistory": [
+        {
+          "sessionId": "e82e0b0acd5740a196eb06c92dcaba8b",
+          "endTime": "2021-04-03T08:07:15.859Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 65,
+            "TIME_ALIVE_STAT": 153,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 35,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "36b3f9ebc6504867be90c44725e25e79",
+          "endTime": "2021-04-03T08:32:07.346Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1412,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T08:47:28.721Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 623,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:11:35.163Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1325,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:37:17.914Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1426,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T09:47:06.505Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 66,
+            "TIME_ALIVE_STAT": 210,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 34,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:16:29.369Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:19.688Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1424,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:14:43.461Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1437,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "9fbf1b5c-e28b-4cd1-9b52-35e6844de700"
+      ],
+      "teamId": "9fbf1b5ce28b4cd19b5235e6844de700",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 40.0,
+          "pointsEarned": 40.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 171,
+      "rank": 4,
+      "score": 3010597189149646,
+      "sessionHistory": [
+        {
+          "sessionId": "eec8d20986844a03ad4785243f62c9ff",
+          "endTime": "2021-04-03T08:25:55.328Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1395,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:34:23.673Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 347,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T09:01:30.416Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1279,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:32:02.385Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1392,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T10:01:18.892Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1414,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:16:44.024Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 49,
+            "TIME_ALIVE_STAT": 549,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 51,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:41.806Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1448,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:09.232Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1337,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "63617d65-4b81-4918-9dd1-1747b850d636"
+      ],
+      "teamId": "63617d654b8149189dd11747b850d636",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 34.0,
+          "pointsEarned": 34.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 164,
+      "rank": 5,
+      "score": 2886332243371562,
+      "sessionHistory": [
+        {
+          "sessionId": "582c8b2fa7094455bdfaed6f76de29b6",
+          "endTime": "2021-04-03T08:28:21.426Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1286,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:55:25.424Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1331,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:00:44.253Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 95,
+            "TIME_ALIVE_STAT": 78,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 5,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:25:57.792Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1344,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:52:36.826Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1495,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:20:52.882Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1415,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:49:37.113Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1375,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:14:46.702Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1440,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "8e0540ab-69d0-4a7f-9f01-dff74dac99de"
+      ],
+      "teamId": "8e0540ab69d04a7f9f01dff74dac99de",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_sweden"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 26.0,
+          "pointsEarned": 26.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 162,
+      "rank": 6,
+      "score": 2852220538545315,
+      "sessionHistory": [
+        {
+          "sessionId": "541ebab11bd14a7290a77a066b84a128",
+          "endTime": "2021-04-03T08:28:07.671Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1450,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:42:30.315Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 559,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T09:07:17.261Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1347,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:19:52.458Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 67,
+            "TIME_ALIVE_STAT": 362,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 33,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:47:51.196Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1422,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:15:09.668Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1362,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:40:42.042Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1440,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:09:26.531Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1432,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1da01e18-80bf-4cef-8348-2af90f5ecbd9"
+      ],
+      "teamId": "1da01e1880bf4cef83482af90f5ecbd9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_italy"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 34.0,
+          "pointsEarned": 34.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 158,
+      "rank": 7,
+      "score": 2782978143183537,
+      "sessionHistory": [
+        {
+          "sessionId": "8d090c716b7a494fb80a8807b8a95795",
+          "endTime": "2021-04-03T08:24:28.174Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1431,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:30:58.804Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 87,
+            "TIME_ALIVE_STAT": 142,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 13,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:46:22.814Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 39,
+            "TIME_ALIVE_STAT": 791,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 61,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:10:51.555Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1282,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "69da1c01169c4852bd761fa253761207",
+          "endTime": "2021-04-03T09:41:48.801Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1436,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T10:07:03.822Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1403,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:35:25.076Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:58:39.151Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1047,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "8bd4f821-6934-400d-a7cb-7b3fb975f0ac"
+      ],
+      "teamId": "8bd4f8216934400da7cb7b3fb975f0ac",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 24.0,
+          "pointsEarned": 24.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 158,
+      "rank": 8,
+      "score": 2780736713269412,
+      "sessionHistory": [
+        {
+          "sessionId": "62eb8a06474346a894fb65f6d5e31ec5",
+          "endTime": "2021-04-03T08:13:30.835Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 34,
+            "TIME_ALIVE_STAT": 596,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "942ffe1e817a4ec4a9f3354906db3c8c",
+          "endTime": "2021-04-03T08:34:21.102Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1073,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T08:47:41.878Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 35,
+            "TIME_ALIVE_STAT": 503,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 65,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4f57055c4ac943cab679ed759df01039",
+          "endTime": "2021-04-03T09:13:39.976Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1451,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:42:32.45Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1400,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:09:55.558Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1317,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:21:52.102Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 56,
+            "TIME_ALIVE_STAT": 262,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 44,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:50:18.906Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c18162ca230b411ead3cf42484eb5d80",
+          "endTime": "2021-04-03T11:15:07.611Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1373,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "df16ae59-1837-4b4e-9538-447ef7401167"
+      ],
+      "teamId": "df16ae5918374b4e9538447ef7401167",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_scotland"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 19.0,
+          "pointsEarned": 19.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 154,
+      "rank": 9,
+      "score": 2711459698763548,
+      "sessionHistory": [
+        {
+          "sessionId": "eec8d20986844a03ad4785243f62c9ff",
+          "endTime": "2021-04-03T08:26:11.529Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1412,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:32:31.763Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 73,
+            "TIME_ALIVE_STAT": 235,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 27,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T09:00:45.782Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1457,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:28:16.701Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1490,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:53:06.896Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1219,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:22:04.92Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1491,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:49:58.931Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:51.328Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1304,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0af5a483-261c-4490-ba8f-05f36f23676e"
+      ],
+      "teamId": "0af5a483261c4490ba8f05f36f23676e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_france"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 25.0,
+          "pointsEarned": 25.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 153,
+      "rank": 10,
+      "score": 2693878235456163,
+      "sessionHistory": [
+        {
+          "sessionId": "8b21f13c7f494587922fade48fa6b790",
+          "endTime": "2021-04-03T08:23:44.564Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1339,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:53:12.561Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1526,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:15:59.594Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1288,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:22:10.325Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 201,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:49:53.247Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:16:12.559Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1428,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:15.672Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:52:17.604Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 94,
+            "TIME_ALIVE_STAT": 58,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 6,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:20:23.73Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1390,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "45b91147-ac37-4205-9204-f9e06bbc711c"
+      ],
+      "teamId": "45b91147ac3742059204f9e06bbc711c",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 19.0,
+          "pointsEarned": 19.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 153,
+      "rank": 11,
+      "score": 2693860256457399,
+      "sessionHistory": [
+        {
+          "sessionId": "8b21f13c7f494587922fade48fa6b790",
+          "endTime": "2021-04-03T08:25:54.948Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1468,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:41:52.225Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 37,
+            "TIME_ALIVE_STAT": 789,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 63,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:53:51.436Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 543,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:22:21.322Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:31:42.847Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 217,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T10:00:03.588Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1339,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:26:49.776Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1483,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:54:23.035Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1385,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:20:03.587Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1371,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "aea98bc2-e01b-4c87-bf9f-b4bd75943c30"
+      ],
+      "teamId": "aea98bc2e01b4c87bf9fb4bd75943c30",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 152,
+      "rank": 12,
+      "score": 2676273979089568,
+      "sessionHistory": [
+        {
+          "sessionId": "fbf9d3d984fa4f088f1f9551534f7bce",
+          "endTime": "2021-04-03T08:24:31.722Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1188,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9a83012a617441d3a12f7f17217e3e7b",
+          "endTime": "2021-04-03T08:31:24.017Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 280,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "79306d1e2767444288903dbc8459c4ef",
+          "endTime": "2021-04-03T08:56:58.024Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:22:04.213Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1380,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:50:58.264Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:16:04.576Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:44:03.752Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1345,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:49:13.697Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 170,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:14:46.702Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1440,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "8938ee8b-c5a1-460f-9078-9ff6029a87dd"
+      ],
+      "teamId": "8938ee8bc5a1460f90789ff6029a87dd",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 31.0,
+          "pointsEarned": 31.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 149,
+      "rank": 13,
+      "score": 2623518071266294,
+      "sessionHistory": [
+        {
+          "sessionId": "0b52557098a34f1cbd10850650c1d8ab",
+          "endTime": "2021-04-03T08:25:49.442Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:37:45.65Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 50,
+            "TIME_ALIVE_STAT": 548,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 50,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T08:41:42.982Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 90,
+            "TIME_ALIVE_STAT": 97,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 10,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4a0f2e728854488080507d4524a371c0",
+          "endTime": "2021-04-03T09:07:33.911Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1297,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:30:46.009Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1225,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a943082a83474273881f1d2e6c6ab2e5",
+          "endTime": "2021-04-03T09:56:05.315Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1429,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:15:48.951Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 1096,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:18:47.547Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 79,
+            "TIME_ALIVE_STAT": 77,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 21,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:33:18.53Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 38,
+            "TIME_ALIVE_STAT": 666,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 62,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:56:11.024Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1104,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "96047154-7daa-44bc-8c4a-6a92161a7996"
+      ],
+      "teamId": "960471547daa44bc8c4a6a92161a7996",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_wales"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 31.0,
+          "pointsEarned": 31.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 149,
+      "rank": 14,
+      "score": 2622427693113365,
+      "sessionHistory": [
+        {
+          "sessionId": "716668bf30e6469a8ac1fe47768219b8",
+          "endTime": "2021-04-03T08:24:01.686Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1331,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:49:47.331Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1310,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:00:21.632Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 59,
+            "TIME_ALIVE_STAT": 426,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 41,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:27:21.526Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1438,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:54:02.639Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1275,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:22:33.012Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1520,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:28:10.239Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 98,
+            "TIME_ALIVE_STAT": 66,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 2,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:44:14.507Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 39,
+            "TIME_ALIVE_STAT": 433,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 61,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:09:30.74Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1436,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "7c3ad462-e0bf-4403-b770-a0c39c7db695"
+      ],
+      "teamId": "7c3ad462e0bf4403b770a0c39c7db695",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_italy"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 146,
+      "rank": 15,
+      "score": 2570727031201671,
+      "sessionHistory": [
+        {
+          "sessionId": "64c4bf14d9b44d9a8ac6d7ee12ef4b30",
+          "endTime": "2021-04-03T08:28:55.727Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1334,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6bceb4a9056d4a018b97e62efea0f9fa",
+          "endTime": "2021-04-03T08:40:53.238Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 523,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5bb9668780f74f78a9b67d5501161ecf",
+          "endTime": "2021-04-03T09:08:19.84Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1459,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:17:17.835Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 76,
+            "TIME_ALIVE_STAT": 207,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 24,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:39:31.521Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 951,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:05:39.295Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:37:00.48Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1451,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:47:39.975Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 358,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:36.705Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1366,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "27c219d3-704c-478f-bef7-00722c2623a2"
+      ],
+      "teamId": "27c219d3704c478fbef700722c2623a2",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_france"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 25.0,
+          "pointsEarned": 25.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 144,
+      "rank": 16,
+      "score": 2535548554321421,
+      "sessionHistory": [
+        {
+          "sessionId": "62eb8a06474346a894fb65f6d5e31ec5",
+          "endTime": "2021-04-03T08:27:11.781Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1459,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:39:52.33Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 52,
+            "TIME_ALIVE_STAT": 401,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 48,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:54:28.758Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 50,
+            "TIME_ALIVE_STAT": 581,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 50,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:23:55.314Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1497,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:50:15.388Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1346,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:16:29.368Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:25:54.5Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 213,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:54:23.704Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1386,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:02:24.583Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 74,
+            "TIME_ALIVE_STAT": 318,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 26,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "b681f129-a70e-4bc3-976c-1b576966fca9"
+      ],
+      "teamId": "b681f129a70e4bc3976c1b576966fca9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_italy"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 144,
+      "rank": 17,
+      "score": 2533343645327789,
+      "sessionHistory": [
+        {
+          "sessionId": "10ec19c287864790aed731f3ba89e6b1",
+          "endTime": "2021-04-03T08:10:49.091Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 495,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e64643c8baab4033884e8dece14500eb",
+          "endTime": "2021-04-03T08:34:40.755Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1326,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T08:45:25.657Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 48,
+            "TIME_ALIVE_STAT": 376,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 52,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4f57055c4ac943cab679ed759df01039",
+          "endTime": "2021-04-03T09:13:16.957Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1428,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "69da1c01169c4852bd761fa253761207",
+          "endTime": "2021-04-03T09:41:13.287Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1399,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T10:06:02.154Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1342,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:30:26.657Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1388,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:46:12.967Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 544,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:14:00.567Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "e162b360-a045-4728-a7b1-e24e6fa09bde"
+      ],
+      "teamId": "e162b360a0454728a7b1e24e6fa09bde",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 16.0,
+          "pointsEarned": 16.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 144,
+      "rank": 18,
+      "score": 2533336411449419,
+      "sessionHistory": [
+        {
+          "sessionId": "8afcec433ad842fcb32f0a7fb3955de2",
+          "endTime": "2021-04-03T08:35:07.066Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1309,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T09:02:38.458Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1342,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:28:30.096Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1504,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:56:40.73Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1432,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:06.409Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1374,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:43:31.054Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 991,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "186fbdc4d3694b1c9d817095cbd72f28",
+          "endTime": "2021-04-03T11:09:31.564Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1071,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0f2921c5-5a0d-4bcd-b289-3a109701700a"
+      ],
+      "teamId": "0f2921c55a0d4bcdb2893a109701700a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_japan"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 38.0,
+          "pointsEarned": 38.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 141,
+      "rank": 19,
+      "score": 2481699857013350,
+      "sessionHistory": [
+        {
+          "sessionId": "eec8d20986844a03ad4785243f62c9ff",
+          "endTime": "2021-04-03T08:14:24.244Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 677,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "65474122ce9c4bee9e7e07da3eb97b67",
+          "endTime": "2021-04-03T08:39:35.248Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1260,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:46:33.849Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 92,
+            "TIME_ALIVE_STAT": 106,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 8,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:11:22.75Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1313,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:36:51.573Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T09:47:29.231Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 60,
+            "TIME_ALIVE_STAT": 305,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 40,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:16:03.173Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1418,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:31:08.835Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 42,
+            "TIME_ALIVE_STAT": 531,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 58,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:37:44.814Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 90,
+            "TIME_ALIVE_STAT": 48,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 10,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:20:20.856Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1388,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "9d0e06e9-6a8a-4d01-a4d6-30aea47704a5"
+      ],
+      "teamId": "9d0e06e96a8a4d01a4d630aea47704a5",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 10.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 39.0,
+          "pointsEarned": 39.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 139,
+      "rank": 20,
+      "score": 2446518176488240,
+      "sessionHistory": [
+        {
+          "sessionId": "c3a8fa58aac84947b74ae2a997662f88",
+          "endTime": "2021-04-03T08:11:42.511Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 38,
+            "TIME_ALIVE_STAT": 510,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 62,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "942ffe1e817a4ec4a9f3354906db3c8c",
+          "endTime": "2021-04-03T08:30:49.423Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 875,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "79306d1e2767444288903dbc8459c4ef",
+          "endTime": "2021-04-03T08:56:58.024Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:06:20.59Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 415,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:42:32.451Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1400,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:10:40.751Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1364,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:29:50.823Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 1001,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:36:33.364Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 60,
+            "TIME_ALIVE_STAT": 280,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 40,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:44:24.315Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 67,
+            "TIME_ALIVE_STAT": 163,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 33,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:05.298Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1333,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "f07e1707-b2e9-4e81-ab99-d98f46b4579a"
+      ],
+      "teamId": "f07e1707b2e94e81ab99d98f46b4579a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_saudiarabia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 34.0,
+          "pointsEarned": 34.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 138,
+      "rank": 21,
+      "score": 2428912562937050,
+      "sessionHistory": [
+        {
+          "sessionId": "a698327c943145e2af75667423955ff5",
+          "endTime": "2021-04-03T08:30:14.958Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1311,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:52:35.138Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 1162,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T08:57:01.19Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 132,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:12:52.453Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 812,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "69da1c01169c4852bd761fa253761207",
+          "endTime": "2021-04-03T09:40:37.471Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1361,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:05:38.693Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:29:51.479Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:33:18.799Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 84,
+            "TIME_ALIVE_STAT": 86,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 16,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:39:46.169Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 169,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:09:19.806Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1425,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "d794d93c-0e85-4c42-8b45-96dda8f11987"
+      ],
+      "teamId": "d794d93c0e854c428b4596dda8f11987",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 38.0,
+          "pointsEarned": 38.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 137,
+      "rank": 22,
+      "score": 2410231611530554,
+      "sessionHistory": [
+        {
+          "sessionId": "1b214c3193f940d784ae14ac54c42113",
+          "endTime": "2021-04-03T08:27:46.863Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1017,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "12476a20abad472b95696a8be3b9b203",
+          "endTime": "2021-04-03T08:43:38.103Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 792,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "94957642e9f746b4b3e2031ea3714a87",
+          "endTime": "2021-04-03T08:54:39.843Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 366,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "412d4e7e6a584b4c9119bf4cdb8c99e3",
+          "endTime": "2021-04-03T09:21:03.257Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:41:27.969Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 41,
+            "TIME_ALIVE_STAT": 803,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 59,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T09:54:50.029Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 41,
+            "TIME_ALIVE_STAT": 673,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 59,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "49991a7bf3f94b34bd1ad886f28d9dbe",
+          "endTime": "2021-04-03T10:00:16.375Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 85,
+            "TIME_ALIVE_STAT": 152,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 15,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aaf99b602e6b49fc9b0f5cd4ab206df5",
+          "endTime": "2021-04-03T10:25:15.013Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:55:12.375Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1437,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:24.981Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1335,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "31a373d1-82ae-4902-9317-783c85a822e0"
+      ],
+      "teamId": "31a373d182ae49029317783c85a822e0",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 20.0,
+          "pointsEarned": 20.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 136,
+      "rank": 23,
+      "score": 2394796034301690,
+      "sessionHistory": [
+        {
+          "sessionId": "0b52557098a34f1cbd10850650c1d8ab",
+          "endTime": "2021-04-03T08:23:54.688Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1284,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "343b017c16364f6c891c84609e167afb",
+          "endTime": "2021-04-03T08:49:04.474Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1310,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T08:58:48.887Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 333,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3e325d9e259849d5ab6cd6c3b0445741",
+          "endTime": "2021-04-03T09:10:10.298Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 361,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "fc615d48fb4f4123bab5c0c50b89dd0e",
+          "endTime": "2021-04-03T09:50:21.541Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1408,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T09:54:46.207Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 93,
+            "TIME_ALIVE_STAT": 106,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 7,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "49991a7bf3f94b34bd1ad886f28d9dbe",
+          "endTime": "2021-04-03T10:19:54.905Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1370,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:40.103Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:12:32.587Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1299,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "e8ab2f32-267a-4c89-b505-cbee7c9626a0"
+      ],
+      "teamId": "e8ab2f32267a4c89b505cbee7c9626a0",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_spain"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 16.0,
+          "pointsEarned": 16.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 136,
+      "rank": 24,
+      "score": 2394784238248409,
+      "sessionHistory": [
+        {
+          "sessionId": "62eb8a06474346a894fb65f6d5e31ec5",
+          "endTime": "2021-04-03T08:09:18.793Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 333,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5b58e273724a4ffcbf7c2b4109938f52",
+          "endTime": "2021-04-03T08:34:49.835Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1437,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T08:54:07.793Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 864,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:07:26.541Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 48,
+            "TIME_ALIVE_STAT": 481,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 52,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:32:49.156Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1340,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T10:01:25.405Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:29:09.495Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1307,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:51:30.884Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1204,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:57.073Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1365,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "91db8f6e-fe5e-486f-8ef5-c76fb7f82cd4"
+      ],
+      "teamId": "91db8f6efe5e486f8ef5c76fb7f82cd4",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 136,
+      "rank": 25,
+      "score": 2393707548403116,
+      "sessionHistory": [
+        {
+          "sessionId": "f02ff6c05b594f3b979fe5884758e9dc",
+          "endTime": "2021-04-03T08:24:11.464Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1202,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "371dc9a37b314cdda5e90e095a1d6fa3",
+          "endTime": "2021-04-03T08:49:14.449Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1343,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:16:59.512Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:41:06.311Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1319,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T10:04:44.213Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1264,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:12:03.145Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 71,
+            "TIME_ALIVE_STAT": 268,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 29,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:44.217Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1379,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T11:06:03.526Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1514,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "fe6342e8-9aa9-4ec7-903a-3bd1088e5aac"
+      ],
+      "teamId": "fe6342e89aa94ec7903a3bd1088e5aac",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 15.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 136,
+      "rank": 26,
+      "score": 2393681766916109,
+      "sessionHistory": [
+        {
+          "sessionId": "c3a8fa58aac84947b74ae2a997662f88",
+          "endTime": "2021-04-03T08:14:41.224Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 687,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6421b2fa65d4435abd2af76e6b92ea23",
+          "endTime": "2021-04-03T08:17:26.747Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 93,
+            "TIME_ALIVE_STAT": 72,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 7,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "36d15849a27d492b89e9b3bb6ea203f4",
+          "endTime": "2021-04-03T08:36:43.519Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 968,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "06272c51059349c393e80d6957b53bbf",
+          "endTime": "2021-04-03T08:53:08.242Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 397,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3df06c1cfbba4a4da6b5404475e58f60",
+          "endTime": "2021-04-03T09:17:35.613Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "345e521ede6648ae9326c654af7b8b37",
+          "endTime": "2021-04-03T09:45:30.1Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1320,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:11:19.949Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1406,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:59.615Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1396,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T11:06:46.119Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1559,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "9773c6f1-a4cc-441c-b5e2-2512d18435a0"
+      ],
+      "teamId": "9773c6f1a4cc441cb5e22512d18435a0",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 13.0,
+          "pointsEarned": 13.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 133,
+      "rank": 27,
+      "score": 2339804638373718,
+      "sessionHistory": [
+        {
+          "sessionId": "0b52557098a34f1cbd10850650c1d8ab",
+          "endTime": "2021-04-03T08:26:30.698Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1439,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:49:23.028Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1214,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:16:09.698Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1403,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:40:09.931Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1267,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:05:39.295Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:16:12.244Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 517,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:41.806Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1448,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:25.014Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1354,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "5d946791-d164-4bed-b029-76e6d5cbd342"
+      ],
+      "teamId": "5d946791d1644bedb02976e6d5cbd342",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_germany"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 18.0,
+          "pointsEarned": 18.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 132,
+      "rank": 28,
+      "score": 2323321884025732,
+      "sessionHistory": [
+        {
+          "sessionId": "0fc8dc7a347d4601a7176b89e7218b26",
+          "endTime": "2021-04-03T08:12:10.357Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 42,
+            "TIME_ALIVE_STAT": 537,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 58,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "859a6bee15aa495783d4166f1c008fb3",
+          "endTime": "2021-04-03T08:37:35.048Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1465,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T08:42:23.931Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 82,
+            "TIME_ALIVE_STAT": 138,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 18,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T09:08:58.192Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1448,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:36:39.769Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1386,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:00:21.672Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 1086,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:26:49.775Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1483,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:53:41.883Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1342,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:24.781Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1335,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "c1e6ddae-d2ea-4691-979c-ee31c7ec6fba"
+      ],
+      "teamId": "c1e6ddaed2ea4691979cee31c7ec6fba",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 29.0,
+          "pointsEarned": 29.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 131,
+      "rank": 29,
+      "score": 2305753838361399,
+      "sessionHistory": [
+        {
+          "sessionId": "260c1368d4cc412196f7223277ab0cc5",
+          "endTime": "2021-04-03T08:19:26.858Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 857,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3881ca1372974ad9b1214197bd5fc38a",
+          "endTime": "2021-04-03T08:44:45.498Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1354,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T08:53:09.406Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 76,
+            "TIME_ALIVE_STAT": 223,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 24,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "38b7c686fb4748d1a824191d9fb2d7f7",
+          "endTime": "2021-04-03T09:06:56.617Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 58,
+            "TIME_ALIVE_STAT": 449,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 42,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "438b19786668422686600c53242920a2",
+          "endTime": "2021-04-03T09:42:07.43Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1438,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T10:06:23.104Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1362,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:36:10.265Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:44:50.98Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 189,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:53:43.319Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 143,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:32.728Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 1285,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "42ac382a-c672-4055-ade3-2e700a1ed9b3"
+      ],
+      "teamId": "42ac382ac6724055ade32e700a1ed9b3",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 25.0,
+          "pointsEarned": 25.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 130,
+      "rank": 30,
+      "score": 2289250411287999,
+      "sessionHistory": [
+        {
+          "sessionId": "0fcd8e9e495f4ca383a38d1608cb3c50",
+          "endTime": "2021-04-03T08:03:59.977Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 164,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "bc56dfd71c674309829610d566a911af",
+          "endTime": "2021-04-03T08:29:25.438Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1426,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:55:42.543Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1348,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:06:11.67Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 57,
+            "TIME_ALIVE_STAT": 406,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 43,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:33:12.098Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1361,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:41:27.643Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 224,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T09:44:58.977Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 94,
+            "TIME_ALIVE_STAT": 83,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 6,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:11:25.465Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1411,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:18:59.753Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 90,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:29:32.054Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 46,
+            "TIME_ALIVE_STAT": 433,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 54,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "211e8023-3877-4131-86fa-4dc49037a554"
+      ],
+      "teamId": "211e80233877413186fa4dc49037a554",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 36.0,
+          "pointsEarned": 36.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 130,
+      "rank": 31,
+      "score": 2288180440013534,
+      "sessionHistory": [
+        {
+          "sessionId": "d1c6471dd797495e92564cd0758fbde8",
+          "endTime": "2021-04-03T08:26:37.37Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1345,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:44:43.745Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 953,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:02:19.803Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 37,
+            "TIME_ALIVE_STAT": 773,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 63,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:23:23.159Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1181,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:52:27.978Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1486,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:00:30.773Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 79,
+            "TIME_ALIVE_STAT": 156,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 21,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:50.834Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1421,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:33:09.184Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 76,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:52:41.81Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 908,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:01:55.764Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 76,
+            "TIME_ALIVE_STAT": 289,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 24,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1fb89e22-2dbd-4099-a80d-38fe3a56164a"
+      ],
+      "teamId": "1fb89e222dbd4099a80d38fe3a56164a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 25.0,
+          "pointsEarned": 25.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 130,
+      "rank": 32,
+      "score": 2288158434057667,
+      "sessionHistory": [
+        {
+          "sessionId": "fb2360f74ab44861bc3e58f415a01d5e",
+          "endTime": "2021-04-03T08:34:00.87Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1396,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T08:38:50.376Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 89,
+            "TIME_ALIVE_STAT": 101,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 11,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4a0f2e728854488080507d4524a371c0",
+          "endTime": "2021-04-03T08:46:46.806Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 80,
+            "TIME_ALIVE_STAT": 119,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 20,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "94957642e9f746b4b3e2031ea3714a87",
+          "endTime": "2021-04-03T09:10:48.592Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1272,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "345e521ede6648ae9326c654af7b8b37",
+          "endTime": "2021-04-03T09:46:48.616Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T09:57:34.352Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 274,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:24:52.459Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:48:16.321Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1290,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:33.231Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1363,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "4cd6ece2-d64e-4f79-8273-f9191913e32c"
+      ],
+      "teamId": "4cd6ece2d64e4f798273f9191913e32c",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 130,
+      "rank": 33,
+      "score": 2287043359546817,
+      "sessionHistory": [
+        {
+          "sessionId": "eef5c7e15e354b6195e2b612a809ec86",
+          "endTime": "2021-04-03T08:09:55.319Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 49,
+            "TIME_ALIVE_STAT": 417,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 51,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50c832851182442f8beb9fad4886edba",
+          "endTime": "2021-04-03T08:27:17.179Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 983,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "12476a20abad472b95696a8be3b9b203",
+          "endTime": "2021-04-03T08:32:57.021Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 70,
+            "TIME_ALIVE_STAT": 153,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 30,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T09:00:45.781Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1457,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:28:24.35Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1498,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:40:20.878Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 84,
+            "TIME_ALIVE_STAT": 158,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 16,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:04:30.096Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1347,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:28:53.638Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1291,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:51:26.582Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 838,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:20:06.833Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1374,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "ee27298f-be78-4a56-bfd4-40aef7530f93"
+      ],
+      "teamId": "ee27298fbe784a56bfd440aef7530f93",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 128,
+      "rank": 34,
+      "score": 2252968158206862,
+      "sessionHistory": [
+        {
+          "sessionId": "1083048f5f6a45cf95d6a1342dd9aef3",
+          "endTime": "2021-04-03T08:39:13.772Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1299,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "32f9d65d8ed24cd2addd0980dff84973",
+          "endTime": "2021-04-03T09:02:12.298Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1211,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3e325d9e259849d5ab6cd6c3b0445741",
+          "endTime": "2021-04-03T09:14:35.744Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 631,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3f1de7a2759242a084730d2d8ab44372",
+          "endTime": "2021-04-03T09:26:11.588Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 73,
+            "TIME_ALIVE_STAT": 166,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 27,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c46946394c2344baa8a08f492afba1d6",
+          "endTime": "2021-04-03T09:51:28.295Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 61,
+            "TIME_ALIVE_STAT": 260,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 39,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "61af58b1850e4dd59e881f1280558b64",
+          "endTime": "2021-04-03T10:15:36.211Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1409,
+            "TEAM_ELIMS_STAT_INDEX": 14,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:25:15.443Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 69,
+            "TIME_ALIVE_STAT": 174,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 31,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:50:07.752Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1407,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c18162ca230b411ead3cf42484eb5d80",
+          "endTime": "2021-04-03T11:15:07.61Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1373,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "7b1ce9bb-305a-4944-b6ab-fa24eaba4018"
+      ],
+      "teamId": "7b1ce9bb305a4944b6abfa24eaba4018",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 29.0,
+          "pointsEarned": 29.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 35,
+      "score": 2236484590409446,
+      "sessionHistory": [
+        {
+          "sessionId": "a08608ac2745416ab96fad8694f02916",
+          "endTime": "2021-04-03T08:29:27.438Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1242,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:34:36.108Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 92,
+            "TIME_ALIVE_STAT": 85,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 8,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T08:41:30.051Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 146,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T09:08:58.656Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1448,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:38:43.677Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1516,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T10:02:57.767Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 1158,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:08:56.823Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 92,
+            "TIME_ALIVE_STAT": 81,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 8,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:18:12.98Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 66,
+            "TIME_ALIVE_STAT": 295,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 34,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:41:29.818Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 37,
+            "TIME_ALIVE_STAT": 867,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 63,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:54:20.372Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 38,
+            "TIME_ALIVE_STAT": 479,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 62,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "ad53e398-b588-4b15-a797-ba0a61658cc4"
+      ],
+      "teamId": "ad53e398b5884b15a797ba0a61658cc4",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 36,
+      "score": 2236468492474703,
+      "sessionHistory": [
+        {
+          "sessionId": "1b214c3193f940d784ae14ac54c42113",
+          "endTime": "2021-04-03T08:35:29.827Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1478,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T08:43:00.927Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 58,
+            "TIME_ALIVE_STAT": 237,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 42,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:48:15.039Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 207,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:16:54.266Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1450,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:20:13.923Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 92,
+            "TIME_ALIVE_STAT": 85,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 8,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:59:15.333Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1291,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "68c69ef8e1be46e784352554d799b850",
+          "endTime": "2021-04-03T10:37:09.055Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1423,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:43:58.592Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 73,
+            "TIME_ALIVE_STAT": 137,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 27,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:54:44.616Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 35,
+            "TIME_ALIVE_STAT": 504,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 65,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:25.189Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 1278,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "6b7ac0e1-4817-42b0-b50f-e4099c4a4c00"
+      ],
+      "teamId": "6b7ac0e1481742b0b50fe4099c4a4c00",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_global"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 37,
+      "score": 2236452391754489,
+      "sessionHistory": [
+        {
+          "sessionId": "c9cbd743c0ac40cb9f6b96922d95f63d",
+          "endTime": "2021-04-03T08:04:38.096Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 69,
+            "TIME_ALIVE_STAT": 117,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 31,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "f9c78297a9f24edd985cf08a3767b50b",
+          "endTime": "2021-04-03T08:32:08.495Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1354,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T08:41:13.944Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 71,
+            "TIME_ALIVE_STAT": 245,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 29,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:17:10.406Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1467,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:46:40.59Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1356,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:05:05.619Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 36,
+            "TIME_ALIVE_STAT": 1014,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 64,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:31:45.377Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1471,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:39:47.906Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 62,
+            "TIME_ALIVE_STAT": 171,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 38,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:48:25.459Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 122,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:12:46.354Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1313,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "2980e184-2f50-4b5f-8af4-3b2425f22f9d"
+      ],
+      "teamId": "2980e1842f504b5f8af43b2425f22f9d",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_france"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 35.0,
+          "pointsEarned": 35.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 38,
+      "score": 2235401203097196,
+      "sessionHistory": [
+        {
+          "sessionId": "74e17c7202a645a7840c4ffc8137f508",
+          "endTime": "2021-04-03T08:31:13.389Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1389,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:44:56.529Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 41,
+            "TIME_ALIVE_STAT": 705,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 59,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:03:11.295Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 824,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:30:35.125Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1306,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:51:59.951Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 1153,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:20:46.231Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1408,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:25:01.624Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 74,
+            "TIME_ALIVE_STAT": 160,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 26,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:29:07.417Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 90,
+            "TIME_ALIVE_STAT": 123,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 10,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:54:06.184Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1368,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:37.278Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1290,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "93259d35-eed1-4fe0-aa47-b00206f953b1"
+      ],
+      "teamId": "93259d35eed14fe0aa47b00206f953b1",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_saudiarabia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 10.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 25.0,
+          "pointsEarned": 25.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 39,
+      "score": 2235374358895084,
+      "sessionHistory": [
+        {
+          "sessionId": "11d3ef1e32e04603a18a5ade922979a2",
+          "endTime": "2021-04-03T08:24:25.342Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1435,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:40:08.697Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 42,
+            "TIME_ALIVE_STAT": 690,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 58,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:57:03.236Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 41,
+            "TIME_ALIVE_STAT": 735,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 59,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:09:48.649Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 56,
+            "TIME_ALIVE_STAT": 341,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 44,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5ff1a85f9a934349838f8a662ca1cc8a",
+          "endTime": "2021-04-03T09:16:32.394Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 164,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "438b19786668422686600c53242920a2",
+          "endTime": "2021-04-03T09:41:07.814Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1375,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T09:48:30.437Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 294,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:02:32.044Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 573,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:31:20.824Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1445,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:58:35.809Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1239,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "070f6080-b689-4ffa-b3a3-a23254e1d44b"
+      ],
+      "teamId": "070f6080b6894ffab3a3a23254e1d44b",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_italy"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 12.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 40,
+      "score": 2235342959157249,
+      "sessionHistory": [
+        {
+          "sessionId": "66facbdc8c5045d9a379887ed32eb478",
+          "endTime": "2021-04-03T08:28:27.181Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1383,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "94957642e9f746b4b3e2031ea3714a87",
+          "endTime": "2021-04-03T09:11:24.499Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1305,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:35:39.865Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:39:48.06Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 125,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:04:38.67Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1356,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:28:59.416Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1297,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:32:43.203Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 94,
+            "TIME_ALIVE_STAT": 50,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 6,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:55:31.633Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1067,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:58.635Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1311,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a0f0d3af-6c94-48b7-ab88-765987e7b9a5"
+      ],
+      "teamId": "a0f0d3af6c9448b7ab88765987e7b9a5",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 26.0,
+          "pointsEarned": 26.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 41,
+      "score": 2234285317086143,
+      "sessionHistory": [
+        {
+          "sessionId": "143d62124e4d4a21b75487aece35a084",
+          "endTime": "2021-04-03T08:07:18.607Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 52,
+            "TIME_ALIVE_STAT": 305,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 48,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "fb2360f74ab44861bc3e58f415a01d5e",
+          "endTime": "2021-04-03T08:33:22.155Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1355,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T08:58:39.188Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1324,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:08:41.719Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 62,
+            "TIME_ALIVE_STAT": 275,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 38,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1e32e1283302461eab1bd8eeda5b21e5",
+          "endTime": "2021-04-03T09:35:32.174Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1399,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "61c383fcb00f4643a66258f8ab70a265",
+          "endTime": "2021-04-03T10:12:50.13Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 315,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3d0d965606314cb79cfd4291f223c781",
+          "endTime": "2021-04-03T10:18:51.958Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 90,
+            "TIME_ALIVE_STAT": 99,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 10,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8891f13243994a95ab80cb28e0be8db8",
+          "endTime": "2021-04-03T10:44:57.486Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1409,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "44d3bf1f9f7048a689a7f2d0e34dd60f",
+          "endTime": "2021-04-03T11:10:49.8Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1501,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "90240417-68ef-42f3-9ccb-2e65a28a7733"
+      ],
+      "teamId": "9024041768ef42f39ccb2e65a28a7733",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_saudiarabia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 127,
+      "rank": 42,
+      "score": 2234269475118018,
+      "sessionHistory": [
+        {
+          "sessionId": "e82e0b0acd5740a196eb06c92dcaba8b",
+          "endTime": "2021-04-03T08:27:31.294Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1413,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:37:00.136Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 67,
+            "TIME_ALIVE_STAT": 229,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 33,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T08:43:05.338Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 79,
+            "TIME_ALIVE_STAT": 180,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 21,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T08:54:15.663Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 70,
+            "TIME_ALIVE_STAT": 289,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 30,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "38b7c686fb4748d1a824191d9fb2d7f7",
+          "endTime": "2021-04-03T09:17:28.007Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1078,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "345e521ede6648ae9326c654af7b8b37",
+          "endTime": "2021-04-03T09:26:54.889Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 210,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4978b61fed15402ab18f5b21002af6e1",
+          "endTime": "2021-04-03T09:56:24.955Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1457,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:19:50.436Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1349,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:49:10.757Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1347,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c18162ca230b411ead3cf42484eb5d80",
+          "endTime": "2021-04-03T11:14:24.611Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1330,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "e845b978-ac38-4d5a-8e86-9d8538fe8bce"
+      ],
+      "teamId": "e845b978ac384d5a8e869d8538fe8bce",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 126,
+      "rank": 43,
+      "score": 2217774121590373,
+      "sessionHistory": [
+        {
+          "sessionId": "bc35f1c3015940cf8edffb5c9a0363a1",
+          "endTime": "2021-04-03T08:25:29.158Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1450,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:50:09.801Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1258,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:14:25.452Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1189,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:40:21.127Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1277,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:04:27.879Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1344,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:30:41.394Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1404,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:41:55.879Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 299,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:47:56.804Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 84,
+            "TIME_ALIVE_STAT": 93,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 16,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:52:05.61Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 98,
+            "TIME_ALIVE_STAT": 46,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 2,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:54.097Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1363,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "db11b4c9-c953-42ed-a44b-50ca51beb086"
+      ],
+      "teamId": "db11b4c9c95342eda44b50ca51beb086",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_scotland"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 125,
+      "rank": 44,
+      "score": 2201281434228976,
+      "sessionHistory": [
+        {
+          "sessionId": "0fcd8e9e495f4ca383a38d1608cb3c50",
+          "endTime": "2021-04-03T08:24:45.746Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1456,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:30:26.723Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 91,
+            "TIME_ALIVE_STAT": 110,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 9,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:53:30.51Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1217,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:01:39.521Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 84,
+            "TIME_ALIVE_STAT": 134,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 16,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "69da1c01169c4852bd761fa253761207",
+          "endTime": "2021-04-03T09:32:43.474Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 863,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "83385c30ed9645eeb9f55dc58e41d4b9",
+          "endTime": "2021-04-03T09:40:58.416Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 196,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T09:47:12.479Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 216,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "60e93f9cb72644319fa7d734a2f70759",
+          "endTime": "2021-04-03T10:07:06.221Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 892,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "68e04d8898124ea89d1d0a6c365b0849",
+          "endTime": "2021-04-03T10:35:31.283Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1340,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T11:06:46.118Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1559,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "df84fbb2-7b54-4a6f-8981-e0bf3c28aa1b"
+      ],
+      "teamId": "df84fbb27b544a6f8981e0bf3c28aa1b",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 125,
+      "rank": 45,
+      "score": 2200200201741145,
+      "sessionHistory": [
+        {
+          "sessionId": "26643b1b54194812af76307c84d62244",
+          "endTime": "2021-04-03T08:22:07.954Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1287,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:50:16.288Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1340,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:15:44.641Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1377,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:36:22.467Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 37,
+            "TIME_ALIVE_STAT": 766,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 63,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d6e8a362da244c1b493362a70f52575",
+          "endTime": "2021-04-03T09:43:08.383Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 98,
+            "TIME_ALIVE_STAT": 45,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 2,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca3e3ca1698f4d3782ab6591442dd0c0",
+          "endTime": "2021-04-03T10:12:40.088Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1510,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8891f13243994a95ab80cb28e0be8db8",
+          "endTime": "2021-04-03T10:44:57.487Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1409,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:12:49.696Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1317,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "2ab2287a-13b9-40b6-b67b-89f07147f0c3"
+      ],
+      "teamId": "2ab2287a13b940b6b67b89f07147f0c3",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_england"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 27.0,
+          "pointsEarned": 27.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 125,
+      "rank": 46,
+      "score": 2200195352730345,
+      "sessionHistory": [
+        {
+          "sessionId": "11d3ef1e32e04603a18a5ade922979a2",
+          "endTime": "2021-04-03T08:24:25.342Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1435,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:51:04.147Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1309,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:16:10.203Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1299,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:42:22.828Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:05:24.481Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 35,
+            "TIME_ALIVE_STAT": 1033,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 65,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:29:42.011Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1341,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:37:55.371Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 53,
+            "TIME_ALIVE_STAT": 362,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 47,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:43:59.977Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 138,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:48:14.438Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 80,
+            "TIME_ALIVE_STAT": 111,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 20,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:54:26.504Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 187,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a2bcf6ac-4b54-453b-b2bf-491a0b7a369f"
+      ],
+      "teamId": "a2bcf6ac4b54453bb2bf491a0b7a369f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 27.0,
+          "pointsEarned": 27.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 124,
+      "rank": 47,
+      "score": 2182603169635237,
+      "sessionHistory": [
+        {
+          "sessionId": "bb144db19de14e9483243b4006e01952",
+          "endTime": "2021-04-03T08:20:50.243Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 941,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "80050a91f8e747aa83ab6a2f4e909fce",
+          "endTime": "2021-04-03T08:36:28.003Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 818,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9194880c1ea845ba9b8de4529416e2b7",
+          "endTime": "2021-04-03T08:50:29.676Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 39,
+            "TIME_ALIVE_STAT": 640,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 61,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2128f39b7a644a4c8ca2873abfa0d61a",
+          "endTime": "2021-04-03T09:16:54.737Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1503,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:42:05.858Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1375,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:11:42.768Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1430,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:26:52.675Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 40,
+            "TIME_ALIVE_STAT": 568,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 60,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:48:00.042Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 983,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:52:15.84Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 95,
+            "TIME_ALIVE_STAT": 56,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 5,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:05:54.321Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 66,
+            "TIME_ALIVE_STAT": 526,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 34,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "805b6624-380b-4fd9-a5b1-71726c5f2971"
+      ],
+      "teamId": "805b6624380b4fd9a5b171726c5f2971",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 31.0,
+          "pointsEarned": 31.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 123,
+      "rank": 48,
+      "score": 2166121221494829,
+      "sessionHistory": [
+        {
+          "sessionId": "0f443bb49ad346658b3ccdf8b8be4ae8",
+          "endTime": "2021-04-03T08:28:21.88Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1294,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:35:27.058Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 136,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T09:03:54.035Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1145,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:12:57.752Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 253,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "69da1c01169c4852bd761fa253761207",
+          "endTime": "2021-04-03T09:25:27.995Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 419,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "770a7f42a6c54463b269a1fc3316b43e",
+          "endTime": "2021-04-03T09:35:26.209Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 53,
+            "TIME_ALIVE_STAT": 439,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 47,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a0d450bf65404c789bb7d2fc5492c2c5",
+          "endTime": "2021-04-03T10:05:21.641Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 80,
+            "TIME_ALIVE_STAT": 163,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 20,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "45c140edb30741bb84ee7c54e4b9ec3d",
+          "endTime": "2021-04-03T10:30:49.952Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1445,
+            "TEAM_ELIMS_STAT_INDEX": 13,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "738b02ffa56e43798b8e8e74903f1ca5",
+          "endTime": "2021-04-03T10:54:20.524Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1112,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:15.026Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1326,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "71524d66-8f39-4f71-8944-72e5e03fbc60"
+      ],
+      "teamId": "71524d668f394f71894472e5e03fbc60",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 30.0,
+          "pointsEarned": 30.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 123,
+      "rank": 49,
+      "score": 2166118534518733,
+      "sessionHistory": [
+        {
+          "sessionId": "41697996b36449b1a98237c956dbb55d",
+          "endTime": "2021-04-03T08:26:26.322Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1316,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:32:54.502Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 257,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "711ade53ef4749ce9bd58ae274b500ea",
+          "endTime": "2021-04-03T08:42:01.879Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 293,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:49:25.036Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 70,
+            "TIME_ALIVE_STAT": 277,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 30,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T08:54:50.119Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 89,
+            "TIME_ALIVE_STAT": 94,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 11,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:06:48.899Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 443,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64247c5ad21a4ce38102843d159ba979",
+          "endTime": "2021-04-03T09:32:54.047Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1476,
+            "TEAM_ELIMS_STAT_INDEX": 13,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:58:50.377Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1266,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:22.734Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:45:01.931Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 37,
+            "TIME_ALIVE_STAT": 796,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 63,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "933b3448-6f24-4cd9-b7c0-1b36e8290713"
+      ],
+      "teamId": "933b34486f244cd9b7c01b36e8290713",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 20.0,
+          "pointsEarned": 20.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 123,
+      "rank": 50,
+      "score": 2165005634429248,
+      "sessionHistory": [
+        {
+          "sessionId": "66facbdc8c5045d9a379887ed32eb478",
+          "endTime": "2021-04-03T08:28:27.182Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1383,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:47:24.2Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 36,
+            "TIME_ALIVE_STAT": 852,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 64,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:10:58.753Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1289,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:38:38.097Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1510,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:05:16.58Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1395,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:35:36.153Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1363,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:48:21.21Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 400,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:56:35.971Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 53,
+            "TIME_ALIVE_STAT": 316,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 47,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "d1325df6-aae5-4ee6-9596-1ce9bb449b0e"
+      ],
+      "teamId": "d1325df6aae54ee695961ce9bb449b0e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 123,
+      "rank": 51,
+      "score": 2165001059442210,
+      "sessionHistory": [
+        {
+          "sessionId": "656cf36005da412984f667d3e77ef747",
+          "endTime": "2021-04-03T08:30:42.048Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1515,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:55:53.498Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:02:29.296Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 74,
+            "TIME_ALIVE_STAT": 183,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 26,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:18:31.248Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 586,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:45:55.764Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1314,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:11:06.287Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:26:05.308Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 519,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:37:52.044Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 359,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T11:05:00.49Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1448,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "10740712-61ae-4fdb-b433-099c4c8cc527"
+      ],
+      "teamId": "1074071261ae4fdbb433099c4c8cc527",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 14.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 123,
+      "rank": 52,
+      "score": 2164980385357388,
+      "sessionHistory": [
+        {
+          "sessionId": "e82e0b0acd5740a196eb06c92dcaba8b",
+          "endTime": "2021-04-03T08:26:23.12Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1341,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4cc4ef70fb65478db471b13888839220",
+          "endTime": "2021-04-03T08:51:08.266Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1433,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T08:55:48.687Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 97,
+            "TIME_ALIVE_STAT": 60,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 3,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:23:55.313Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1497,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:50:45.796Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1378,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:12:14.728Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 1178,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:22:38.511Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 309,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:32:24.253Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 320,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:57:58.49Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1204,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "9f079469-8d1d-401c-9cfc-6da1333dea74"
+      ],
+      "teamId": "9f0794698d1d401c9cfc6da1333dea74",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 30.0,
+          "pointsEarned": 30.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 122,
+      "rank": 53,
+      "score": 2148526346671529,
+      "sessionHistory": [
+        {
+          "sessionId": "3a0c3b7433c848da8cab122da8de2c51",
+          "endTime": "2021-04-03T08:32:25.108Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 53,
+            "TIME_ALIVE_STAT": 287,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 47,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2a5205345d1b48bd9787e0ddf14370d9",
+          "endTime": "2021-04-03T08:36:21.901Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 106,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5e94cbfbb19f4a62a73e4758af2af4de",
+          "endTime": "2021-04-03T09:04:38.3Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1240,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "29033334aa324fd9a751f1e31a3c8fac",
+          "endTime": "2021-04-03T09:30:02.413Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:56:40.731Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1432,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:05:52.877Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 70,
+            "TIME_ALIVE_STAT": 179,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 30,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:35:20.461Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1346,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:42:37.168Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 97,
+            "TIME_ALIVE_STAT": 56,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 3,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:50:08.014Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 225,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c18162ca230b411ead3cf42484eb5d80",
+          "endTime": "2021-04-03T11:03:16.598Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 34,
+            "TIME_ALIVE_STAT": 666,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "bb87c399-da1b-49fe-82ef-5a1b4f7d9513"
+      ],
+      "teamId": "bb87c399da1b49fe82ef5a1b4f7d9513",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 122,
+      "rank": 54,
+      "score": 2147434658194794,
+      "sessionHistory": [
+        {
+          "sessionId": "41e799fef2f64d8b8f66e0c302bec868",
+          "endTime": "2021-04-03T08:54:15.273Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1421,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:19:48.773Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 1237,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "345e521ede6648ae9326c654af7b8b37",
+          "endTime": "2021-04-03T09:46:27.193Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1377,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:10:57.899Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1382,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:37:29.076Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1481,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:46:24.816Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 56,
+            "TIME_ALIVE_STAT": 283,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 44,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:10:56.074Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 1198,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "4fc659bb-057d-4881-bc56-3d10b04239d8"
+      ],
+      "teamId": "4fc659bb057d4881bc563d10b04239d8",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_ireland"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 27.0,
+          "pointsEarned": 27.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 122,
+      "rank": 55,
+      "score": 2147418796399223,
+      "sessionHistory": [
+        {
+          "sessionId": "62eb8a06474346a894fb65f6d5e31ec5",
+          "endTime": "2021-04-03T08:23:03.048Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1198,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "343b017c16364f6c891c84609e167afb",
+          "endTime": "2021-04-03T08:32:33.355Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 66,
+            "TIME_ALIVE_STAT": 294,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 34,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "0b032cf4ab274d569a1867acd048e439",
+          "endTime": "2021-04-03T08:57:56.533Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1377,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:06:18.514Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 56,
+            "TIME_ALIVE_STAT": 413,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 44,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64247c5ad21a4ce38102843d159ba979",
+          "endTime": "2021-04-03T09:18:07.897Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 42,
+            "TIME_ALIVE_STAT": 545,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 58,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "345e521ede6648ae9326c654af7b8b37",
+          "endTime": "2021-04-03T09:25:05.17Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 87,
+            "TIME_ALIVE_STAT": 100,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 13,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "770a7f42a6c54463b269a1fc3316b43e",
+          "endTime": "2021-04-03T09:42:39.124Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 859,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c75e4cbb4d434abbaa2dbbd022876328",
+          "endTime": "2021-04-03T10:09:44.182Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1393,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "68c69ef8e1be46e784352554d799b850",
+          "endTime": "2021-04-03T10:26:51.091Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 845,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:55:12.376Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1437,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "60545900-be27-4292-92f4-0daccfad9188"
+      ],
+      "teamId": "60545900be27429292f40daccfad9188",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 26.0,
+          "pointsEarned": 26.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 121,
+      "rank": 56,
+      "score": 2129831723556547,
+      "sessionHistory": [
+        {
+          "sessionId": "33ff88ae42014fbdb1b9d4a631e0ce97",
+          "endTime": "2021-04-03T08:13:53.927Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 35,
+            "TIME_ALIVE_STAT": 683,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 65,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "bb323656710e4600b115c64f8d2eb7dd",
+          "endTime": "2021-04-03T08:41:56.389Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1347,
+            "TEAM_ELIMS_STAT_INDEX": 11,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:58:05.665Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 40,
+            "TIME_ALIVE_STAT": 798,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 60,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:26:17.787Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1371,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:34:27.778Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 382,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T10:00:29.847Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1365,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:12:29.759Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 40,
+            "TIME_ALIVE_STAT": 579,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 60,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:32:38.981Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 932,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "738b02ffa56e43798b8e8e74903f1ca5",
+          "endTime": "2021-04-03T10:58:49.493Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1395,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "afd55c40-e893-457e-a7b2-efb9b9369cbd"
+      ],
+      "teamId": "afd55c40e893457ea7b2efb9b9369cbd",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 19.0,
+          "pointsEarned": 19.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 121,
+      "rank": 57,
+      "score": 2129818039886559,
+      "sessionHistory": [
+        {
+          "sessionId": "f99a0be7d03642ed9700ad792bf2bf1c",
+          "endTime": "2021-04-03T08:42:25.399Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1429,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T08:56:52.62Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 724,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:22:45.473Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1423,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:52:58.57Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1518,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:13:20.788Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 940,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:25.352Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1360,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:45:10.22Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 61,
+            "TIME_ALIVE_STAT": 209,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 39,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:12:51.953Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1319,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "973e8074-cc20-4e03-84fc-650d03944ffc"
+      ],
+      "teamId": "973e8074cc204e0384fc650d03944ffc",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 121,
+      "rank": 58,
+      "score": 2128678514269690,
+      "sessionHistory": [
+        {
+          "sessionId": "edc2610aa5394184a70c3eb0683943a2",
+          "endTime": "2021-04-03T08:30:41.17Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1294,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:34:51.285Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 90,
+            "TIME_ALIVE_STAT": 100,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 10,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T08:58:57.215Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1129,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:05:33.951Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 91,
+            "TIME_ALIVE_STAT": 87,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 9,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6163a26f927247baadb663c133ee10fb",
+          "endTime": "2021-04-03T09:33:59.934Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1544,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T10:01:25.405Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:30:37.984Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1400,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:52:44.853Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 911,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:09:34.155Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 59,
+            "TIME_ALIVE_STAT": 747,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 41,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "d3195238-f1d0-4478-9325-bd607a636730"
+      ],
+      "teamId": "d3195238f1d044789325bd607a636730",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 119,
+      "rank": 59,
+      "score": 2095726457674797,
+      "sessionHistory": [
+        {
+          "sessionId": "b6405ae0019b4b40a293ea018e53514f",
+          "endTime": "2021-04-03T08:52:41.143Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 62,
+            "TIME_ALIVE_STAT": 151,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 38,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b633767e111e481a8e3ef1dd4908da71",
+          "endTime": "2021-04-03T09:06:54.295Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 742,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa5e4bd4f4e045dca8ead3a975d05cbb",
+          "endTime": "2021-04-03T09:35:06.454Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1357,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "83385c30ed9645eeb9f55dc58e41d4b9",
+          "endTime": "2021-04-03T10:00:01.5Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1387,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aaf99b602e6b49fc9b0f5cd4ab206df5",
+          "endTime": "2021-04-03T10:24:53.803Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1330,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:31:02.07Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 74,
+            "TIME_ALIVE_STAT": 238,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 26,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "738b02ffa56e43798b8e8e74903f1ca5",
+          "endTime": "2021-04-03T10:44:41.199Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 503,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "44d3bf1f9f7048a689a7f2d0e34dd60f",
+          "endTime": "2021-04-03T11:10:49.801Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1501,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "926fb149-f4db-4ac3-9def-6fd91f2d643d"
+      ],
+      "teamId": "926fb149f4db4ac39def6fd91f2d643d",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_global"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 119,
+      "rank": 60,
+      "score": 2095720007901008,
+      "sessionHistory": [
+        {
+          "sessionId": "64c4bf14d9b44d9a8ac6d7ee12ef4b30",
+          "endTime": "2021-04-03T08:30:01.336Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1403,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:54:34.74Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1281,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:00:55.944Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 91,
+            "TIME_ALIVE_STAT": 90,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 9,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:28:30.097Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1504,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:55:12.026Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1344,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:04:53.072Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 58,
+            "TIME_ALIVE_STAT": 418,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 42,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:28:45.906Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 1283,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:53:56.114Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1357,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:02:44.811Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 73,
+            "TIME_ALIVE_STAT": 338,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 27,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "7a70c5dd-0c6d-45cf-8f7a-d429ddd29ef2"
+      ],
+      "teamId": "7a70c5dd0c6d45cf8f7ad429ddd29ef2",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 30.0,
+          "pointsEarned": 30.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 119,
+      "rank": 61,
+      "score": 2094650284120583,
+      "sessionHistory": [
+        {
+          "sessionId": "4e6e181c68f04dcc965aaaa48eb56fba",
+          "endTime": "2021-04-03T08:37:10.606Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1428,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T08:45:26.903Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 58,
+            "TIME_ALIVE_STAT": 321,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 42,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T08:58:34.929Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 48,
+            "TIME_ALIVE_STAT": 549,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 52,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:05:14.76Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 94,
+            "TIME_ALIVE_STAT": 67,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 6,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64247c5ad21a4ce38102843d159ba979",
+          "endTime": "2021-04-03T09:11:27.683Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 84,
+            "TIME_ALIVE_STAT": 142,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 16,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5ff1a85f9a934349838f8a662ca1cc8a",
+          "endTime": "2021-04-03T09:36:19.267Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1281,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d6e8a362da244c1b493362a70f52575",
+          "endTime": "2021-04-03T10:03:23.14Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1289,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:31:45.377Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1471,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:48:58.72Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 699,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:08:58.344Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 1075,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a4a881da-733d-4ac0-b710-bb38fb671568"
+      ],
+      "teamId": "a4a881da733d4ac0b710bb38fb671568",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 24.0,
+          "pointsEarned": 24.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 119,
+      "rank": 62,
+      "score": 2093541924609251,
+      "sessionHistory": [
+        {
+          "sessionId": "64c4bf14d9b44d9a8ac6d7ee12ef4b30",
+          "endTime": "2021-04-03T08:29:40.156Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1380,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:55:02.482Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1308,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:02:05.107Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 80,
+            "TIME_ALIVE_STAT": 159,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 20,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:31:04.76Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1335,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:56:06.085Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1398,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:21:25.592Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1449,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:41:41.796Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 36,
+            "TIME_ALIVE_STAT": 879,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 64,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:48:45.01Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 73,
+            "TIME_ALIVE_STAT": 142,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 27,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:55:46.003Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 58,
+            "TIME_ALIVE_STAT": 266,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 42,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "6288fe61-495a-4ed1-849e-d0c74616eeee"
+      ],
+      "teamId": "6288fe61495a4ed1849ed0c74616eeee",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 16.0,
+          "pointsEarned": 16.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 119,
+      "rank": 63,
+      "score": 2093523955622371,
+      "sessionHistory": [
+        {
+          "sessionId": "60c3b1c8b6d046cfbea7700fcbe066bc",
+          "endTime": "2021-04-03T08:46:11.327Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1292,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4f57055c4ac943cab679ed759df01039",
+          "endTime": "2021-04-03T09:12:14.662Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1366,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:38:15.046Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1486,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:04:30.308Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1347,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:22:52.487Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 52,
+            "TIME_ALIVE_STAT": 575,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 48,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:32:56.115Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 352,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "738b02ffa56e43798b8e8e74903f1ca5",
+          "endTime": "2021-04-03T10:49:45.426Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 822,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:14:36.678Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1429,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "c178b4e0-d81d-476a-a8f0-5a7f5d8f5b93"
+      ],
+      "teamId": "c178b4e0d81d476aa8f05a7f5d8f5b93",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_poland"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 15.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 119,
+      "rank": 64,
+      "score": 2093510509796637,
+      "sessionHistory": [
+        {
+          "sessionId": "44b57109975e41a0988de9bc90d1dc57",
+          "endTime": "2021-04-03T08:23:21.133Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1354,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:30:33.683Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 123,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64e315a066c0426f97e312b9ae1f9f83",
+          "endTime": "2021-04-03T08:56:19.672Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1389,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:05:25.065Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 89,
+            "TIME_ALIVE_STAT": 77,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 11,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64247c5ad21a4ce38102843d159ba979",
+          "endTime": "2021-04-03T09:29:01.261Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1231,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:43:51.953Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 665,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T09:50:38.013Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 138,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "431fde5c09c840d990e2d84e7503b23a",
+          "endTime": "2021-04-03T10:16:08.165Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1443,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:44:52.516Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1396,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "44d3bf1f9f7048a689a7f2d0e34dd60f",
+          "endTime": "2021-04-03T11:10:45.121Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1496,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "4f6aaaf9-fec0-4a93-baae-6520d215ce37"
+      ],
+      "teamId": "4f6aaaf9fec04a93baae6520d215ce37",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 20.0,
+          "pointsEarned": 20.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 118,
+      "rank": 65,
+      "score": 2077031256988555,
+      "sessionHistory": [
+        {
+          "sessionId": "716668bf30e6469a8ac1fe47768219b8",
+          "endTime": "2021-04-03T08:23:52.536Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1322,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:29:37.033Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 97,
+            "TIME_ALIVE_STAT": 66,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 3,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64e315a066c0426f97e312b9ae1f9f83",
+          "endTime": "2021-04-03T08:57:16.499Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:23:03.587Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1442,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:31:09.665Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 78,
+            "TIME_ALIVE_STAT": 184,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 22,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a943082a83474273881f1d2e6c6ab2e5",
+          "endTime": "2021-04-03T09:54:15.487Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1313,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:06:27.896Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 513,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:34:22.304Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1285,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:50:45.008Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 799,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:04:27.208Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 69,
+            "TIME_ALIVE_STAT": 440,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 31,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "595824d8-261f-48f1-8197-7b5a16572918"
+      ],
+      "teamId": "595824d8261f48f181977b5a16572918",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 15.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 66,
+      "score": 2060525155064227,
+      "sessionHistory": [
+        {
+          "sessionId": "f5aeb5667f1c4fe2ac66a7a1cd7b7dbb",
+          "endTime": "2021-04-03T08:43:57.239Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1405,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T08:52:42.137Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 83,
+            "TIME_ALIVE_STAT": 196,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 17,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3fb3c224af26447db1097862f6701cf0",
+          "endTime": "2021-04-03T09:18:04.93Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1394,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:46:27.656Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1344,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T09:56:27.18Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 207,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:26.276Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1395,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:31:29.796Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 266,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:47:54.104Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 639,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:52:06.584Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 97,
+            "TIME_ALIVE_STAT": 47,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 3,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:53.031Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1305,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "6e6a5c28-287f-4565-83f1-c8678a17913c"
+      ],
+      "teamId": "6e6a5c28287f456583f1c8678a17913c",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 30.0,
+          "pointsEarned": 30.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 67,
+      "score": 2059474784706387,
+      "sessionHistory": [
+        {
+          "sessionId": "0b52557098a34f1cbd10850650c1d8ab",
+          "endTime": "2021-04-03T08:26:30.699Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1439,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:50:20.894Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1268,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:17:21.563Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1374,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:32:08.003Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 46,
+            "TIME_ALIVE_STAT": 517,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 54,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:40:49.389Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 80,
+            "TIME_ALIVE_STAT": 186,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 20,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:00:09.202Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 1073,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:18:52.826Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 679,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:41:56.717Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1211,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:06:52.834Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1270,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "fc1158d5-dc85-4467-bd1d-20209521e6ef"
+      ],
+      "teamId": "fc1158d5dc854467bd1d20209521e6ef",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_scotland"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 29.0,
+          "pointsEarned": 29.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 68,
+      "score": 2059463232101181,
+      "sessionHistory": [
+        {
+          "sessionId": "8d222624900240c8b190b4208bf2e352",
+          "endTime": "2021-04-03T08:10:21.252Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 529,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1e8b6ae8982c4f3bbfb364eb6dac713e",
+          "endTime": "2021-04-03T08:36:06.04Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1462,
+            "TEAM_ELIMS_STAT_INDEX": 14,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T09:02:29.55Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1340,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:10:24.529Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 96,
+            "TIME_ALIVE_STAT": 54,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 4,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:35:22.118Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1304,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:44:16.093Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 61,
+            "TIME_ALIVE_STAT": 393,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 39,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:11:07.522Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1393,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:18.293Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1352,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:46:31.205Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 290,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:01:15.452Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 597,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "751b62c5-014b-44f8-974e-f8f282006d7d"
+      ],
+      "teamId": "751b62c5014b44f8974ef8f282006d7d",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 69,
+      "score": 2059462688807096,
+      "sessionHistory": [
+        {
+          "sessionId": "d5de232e3c904392848e8f33e6aeb291",
+          "endTime": "2021-04-03T09:29:59.216Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1365,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "682e78a226684034b5b21d49ecdb30b8",
+          "endTime": "2021-04-03T09:35:15.668Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 177,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8221ae5fad83416bb54ef9ddafcf771b",
+          "endTime": "2021-04-03T09:43:08.986Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 329,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "d4c698567138496aae4de63c4376d3aa",
+          "endTime": "2021-04-03T09:48:31.169Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 85,
+            "TIME_ALIVE_STAT": 82,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 15,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5dff256059a14b1e93dbac2a2f97bc1b",
+          "endTime": "2021-04-03T10:15:07.003Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1453,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3d0d965606314cb79cfd4291f223c781",
+          "endTime": "2021-04-03T10:40:08.289Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1411,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:48:35.299Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 76,
+            "TIME_ALIVE_STAT": 132,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 24,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:50.302Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1381,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "73481590-206d-4982-a8cf-769e2d7adb02"
+      ],
+      "teamId": "73481590206d4982a8cf769e2d7adb02",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 70,
+      "score": 2059454112996998,
+      "sessionHistory": [
+        {
+          "sessionId": "11d3ef1e32e04603a18a5ade922979a2",
+          "endTime": "2021-04-03T08:23:44.921Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1392,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:49:45.301Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1307,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T08:56:03.835Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 168,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "38b7c686fb4748d1a824191d9fb2d7f7",
+          "endTime": "2021-04-03T09:22:19.101Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1368,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:50:53.449Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1386,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T09:57:06.534Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 70,
+            "TIME_ALIVE_STAT": 246,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 30,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:08.887Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1376,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:47:44.636Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1257,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:56:01.222Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 281,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "f24c9bea-62d6-42ce-bc0f-3a53cd714e6d"
+      ],
+      "teamId": "f24c9bea62d642cebc0f3a53cd714e6d",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 25.0,
+          "pointsEarned": 25.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 71,
+      "score": 2059452500417503,
+      "sessionHistory": [
+        {
+          "sessionId": "570759ba137d47b4b0d1aae4d5457ddd",
+          "endTime": "2021-04-03T08:29:00.762Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1249,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:53:08.327Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1195,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "38b7c686fb4748d1a824191d9fb2d7f7",
+          "endTime": "2021-04-03T09:02:48.776Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 201,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:14:15.671Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 62,
+            "TIME_ALIVE_STAT": 331,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 38,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c54c4d17bc5b43199fa69dac3e574b35",
+          "endTime": "2021-04-03T09:24:23.573Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 52,
+            "TIME_ALIVE_STAT": 341,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 48,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "76d49a55818e4a3d890d5ffd0bc19055",
+          "endTime": "2021-04-03T09:41:28.249Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 813,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "d4c698567138496aae4de63c4376d3aa",
+          "endTime": "2021-04-03T10:10:29.866Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1328,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:34:20.68Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1283,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:52:33.999Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 901,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:13.121Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 1266,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "9b7329af-becb-4bcd-90f2-5428f61d7368"
+      ],
+      "teamId": "9b7329afbecb4bcd90f25428f61d7368",
+      "tokens": []
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 10.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 72,
+      "score": 2059447131216656,
+      "sessionHistory": [
+        {
+          "sessionId": "f02ff6c05b594f3b979fe5884758e9dc",
+          "endTime": "2021-04-03T08:25:32.479Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1287,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7777479f83b748febbf648382d4b7360",
+          "endTime": "2021-04-03T08:41:12.802Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 756,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4ba8668faab249bea142180a00b4b395",
+          "endTime": "2021-04-03T09:07:25.643Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1399,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:28:35.925Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1103,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:41:52.801Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 55,
+            "TIME_ALIVE_STAT": 546,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 45,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ca3e3ca1698f4d3782ab6591442dd0c0",
+          "endTime": "2021-04-03T09:51:59.921Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 220,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5b7b9abfea843ce9cbce241375a594f",
+          "endTime": "2021-04-03T10:02:03.35Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 60,
+            "TIME_ALIVE_STAT": 279,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 40,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "61c383fcb00f4643a66258f8ab70a265",
+          "endTime": "2021-04-03T10:11:52.442Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 258,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5c297a318a074e1a9053a9ded4e28d55",
+          "endTime": "2021-04-03T10:39:33.206Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1377,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:09:30.741Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1436,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "e85bae62-d687-412c-a100-bda6e62b7c4c"
+      ],
+      "teamId": "e85bae62d687412ca100bda6e62b7c4c",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 18.0,
+          "pointsEarned": 18.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 117,
+      "rank": 73,
+      "score": 2059433698465726,
+      "sessionHistory": [
+        {
+          "sessionId": "454e89848dcb40e587eda85561899c49",
+          "endTime": "2021-04-03T08:07:08.896Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 118,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7435d1639e794b01822d8b0110fd44d4",
+          "endTime": "2021-04-03T08:10:30.798Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 81,
+            "TIME_ALIVE_STAT": 48,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 19,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b5d55ba1e49844fc8bb0f0c119b80d15",
+          "endTime": "2021-04-03T08:22:53.959Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 40,
+            "TIME_ALIVE_STAT": 595,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 60,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "f4d0034efa4746acbb22a5865b22209d",
+          "endTime": "2021-04-03T08:43:49.523Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1191,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4f57055c4ac943cab679ed759df01039",
+          "endTime": "2021-04-03T08:58:20.888Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 46,
+            "TIME_ALIVE_STAT": 536,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 54,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3e325d9e259849d5ab6cd6c3b0445741",
+          "endTime": "2021-04-03T09:26:29.611Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1381,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:33:56.091Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 88,
+            "TIME_ALIVE_STAT": 69,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 12,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "83385c30ed9645eeb9f55dc58e41d4b9",
+          "endTime": "2021-04-03T10:01:15.691Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1465,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:19:46.24Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 732,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b8d670b55053446784b7aae3e019d7bf",
+          "endTime": "2021-04-03T11:20:43.12Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1456,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "e1555b76-5f28-48d4-80ef-29cb31ce2246"
+      ],
+      "teamId": "e1555b765f2848d480ef29cb31ce2246",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_france"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 28.0,
+          "pointsEarned": 28.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 74,
+      "score": 2041876700192713,
+      "sessionHistory": [
+        {
+          "sessionId": "c4ffd5deb22646ba9ea7f58233addc07",
+          "endTime": "2021-04-03T08:28:55.441Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1333,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64e315a066c0426f97e312b9ae1f9f83",
+          "endTime": "2021-04-03T08:52:53.497Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1184,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3fb3c224af26447db1097862f6701cf0",
+          "endTime": "2021-04-03T09:16:52.698Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:40:04.108Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1261,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d6e8a362da244c1b493362a70f52575",
+          "endTime": "2021-04-03T09:48:29.687Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 366,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "431fde5c09c840d990e2d84e7503b23a",
+          "endTime": "2021-04-03T10:01:02.409Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 39,
+            "TIME_ALIVE_STAT": 490,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 61,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "61c383fcb00f4643a66258f8ab70a265",
+          "endTime": "2021-04-03T10:30:42.804Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1434,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:46:36.367Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 566,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:10:54.599Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 1197,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a8c5dff2-dcfe-447a-a34c-26a56ae90824"
+      ],
+      "teamId": "a8c5dff2dcfe447aa34c26a56ae90824",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_saudiarabia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 27.0,
+          "pointsEarned": 27.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 75,
+      "score": 2041873735556568,
+      "sessionHistory": [
+        {
+          "sessionId": "eef5c7e15e354b6195e2b612a809ec86",
+          "endTime": "2021-04-03T08:23:47.65Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1289,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9a83012a617441d3a12f7f17217e3e7b",
+          "endTime": "2021-04-03T08:50:36.269Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1489,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ca4dffc27b2e4566a101335416af06fb",
+          "endTime": "2021-04-03T09:07:15.095Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 187,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:13:03.068Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 71,
+            "TIME_ALIVE_STAT": 212,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 29,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:30:53.273Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 725,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:50:28.712Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 766,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:15:07.533Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1360,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:59.549Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1396,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:05:14.878Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1167,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1702e7ee-7d46-4185-9bb4-8f5c858508fe"
+      ],
+      "teamId": "1702e7ee7d4641859bb48f5c858508fe",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 76,
+      "score": 2041854934031100,
+      "sessionHistory": [
+        {
+          "sessionId": "20ecc67a85c14dabbd4f0915cf898d4f",
+          "endTime": "2021-04-03T08:22:45.366Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1330,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b0cbfa55f7f74adb983ee31771a37d08",
+          "endTime": "2021-04-03T08:50:19.516Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1343,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:17:11.672Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1363,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:47:51.196Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1422,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:15:12.39Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1365,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:32:48.256Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 942,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:37:53.748Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 57,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:42:59.317Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 89,
+            "TIME_ALIVE_STAT": 78,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 11,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:47:07.463Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 100,
+            "TIME_ALIVE_STAT": 44,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 0,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:02:38.962Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 41,
+            "TIME_ALIVE_STAT": 683,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 59,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "c70e7a88-ca35-4213-93e5-76c7bdb8edc8"
+      ],
+      "teamId": "c70e7a88ca35421393e576c7bdb8edc8",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_wales"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 19.0,
+          "pointsEarned": 19.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 77,
+      "score": 2041844204313314,
+      "sessionHistory": [
+        {
+          "sessionId": "ee583bcdfd584c40be7c86ba57c94f0d",
+          "endTime": "2021-04-03T08:08:14.359Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 77,
+            "TIME_ALIVE_STAT": 84,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 23,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba1de05762a4342b2533ef34d083013",
+          "endTime": "2021-04-03T08:44:47.895Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1307,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "03d10e5c219048098bd583ad0f1c6fdd",
+          "endTime": "2021-04-03T09:10:13.377Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1449,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:21:06.228Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 435,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:47:04.412Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 1147,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:14:32.896Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3d0d965606314cb79cfd4291f223c781",
+          "endTime": "2021-04-03T10:26:58.57Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 46,
+            "TIME_ALIVE_STAT": 586,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 54,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ff336980795c4cb2889e82683b72aaab",
+          "endTime": "2021-04-03T10:36:19.932Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 62,
+            "TIME_ALIVE_STAT": 284,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 38,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3ec9478679aa468194ac0b0244a7e07a",
+          "endTime": "2021-04-03T10:50:53.689Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 533,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b8d670b55053446784b7aae3e019d7bf",
+          "endTime": "2021-04-03T11:20:43.119Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1456,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "4be7af79-536e-4081-8982-4078ffd17582"
+      ],
+      "teamId": "4be7af79536e408189824078ffd17582",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 15.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 78,
+      "score": 2041838048206901,
+      "sessionHistory": [
+        {
+          "sessionId": "0fcd8e9e495f4ca383a38d1608cb3c50",
+          "endTime": "2021-04-03T08:23:00.789Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1345,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "52e246fad8454c4f8ae355f3345dd7a5",
+          "endTime": "2021-04-03T08:47:16.395Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1414,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:03:40.476Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 853,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:30:18.119Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1289,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:59:20.919Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1296,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:26:10.685Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1441,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:35:33.545Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 71,
+            "TIME_ALIVE_STAT": 220,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 29,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:50:29.07Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 38,
+            "TIME_ALIVE_STAT": 532,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 62,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c18162ca230b411ead3cf42484eb5d80",
+          "endTime": "2021-04-03T11:06:48.143Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 876,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "7220f0f0-289a-4724-96e6-8c06de00243f"
+      ],
+      "teamId": "7220f0f0289a472496e68c06de00243f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 16.0,
+          "pointsEarned": 16.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 79,
+      "score": 2040747398308018,
+      "sessionHistory": [
+        {
+          "sessionId": "1ba1de05762a4342b2533ef34d083013",
+          "endTime": "2021-04-03T08:44:13.289Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1275,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e5b49306437847da97380cd542e7fc9b",
+          "endTime": "2021-04-03T09:06:12.708Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1079,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "854fa9735e434e5abdd679cf2b2803f0",
+          "endTime": "2021-04-03T09:18:08.526Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 42,
+            "TIME_ALIVE_STAT": 543,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 58,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3f1de7a2759242a084730d2d8ab44372",
+          "endTime": "2021-04-03T09:45:32.695Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1268,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "60e93f9cb72644319fa7d734a2f70759",
+          "endTime": "2021-04-03T10:14:20.261Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1298,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:40:42.041Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1440,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:52:39.439Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 376,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:15:18.671Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 48,
+            "TIME_ALIVE_STAT": 1091,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 52,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "e449fcae-cf69-4dff-a585-87b5e6532d51"
+      ],
+      "teamId": "e449fcaecf694dffa58587b5e6532d51",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 116,
+      "rank": 80,
+      "score": 2040703923840523,
+      "sessionHistory": [
+        {
+          "sessionId": "2deaaaaea2154bf4a912f1677c64fbb0",
+          "endTime": "2021-04-03T08:11:45.074Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 49,
+            "TIME_ALIVE_STAT": 330,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 51,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ddb4583bc164bc1b373b4248e28a70a",
+          "endTime": "2021-04-03T08:34:51.758Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1320,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "01774b1341ac45d9a95ecbf5b287e33b",
+          "endTime": "2021-04-03T09:02:17.844Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:30:39.936Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1310,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:54:47.357Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1319,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:20:00.069Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:22.567Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1427,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:13:21.772Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "859e5d3a-5048-46ba-8b3d-e1d3441d46cf"
+      ],
+      "teamId": "859e5d3a504846ba8b3de1d3441d46cf",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_portugal"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 115,
+      "rank": 81,
+      "score": 2024260059699327,
+      "sessionHistory": [
+        {
+          "sessionId": "541ebab11bd14a7290a77a066b84a128",
+          "endTime": "2021-04-03T08:28:07.67Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1450,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:56:21.011Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1386,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:04:16.261Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 65,
+            "TIME_ALIVE_STAT": 290,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 35,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:14:46.805Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 61,
+            "TIME_ALIVE_STAT": 315,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 39,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:20:55.369Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 90,
+            "TIME_ALIVE_STAT": 127,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 10,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:27:40.276Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 250,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:55:35.28Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1367,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:20:21.998Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1383,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:35:44.991Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 820,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:04:30.225Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 443,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "2fa701ba-a412-4a60-8983-c666e683a809"
+      ],
+      "teamId": "2fa701baa4124a608983c666e683a809",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedkingdom"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 10.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 20.0,
+          "pointsEarned": 20.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 115,
+      "rank": 82,
+      "score": 2024254712782293,
+      "sessionHistory": [
+        {
+          "sessionId": "fbf9d3d984fa4f088f1f9551534f7bce",
+          "endTime": "2021-04-03T08:19:37.572Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 896,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b97828045ebe45cab34e182b42b7e88c",
+          "endTime": "2021-04-03T08:44:49.078Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:11:58.153Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1348,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:27:52.801Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 842,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:41:25.102Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 57,
+            "TIME_ALIVE_STAT": 518,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 43,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e55c85be818043acb5957ed4950e99b7",
+          "endTime": "2021-04-03T09:48:29.892Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 56,
+            "TIME_ALIVE_STAT": 294,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 44,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:14:58.495Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1350,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:25:41.907Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 495,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "738b02ffa56e43798b8e8e74903f1ca5",
+          "endTime": "2021-04-03T10:55:17.822Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1172,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:46.2Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1299,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "5cf52053-1cf8-4601-b7a4-f8d7a7606dc8"
+      ],
+      "teamId": "5cf520531cf84601b7a4f8d7a7606dc8",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_russia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 34.0,
+          "pointsEarned": 34.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 115,
+      "rank": 83,
+      "score": 2023202977866153,
+      "sessionHistory": [
+        {
+          "sessionId": "5d9ed085fbd5436ab4134b3111f92e53",
+          "endTime": "2021-04-03T08:26:28.897Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1433,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:48:33.539Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1168,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:17:10.405Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1467,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:44:51.592Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1254,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:05:39.897Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 34,
+            "TIME_ALIVE_STAT": 1049,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:29:11.239Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1309,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:47:19.288Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 940,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:52:20.222Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 92,
+            "TIME_ALIVE_STAT": 60,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 8,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:13:59.47Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 1012,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "cde82e15-aa02-4a17-9619-947f032aeca7"
+      ],
+      "teamId": "cde82e15aa024a179619947f032aeca7",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_global"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 115,
+      "rank": 84,
+      "score": 2023172127794687,
+      "sessionHistory": [
+        {
+          "sessionId": "eec8d20986844a03ad4785243f62c9ff",
+          "endTime": "2021-04-03T08:24:54.222Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1330,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7777479f83b748febbf648382d4b7360",
+          "endTime": "2021-04-03T08:35:33.513Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 419,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9194880c1ea845ba9b8de4529416e2b7",
+          "endTime": "2021-04-03T09:03:27.093Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1458,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:29:23.986Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1235,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:57:27.264Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 1183,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aaf99b602e6b49fc9b0f5cd4ab206df5",
+          "endTime": "2021-04-03T10:23:57.426Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1274,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "cee049c1390347078e2e3fc5ab68f573",
+          "endTime": "2021-04-03T10:51:42.511Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1527,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:43.392Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1296,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3885d121-6e00-4bf3-82cd-d4e69b1dc938"
+      ],
+      "teamId": "3885d1216e004bf382cdd4e69b1dc938",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 115,
+      "rank": 85,
+      "score": 2023158703350325,
+      "sessionHistory": [
+        {
+          "sessionId": "dfb53534127347c2a1a0bcfaffb4dd96",
+          "endTime": "2021-04-03T08:33:00.921Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1260,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "424c81dd8ed141cf85808e13a6a9334f",
+          "endTime": "2021-04-03T08:58:22.12Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1327,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3e325d9e259849d5ab6cd6c3b0445741",
+          "endTime": "2021-04-03T09:27:05.186Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1418,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a943082a83474273881f1d2e6c6ab2e5",
+          "endTime": "2021-04-03T09:56:05.314Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1429,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:13:04.855Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 924,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:15.28Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1349,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:47:30.923Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 50,
+            "TIME_ALIVE_STAT": 349,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 50,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T11:02:47.427Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 40,
+            "TIME_ALIVE_STAT": 692,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 60,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a47545ef-850a-40d4-8a93-525ae986d6ba"
+      ],
+      "teamId": "a47545ef850a40d48a93525ae986d6ba",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 115,
+      "rank": 86,
+      "score": 2023147140062191,
+      "sessionHistory": [
+        {
+          "sessionId": "cd307b2a31c348eb8dc15397382c027f",
+          "endTime": "2021-04-03T08:23:35.508Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 752,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "0bf108d8690c4e67a40873cf664b9852",
+          "endTime": "2021-04-03T08:49:44.037Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1433,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "531f1b72b36f48c7a7df2174ad100232",
+          "endTime": "2021-04-03T09:03:59.516Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 46,
+            "TIME_ALIVE_STAT": 644,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 54,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "be2e09fbab2348ccb65dbcd64e8c9049",
+          "endTime": "2021-04-03T09:31:27.115Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1357,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a943082a83474273881f1d2e6c6ab2e5",
+          "endTime": "2021-04-03T09:54:12.604Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1310,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:00:43.163Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 76,
+            "TIME_ALIVE_STAT": 168,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 24,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:25:02.687Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1370,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "70f6291f23294e969866de729123d110",
+          "endTime": "2021-04-03T10:50:08.687Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1408,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c18162ca230b411ead3cf42484eb5d80",
+          "endTime": "2021-04-03T10:54:04.933Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 69,
+            "TIME_ALIVE_STAT": 117,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 31,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:03:15.33Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 369,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1eb374cf-1370-4ae0-9c8d-a7a4ccc3a0a5"
+      ],
+      "teamId": "1eb374cf13704ae09c8da7a4ccc3a0a5",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 35.0,
+          "pointsEarned": 35.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 87,
+      "score": 2006702761743517,
+      "sessionHistory": [
+        {
+          "sessionId": "ee583bcdfd584c40be7c86ba57c94f0d",
+          "endTime": "2021-04-03T08:28:26.163Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1227,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "924b083d4365428eae27559e9e822815",
+          "endTime": "2021-04-03T08:44:29.135Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 263,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4f57055c4ac943cab679ed759df01039",
+          "endTime": "2021-04-03T09:13:39.976Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1451,
+            "TEAM_ELIMS_STAT_INDEX": 14,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:22:14.733Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 206,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:33:00.785Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 68,
+            "TIME_ALIVE_STAT": 295,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 32,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:44:32.151Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 58,
+            "TIME_ALIVE_STAT": 409,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 42,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:10:12.401Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 1049,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:15:33.736Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 79,
+            "TIME_ALIVE_STAT": 136,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 21,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:23.668Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1429,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:53:28.08Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 76,
+            "TIME_ALIVE_STAT": 128,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 24,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "143ab2fd-5f8d-4c05-bc8f-9864c20851bf"
+      ],
+      "teamId": "143ab2fd5f8d4c05bc8f9864c20851bf",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_norway"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 19.0,
+          "pointsEarned": 19.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 88,
+      "score": 2006659839106309,
+      "sessionHistory": [
+        {
+          "sessionId": "8d222624900240c8b190b4208bf2e352",
+          "endTime": "2021-04-03T08:15:42.865Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 849,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "65474122ce9c4bee9e7e07da3eb97b67",
+          "endTime": "2021-04-03T08:29:26.526Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 690,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "79306d1e2767444288903dbc8459c4ef",
+          "endTime": "2021-04-03T08:55:39.4Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1286,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "38b7c686fb4748d1a824191d9fb2d7f7",
+          "endTime": "2021-04-03T09:20:32.645Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1262,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "345e521ede6648ae9326c654af7b8b37",
+          "endTime": "2021-04-03T09:36:18.207Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 771,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d6e8a362da244c1b493362a70f52575",
+          "endTime": "2021-04-03T09:43:59.299Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 86,
+            "TIME_ALIVE_STAT": 95,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 14,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "c75e4cbb4d434abbaa2dbbd022876328",
+          "endTime": "2021-04-03T10:10:19.255Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1430,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:16:15.072Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 72,
+            "TIME_ALIVE_STAT": 177,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 28,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:43:50.327Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1330,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "44d3bf1f9f7048a689a7f2d0e34dd60f",
+          "endTime": "2021-04-03T11:09:04.868Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "918c7d46-23d1-4fb7-b4d6-0063e766975d"
+      ],
+      "teamId": "918c7d4623d14fb7b4d60063e766975d",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 15.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 89,
+      "score": 2006653679772318,
+      "sessionHistory": [
+        {
+          "sessionId": "2b9f491df6214632969f7e783718765b",
+          "endTime": "2021-04-03T08:24:37.554Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1387,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:51:03.171Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1308,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:16:26.31Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1316,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:40:44.861Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1299,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T09:51:42.545Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 49,
+            "TIME_ALIVE_STAT": 559,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 51,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8adc00a0836c44958eb3664159acd3ac",
+          "endTime": "2021-04-03T10:20:23.744Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1384,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:30:10.909Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 472,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:54:03.608Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 984,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:17:58.919Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 36,
+            "TIME_ALIVE_STAT": 1252,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 64,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "bf865df0-ef77-4487-9992-ad31bc6cf94d"
+      ],
+      "teamId": "bf865df0ef7744879992ad31bc6cf94d",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 24.0,
+          "pointsEarned": 24.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 90,
+      "score": 2005573733357674,
+      "sessionHistory": [
+        {
+          "sessionId": "66facbdc8c5045d9a379887ed32eb478",
+          "endTime": "2021-04-03T08:08:25.676Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 69,
+            "TIME_ALIVE_STAT": 127,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 31,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "111fc84f11a94dfb9e83f20c3ea85eea",
+          "endTime": "2021-04-03T08:11:20.813Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 94,
+            "TIME_ALIVE_STAT": 41,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 6,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "99c0efb32d874522ac87ae05fcb96806",
+          "endTime": "2021-04-03T08:17:47.978Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 56,
+            "TIME_ALIVE_STAT": 244,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 44,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8ab81b3e4b1a493cb058d9608b8e2208",
+          "endTime": "2021-04-03T08:58:18.351Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1434,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:27:03.989Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:39:00.434Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 63,
+            "TIME_ALIVE_STAT": 373,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 37,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d6e8a362da244c1b493362a70f52575",
+          "endTime": "2021-04-03T10:05:43.145Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1437,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:35:41.532Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1368,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:54:54.166Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 810,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:06:24.668Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 64,
+            "TIME_ALIVE_STAT": 557,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 36,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a3add78f-4b60-41e1-88d9-35123ec31c11"
+      ],
+      "teamId": "a3add78f4b6041e188d935123ec31c11",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 91,
+      "score": 2005568378904028,
+      "sessionHistory": [
+        {
+          "sessionId": "582c8b2fa7094455bdfaed6f76de29b6",
+          "endTime": "2021-04-03T08:21:50.761Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 920,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "52e246fad8454c4f8ae355f3345dd7a5",
+          "endTime": "2021-04-03T08:46:09.542Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1343,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2ecc7d67b1d74fa69cee248178f66279",
+          "endTime": "2021-04-03T09:12:38.713Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1388,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1fc6cf34d3424d05b5b0d2e3c2850c5e",
+          "endTime": "2021-04-03T09:29:37.752Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 48,
+            "TIME_ALIVE_STAT": 649,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 52,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "14f0cd12406d415ab5d58e4fadd92939",
+          "endTime": "2021-04-03T09:45:38.147Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 771,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T09:51:14.549Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 82,
+            "TIME_ALIVE_STAT": 175,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 18,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:15:16.21Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1369,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:39:58.378Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1394,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T10:53:48.802Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 43,
+            "TIME_ALIVE_STAT": 447,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 57,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:15:21.376Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 1094,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "00454ab0-7656-4e8d-9e3b-c3f38d8bcffd"
+      ],
+      "teamId": "00454ab076564e8d9e3bc3f38d8bcffd",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_italy"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 92,
+      "score": 2005565683571666,
+      "sessionHistory": [
+        {
+          "sessionId": "2deaaaaea2154bf4a912f1677c64fbb0",
+          "endTime": "2021-04-03T08:28:23.223Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1263,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64e315a066c0426f97e312b9ae1f9f83",
+          "endTime": "2021-04-03T08:57:16.498Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "617821e22eba4b6ba092c32e99a199f2",
+          "endTime": "2021-04-03T09:19:52.075Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 1241,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:33:12.855Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 582,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:39:19.825Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 93,
+            "TIME_ALIVE_STAT": 97,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 7,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T09:43:11.97Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 95,
+            "TIME_ALIVE_STAT": 48,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 5,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T09:52:01.845Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 75,
+            "TIME_ALIVE_STAT": 222,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 25,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5b7b9abfea843ce9cbce241375a594f",
+          "endTime": "2021-04-03T10:19:18.19Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1254,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "8891f13243994a95ab80cb28e0be8db8",
+          "endTime": "2021-04-03T10:44:38.909Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1389,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:08:16.641Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1358,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "79edbda5-9fdb-4641-897e-f508b9cd76cc"
+      ],
+      "teamId": "79edbda59fdb4641897ef508b9cd76cc",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedkingdom"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 114,
+      "rank": 93,
+      "score": 2005560067710630,
+      "sessionHistory": [
+        {
+          "sessionId": "1083048f5f6a45cf95d6a1342dd9aef3",
+          "endTime": "2021-04-03T08:33:39.062Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 947,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "34685b37f34249b1bdc1e208db9807dd",
+          "endTime": "2021-04-03T08:59:29.708Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1294,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "aa8b5326fcc54263af0accf32cdd7648",
+          "endTime": "2021-04-03T09:24:52.484Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1419,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5d0573bc1a384e68944911bd0c707a0e",
+          "endTime": "2021-04-03T09:51:50.33Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5b7b9abfea843ce9cbce241375a594f",
+          "endTime": "2021-04-03T10:06:44.782Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 47,
+            "TIME_ALIVE_STAT": 550,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 53,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "68c69ef8e1be46e784352554d799b850",
+          "endTime": "2021-04-03T10:35:40.05Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1340,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:46:22.959Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 57,
+            "TIME_ALIVE_STAT": 281,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 43,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:54:40.809Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 61,
+            "TIME_ALIVE_STAT": 201,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 39,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:28.52Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1339,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "2eb367b8-e27c-4396-a58f-1dee96b44821"
+      ],
+      "teamId": "2eb367b8e27c4396a58f1dee96b44821",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 32.0,
+          "pointsEarned": 32.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 113,
+      "rank": 94,
+      "score": 1989124022917547,
+      "sessionHistory": [
+        {
+          "sessionId": "ac316ab22406484085c75d5c734fd975",
+          "endTime": "2021-04-03T09:03:15.623Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 79,
+            "TIME_ALIVE_STAT": 61,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 21,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2df033c9584a4e51938b7dce18742dff",
+          "endTime": "2021-04-03T09:24:44.782Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1068,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "743c5b0480f94e6e92c1a56d40b4f7fa",
+          "endTime": "2021-04-03T09:35:25.373Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 45,
+            "TIME_ALIVE_STAT": 492,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 55,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "83cba959a18c4a6c9239d3828649e6e7",
+          "endTime": "2021-04-03T09:47:43.739Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 34,
+            "TIME_ALIVE_STAT": 609,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5dff256059a14b1e93dbac2a2f97bc1b",
+          "endTime": "2021-04-03T09:55:49.793Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 57,
+            "TIME_ALIVE_STAT": 240,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 43,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9e19640503194202b5489aaef98ac4a8",
+          "endTime": "2021-04-03T10:23:13.472Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1274,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "d0866921426f462480abc8af034d5bda",
+          "endTime": "2021-04-03T10:50:34.845Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1468,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:19:43.797Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1353,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "8175b84a-680c-4f8d-ae3b-bfc23239290a"
+      ],
+      "teamId": "8175b84a680c4f8dae3bbfc23239290a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 31.0,
+          "pointsEarned": 31.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 113,
+      "rank": 95,
+      "score": 1989099845818733,
+      "sessionHistory": [
+        {
+          "sessionId": "656cf36005da412984f667d3e77ef747",
+          "endTime": "2021-04-03T08:28:52.011Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1399,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64e315a066c0426f97e312b9ae1f9f83",
+          "endTime": "2021-04-03T08:47:30.55Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 40,
+            "TIME_ALIVE_STAT": 862,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 60,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4f57055c4ac943cab679ed759df01039",
+          "endTime": "2021-04-03T09:08:18.101Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1131,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1e32e1283302461eab1bd8eeda5b21e5",
+          "endTime": "2021-04-03T09:13:52.871Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 100,
+            "TIME_ALIVE_STAT": 51,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 0,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3b7348a0c2c24ad2aff6c6d61f2e601c",
+          "endTime": "2021-04-03T09:19:09.494Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 82,
+            "TIME_ALIVE_STAT": 142,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 18,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "bfd17cccb30b4d4896d6d6c21a896657",
+          "endTime": "2021-04-03T09:46:04.639Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1453,
+            "TEAM_ELIMS_STAT_INDEX": 20,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "aa4aa56029674635b564fd785f03da09",
+          "endTime": "2021-04-03T10:08:12.099Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 1208,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:16:05.345Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 73,
+            "TIME_ALIVE_STAT": 167,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 27,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:45:17.214Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1422,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:56:19.42Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 54,
+            "TIME_ALIVE_STAT": 299,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 46,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "38a4e158-49d3-4b58-93ab-9c4a316eb5a1"
+      ],
+      "teamId": "38a4e15849d34b5893ab9c4a316eb5a1",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 28.0,
+          "pointsEarned": 28.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 113,
+      "rank": 96,
+      "score": 1989091795867734,
+      "sessionHistory": [
+        {
+          "sessionId": "c8e43f088309489c8007315f88234956",
+          "endTime": "2021-04-03T08:19:02.765Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 864,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "710c2f5e85894e7184d3b05fcedbab57",
+          "endTime": "2021-04-03T08:22:12.124Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 92,
+            "TIME_ALIVE_STAT": 63,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 8,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "5bbcde63a168410ba05d81b0461f16b1",
+          "endTime": "2021-04-03T09:21:05.457Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1350,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:38:59.151Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 34,
+            "TIME_ALIVE_STAT": 919,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d6e8a362da244c1b493362a70f52575",
+          "endTime": "2021-04-03T10:04:43.579Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1374,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:12:43.736Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 67,
+            "TIME_ALIVE_STAT": 308,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 33,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "3d0d965606314cb79cfd4291f223c781",
+          "endTime": "2021-04-03T10:34:27.588Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 1053,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "738b02ffa56e43798b8e8e74903f1ca5",
+          "endTime": "2021-04-03T10:37:49.854Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 84,
+            "TIME_ALIVE_STAT": 88,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 16,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "46bb9c5f51b142febd0b58559a34b629",
+          "endTime": "2021-04-03T10:47:20.545Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 51,
+            "TIME_ALIVE_STAT": 339,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 49,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "2d3443af520247048437f362d57ccc03",
+          "endTime": "2021-04-03T11:14:26.744Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1417,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "5088029d-12e1-4902-9c9f-6120a4e905bd"
+      ],
+      "teamId": "5088029d12e149029c9f6120a4e905bd",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 113,
+      "rank": 97,
+      "score": 1989090479136972,
+      "sessionHistory": [
+        {
+          "sessionId": "260c1368d4cc412196f7223277ab0cc5",
+          "endTime": "2021-04-03T08:29:58.758Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1522,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "72fac62178904ab39bfc5453c366d236",
+          "endTime": "2021-04-03T08:38:40.966Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 57,
+            "TIME_ALIVE_STAT": 330,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 43,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "487bc35eb4ba4a7c95138b70494c2285",
+          "endTime": "2021-04-03T09:06:34.719Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1305,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1ba45d7724324432ad7c88b064e4461c",
+          "endTime": "2021-04-03T09:32:27.772Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1320,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "509ef910b9624e9e92be0c1e6d23c654",
+          "endTime": "2021-04-03T09:57:51.182Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1207,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "67687574e88046a9b10df22460cebd50",
+          "endTime": "2021-04-03T10:26:31.029Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1463,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:45:57.263Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 34,
+            "TIME_ALIVE_STAT": 854,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "48a59f5dba5c458fa16a17d9be94d3e5",
+          "endTime": "2021-04-03T10:57:53.006Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 52,
+            "TIME_ALIVE_STAT": 393,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 48,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "63c1a3ab-88d6-4080-92cf-3ffc04d013d4"
+      ],
+      "teamId": "63c1a3ab88d6408092cf3ffc04d013d4",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_australia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 15.0,
+          "pointsEarned": 15.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 113,
+      "rank": 98,
+      "score": 1989061480062884,
+      "sessionHistory": [
+        {
+          "sessionId": "8d222624900240c8b190b4208bf2e352",
+          "endTime": "2021-04-03T08:25:10.731Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1413,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "ac654df6358941e5815169023b70b0db",
+          "endTime": "2021-04-03T08:51:27.632Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1331,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ffa5f168c84640b7be82ab24d95083ac",
+          "endTime": "2021-04-03T09:08:46.348Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 44,
+            "TIME_ALIVE_STAT": 838,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 56,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "87b6d0d6e0a841bdb9cabf663bf15350",
+          "endTime": "2021-04-03T09:36:28.042Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1373,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "ac1825172412449a897bfacb67749e9c",
+          "endTime": "2021-04-03T10:04:29.674Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1346,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "606d914fc48d4ff3b0de466287a9a484",
+          "endTime": "2021-04-03T10:08:52.206Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 93,
+            "TIME_ALIVE_STAT": 77,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 7,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "b19688b485954f0c9fd4471913df7614",
+          "endTime": "2021-04-03T10:27:46.791Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 39,
+            "TIME_ALIVE_STAT": 874,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 61,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "e3cbbfbf05f94b029b56145052612653",
+          "endTime": "2021-04-03T10:39:21.067Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 49,
+            "TIME_ALIVE_STAT": 448,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 51,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:09:06.74Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1411,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "04b61fb0-7a95-429d-a705-495dcda7e68c"
+      ],
+      "teamId": "04b61fb07a95429da705495dcda7e68c",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 24.0,
+          "pointsEarned": 24.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        }
+      },
+      "pointsEarned": 113,
+      "rank": 99,
+      "score": 1988009236817866,
+      "sessionHistory": [
+        {
+          "sessionId": "541ebab11bd14a7290a77a066b84a128",
+          "endTime": "2021-04-03T08:26:44.185Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1362,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "64e315a066c0426f97e312b9ae1f9f83",
+          "endTime": "2021-04-03T08:54:12.451Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1263,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "50a3e3c6686a41cfbc7146417895750d",
+          "endTime": "2021-04-03T09:25:35.666Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1327,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "770a7f42a6c54463b269a1fc3316b43e",
+          "endTime": "2021-04-03T09:50:08.386Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1280,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "431fde5c09c840d990e2d84e7503b23a",
+          "endTime": "2021-04-03T10:16:08.936Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1444,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "6b00008d09c24c2fa26e49b0d779cf2d",
+          "endTime": "2021-04-03T10:38:47.367Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 1012,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "42a1c2069bf447449ec7827637c9afdc",
+          "endTime": "2021-04-03T11:06:07.898Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1223,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "f358a2ec-8c2e-4543-8ef7-5fd9ddd54957"
+      ],
+      "teamId": "f358a2ec8c2e45438ef75fd9ddd54957",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_newzealand"
+      ]
+    },
+    {
+      "eventId": "epicgames_S16_SoloCashCup_OCE",
+      "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:75": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:25": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:50": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:20": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 10.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:30": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:35": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:40": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        }
+      },
+      "pointsEarned": 112,
+      "rank": 100,
+      "score": 1971454275297782,
+      "sessionHistory": [
+        {
+          "sessionId": "0b52557098a34f1cbd10850650c1d8ab",
+          "endTime": "2021-04-03T08:24:07.486Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1297,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "343b017c16364f6c891c84609e167afb",
+          "endTime": "2021-04-03T08:37:35.376Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 49,
+            "TIME_ALIVE_STAT": 596,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 51,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9133437cad2b42ce8d5c37786af691d4",
+          "endTime": "2021-04-03T08:53:21.338Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 818,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "4901c52a93cc4371ad1ea821869884f3",
+          "endTime": "2021-04-03T09:20:38.24Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1448,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "224568b288d342e4a1014552b6f67303",
+          "endTime": "2021-04-03T09:47:29.343Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1401,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "403360bd1a0e47b1b5ddd35f6021c5f1",
+          "endTime": "2021-04-03T10:14:09.628Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1299,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a3a827a193b845498836d373bb652f4e",
+          "endTime": "2021-04-03T10:33:20.816Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 976,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "a5eb9614e513485fb5d4abba5524fb72",
+          "endTime": "2021-04-03T10:47:47.54Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 633,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "9f24ca0960b447aba74b99dfe4acbde4",
+          "endTime": "2021-04-03T11:18:56.941Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1309,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "abe92af2-55cc-408d-afd7-25b107c93f9a"
+      ],
+      "teamId": "abe92af255cc408dafd725b107c93f9a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_belarus"
+      ]
+    }
+  ],
+  "eventId": "epicgames_S16_SoloCashCup_OCE",
+  "eventWindowId": "S16_SoloCashCup_OCE_Event1",
+  "gameId": "Fortnite",
+  "page": 0,
+  "totalPages": 100,
+  "updatedTime": "2021-04-03T20:22:04.905Z",
+  "liveSessions": {}
+};
+
+
+
+// MY VARIABLES
+
+var imp_leaderboard = {
+  "internal_Last_Updated": "2021-01-25T02:00:46.4770665Z",
+  "internal_Cache_Mins": 2147483647,
+  "internal_Next_Update": "6104-02-18T04:07:46.4770665Z",
+  "internal_Accounts": {
+    "f75b5b38-bd94-4c7c-b288-0116633ef447": {
+      "nickname": "foppe.",
+      "countryCode": "US"
+    },
+    "5f8f382e-4ff6-4008-9d97-02e9b5bbc885": {
+      "nickname": "XSET Av"
+    },
+    "23b619c0-f2f7-4621-91b9-03bd29c34ac6": {
+      "nickname": "skqttles"
+    },
+    "e09609bb-50fb-4ff6-bbf1-06d7c49d267e": {
+      "nickname": "npen"
+    },
+    "fc1134cb-08b9-45e9-a057-08fc5414f63f": {
+      "nickname": "Nеonrr"
+    },
+    "3fb44adb-a289-439b-84d4-0b5bc8964122": {
+      "nickname": "XTRA Furiouѕ"
+    },
+    "35a8327c-7d58-4226-befe-0bf73d02085a": {
+      "nickname": "Kawzmik"
+    },
+    "b0687775-cb14-4397-99d0-120f53d67778": {
+      "nickname": "G2 Jаhq"
+    },
+    "3736de3c-0eb0-4364-9fac-15ec1025ff08": {
+      "nickname": "NRG СІіх"
+    },
+    "23c11c6a-35dd-4b36-a7c7-1845098209f0": {
+      "nickname": "EΝDLESS DEYYMON"
+    },
+    "ed1260a4-238d-4028-bad1-1c5dc92efe18": {
+      "nickname": "vух."
+    },
+    "12d40f12-84c8-4b6b-b5d1-225365c586de": {
+      "nickname": "SEN ZYFA 地"
+    },
+    "c3b1898a-7288-4480-8067-252350e5288a": {
+      "nickname": "Reverse2k"
+    },
+    "827abb1c-d9fb-4618-9914-25c2d3ba9b76": {
+      "nickname": "bughа"
+    },
+    "780c8202-8996-42ee-ae42-283b437f3d1a": {
+      "nickname": "XTRA Mero."
+    },
+    "ba0da8c5-a651-4d85-bfcf-3303eb364daf": {
+      "nickname": "Gandhi dabdabdab"
+    },
+    "3aba78cf-9e64-4273-807c-36b6185fd400": {
+      "nickname": "TSM_Zexrow"
+    },
+    "3ac14c44-c558-44f7-86d3-37418d30c6d5": {
+      "nickname": "BBG Ajay"
+    },
+    "95b05297-f0dc-4177-8a6e-37f9c19a8fd9": {
+      "nickname": "G2 Jelty."
+    },
+    "6f3ebc48-1092-450a-af88-3aa49722914f": {
+      "nickname": "XTRA Illest"
+    },
+    "d7338873-ddcb-48d5-b4a2-3bd1def0ecb5": {
+      "nickname": "C9 Avery"
+    },
+    "91fc3dc6-d497-4439-96cf-3d6c447db25f": {
+      "nickname": "9L Alliege"
+    },
+    "d3811903-df1e-4d78-b335-3fa08a9810c5": {
+      "nickname": "XX_XXX_MIREVZ_XX"
+    },
+    "5439066c-9a74-4fa3-a0dc-406de48aebe9": {
+      "nickname": "XSET Shark"
+    },
+    "fa812917-71cf-4b90-ae1b-444d727df46e": {
+      "nickname": "FаZe Dubs ϟ"
+    },
+    "d3d25f74-cbf8-46ec-9359-446bfa92f637": {
+      "nickname": "snake season",
+      "countryCode": "US"
+    },
+    "c4624cd1-7f5e-41c6-84ed-4d834025ea76": {
+      "nickname": "Code Crimz",
+      "countryCode": "US"
+    },
+    "d1cc556c-6eac-4ec8-83de-52bebc0bd2e9": {
+      "nickname": "ɢage"
+    },
+    "befb0c17-3cd2-42d9-82d3-55078cf82202": {
+      "nickname": "ENDLESS TRAGIX"
+    },
+    "7837f574-990c-4f1e-991e-5783f02d83d3": {
+      "nickname": "LG Keys."
+    },
+    "09ffbbba-bddf-4479-9ca2-5c1736d790cb": {
+      "nickname": "zum .",
+      "countryCode": "CA"
+    },
+    "769b8641-4a9c-4eb8-9427-5fd958905deb": {
+      "nickname": "fusion casqer"
+    },
+    "7ac93628-1898-4d8a-86c8-63487f6cbf1b": {
+      "nickname": "tаhi"
+    },
+    "1ea4f0a9-0a3b-4ad6-8711-64e32e592b68": {
+      "nickname": "XSET Knight",
+      "countryCode": "US"
+    },
+    "ecb3215f-62f0-432c-8011-65b372008d9e": {
+      "nickname": "OT Pxlarized",
+      "countryCode": "US"
+    },
+    "0f390cff-5a52-41b8-b8a6-667f8bfe8d65": {
+      "nickname": "BBG Bucke"
+    },
+    "b5eded11-4172-4d66-920d-69e2e7127cbb": {
+      "nickname": "Liquid STRAFFY",
+      "countryCode": "US"
+    },
+    "8a45b951-21bd-40b9-aa91-6a2349601c74": {
+      "nickname": "Ghost clarityG"
+    },
+    "12b14273-2689-4d4b-a7a6-6d0eb05ae2fb": {
+      "nickname": "ENDLESS pgod",
+      "countryCode": "PE"
+    },
+    "4d892d4c-0794-4b60-b01a-6da65a22ed21": {
+      "nickname": "Kn1pher"
+    },
+    "5c322612-c266-4c0c-badb-6fdfc9dde04e": {
+      "nickname": "AKA Pozed",
+      "countryCode": "RU"
+    },
+    "5b804cf9-aec9-4180-8215-70a64c165cf4": {
+      "nickname": "outcast trap",
+      "countryCode": "US"
+    },
+    "5f566648-08d2-4570-9578-71f23e6baa67": {
+      "nickname": "LG Xoonies."
+    },
+    "02bbb690-7acd-4496-95c9-73ebf9b12b0e": {
+      "nickname": "bbg permreo"
+    },
+    "a683b4c7-d8c7-448a-bd4c-7479f35db5a6": {
+      "nickname": "vanish cazzypoo"
+    },
+    "673b0fd2-95ff-4476-bb31-7b74fa8b3e7b": {
+      "nickname": "GoodGuyNani Tv"
+    },
+    "675950bd-e95a-4937-9dc3-7e298194cf1b": {
+      "nickname": "Kjrop"
+    },
+    "bf042e83-c855-4e3a-95d7-82bf28de7212": {
+      "nickname": "NRG Edgey"
+    },
+    "42e5c658-26bd-4e0c-99f9-8431ab9baa1b": {
+      "nickname": "Ghоst Blаke"
+    },
+    "ca12074e-4e3b-42f8-9747-84d08daa5773": {
+      "nickname": "curnballswag"
+    },
+    "4b919532-dca1-40ed-a4d6-86d945872a03": {
+      "nickname": "Outcast Iciev"
+    },
+    "09fda54b-7d47-471a-95f3-874f62989c3e": {
+      "nickname": "LG Pamper ψ",
+      "countryCode": "US"
+    },
+    "3aea5501-6b41-4fd2-9d7f-879971f51e4c": {
+      "nickname": "summr 999"
+    },
+    "24838f8b-d179-4d25-a7d4-91c175cde134": {
+      "nickname": "mikey6."
+    },
+    "1f8478d6-59a2-4107-b0c6-93d279d81b95": {
+      "nickname": "Bully ay лол"
+    },
+    "14caafa7-dc96-4c28-b800-96bcd5b38e30": {
+      "nickname": "FS Ajerss",
+      "countryCode": "US"
+    },
+    "5dd3674a-930d-4538-bdf9-98759b95c0cc": {
+      "nickname": "Legedien"
+    },
+    "3e999b2d-bb0b-46a4-9028-9ba783142bff": {
+      "nickname": "Klaѕѕ",
+      "countryCode": "US"
+    },
+    "7dfdfc8b-d602-46f6-844b-a076cdb22de7": {
+      "nickname": "Liquid Riversan",
+      "countryCode": "US"
+    },
+    "9e24ee30-d65d-440f-8d03-a4946a9f1d43": {
+      "nickname": "PLEGE 21V"
+    },
+    "51da8a03-128f-464c-b570-a55e83c9708f": {
+      "nickname": "sen spect"
+    },
+    "0dd1ecfa-67db-48c2-9d6b-a65e1b795e30": {
+      "nickname": "Ghost Nittle"
+    },
+    "c3fed2a8-f12f-4d39-ada7-a8aeb784285a": {
+      "nickname": "Eclipsae",
+      "countryCode": "US"
+    },
+    "1e023f12-d8dc-4b2e-b75a-ab3fe3dd8514": {
+      "nickname": "LG Slackes"
+    },
+    "1e1a068e-cb04-49ae-9c0d-ac4b9a0af813": {
+      "nickname": "SEN Animal"
+    },
+    "d53176f7-3a29-4fcd-85f0-ad5eb42dd780": {
+      "nickname": "Simple 369"
+    },
+    "47759f16-0f66-44c2-a735-b626a6fab849": {
+      "nickname": "LG Joji"
+    },
+    "068279b8-a5c0-4a8b-8102-b908f64d8daf": {
+      "nickname": "Dictator Connor",
+      "countryCode": "US"
+    },
+    "009c49d1-8001-4ac6-bab2-c1f6800ea89d": {
+      "nickname": "Guitarzca",
+      "countryCode": "US"
+    },
+    "3747a0e2-1798-4e39-9aef-c25c5cfb16dd": {
+      "nickname": "C9 nosh"
+    },
+    "14172e75-3af3-4ab4-abe3-c2de6348bc23": {
+      "nickname": "TSM_Comadon"
+    },
+    "2d91ad40-c738-4c8a-9c12-c4c295450d78": {
+      "nickname": "1P Acorn"
+    },
+    "8ea70358-8b01-4b8b-86d9-c5c32ae1a523": {
+      "nickname": "TSM MackWood1x"
+    },
+    "44dbb375-58e7-4f0a-bdbb-c8a8b31a78de": {
+      "nickname": "TSM saffy"
+    },
+    "5db6a109-e91f-46ec-b682-cd696158d4de": {
+      "nickname": "Swaysuo",
+      "countryCode": "US"
+    },
+    "3f005870-c1f8-4b93-afa5-cee13a5e0cbc": {
+      "nickname": "NorCal Doh",
+      "countryCode": "US"
+    },
+    "5a372883-0d83-4bd7-8307-cfe968ce374f": {
+      "nickname": "BBG Khanasty"
+    },
+    "96db3b5e-cf16-4b03-bb1e-d353d22b896f": {
+      "nickname": "TyfOogway"
+    },
+    "88e9cba8-19cf-4580-b7d4-d45f343dac31": {
+      "nickname": "roqz"
+    },
+    "626ef1bd-708b-4a3a-bcaf-d4caa43b629a": {
+      "nickname": "TabzG",
+      "countryCode": "US"
+    },
+    "8319abff-1f80-414c-851e-d5cc1408b82c": {
+      "nickname": "Posick"
+    },
+    "e814bb4f-3d76-466f-8d19-db02db7d8743": {
+      "nickname": "sprite dabdabdab"
+    },
+    "05e17ab2-d6aa-4642-813d-dd4efa8adbbb": {
+      "nickname": "Degеn"
+    },
+    "735a3fb2-6e88-47f0-a1fc-deb0d9bd2d31": {
+      "nickname": "LordNM dabdabdab",
+      "countryCode": "US"
+    },
+    "8e66bee5-c50b-4486-9a16-e3d59c270894": {
+      "nickname": "Xcceptャ"
+    },
+    "1f827dae-0bcc-4c8d-ac23-e5b7e3d97c9d": {
+      "nickname": "cizIucky"
+    },
+    "304249ea-73af-4b17-b738-e5e67fcbc0ed": {
+      "nickname": "NRG Fakeknown"
+    },
+    "00305d46-8857-43f4-b3ba-e606acb1af38": {
+      "nickname": "100T Ceice"
+    },
+    "57d89f18-a34a-4358-b701-e9f84dcbfcb2": {
+      "nickname": "bbg sewer rat"
+    },
+    "616cb69e-8c8b-4f45-a831-ea392f97c8e3": {
+      "nickname": "FaZe Megga."
+    },
+    "8f260e25-4f12-43d3-84f8-eb55003b3a43": {
+      "nickname": "FаZe Bizzle"
+    },
+    "0cc57f46-c65e-41fb-a21f-ed5ddfa27590": {
+      "nickname": "ENDLESS GΑBE"
+    },
+    "a1fd4005-c38b-4378-ad41-efe521ad3244": {
+      "nickname": "NRG Ronaldo"
+    },
+    "1eb778fb-8326-4db3-8d40-f1fdc0a2cd60": {
+      "nickname": "NRG Zaytoven"
+    },
+    "a3a4b125-5bd3-4428-89bd-faa99defcdc8": {
+      "nickname": "Nobu Divine"
+    },
+    "3bd7fe98-024f-4e81-9bc8-fbfaecbe3102": {
+      "nickname": "likwid cented"
+    },
+    "f69a9fe6-4d6f-4e6f-a9ad-fe2bb3a6524c": {
+      "nickname": "XnLeo2006ǃ"
+    },
+    "e474081c-b012-445c-bfe8-fec307d02853": {
+      "nickname": "G2 Smqcked"
+    },
+    "1fe3dc94-d16b-41f1-a976-ff51b41e0be9": {
+      "nickname": "TNA SLICK"
+    }
+  },
+  "entries": [
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 32.0,
+          "pointsEarned": 32.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 6.0,
+          "pointsEarned": 6.0
+        }
+      },
+      "pointsEarned": 129,
+      "rank": 1,
+      "score": 2271734253645308,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:34:29.358Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1450,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:03:12.412Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1401,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:36:00.608Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1556,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:05:02.165Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1435,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:35:03.129Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1482,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:05:14.691Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1500,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1eb778fb-8326-4db3-8d40-f1fdc0a2cd60",
+        "44dbb375-58e7-4f0a-bdbb-c8a8b31a78de",
+        "b5eded11-4172-4d66-920d-69e2e7127cbb"
+      ],
+      1eb778fb83264db38d40f1fdc0a2cd60:44dbb37558e74f0abdbbc8a8b31a78de:b5eded1141724d66920d69e2e7127cbb
+      1eb778fb83264db38d40f1fdc0a2cd60:44dbb37558e74f0abdbbc8a8b31a78de:b5eded1141724d66920d69e2e7127cbb
+      "teamId": "1eb778fb83264db38d40f1fdc0a2cd60:44dbb37558e74f0abdbbc8a8b31a78de:b5eded1141724d66920d69e2e7127cbb",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_mexico",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 40.0,
+          "pointsEarned": 40.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 96,
+      "rank": 2,
+      "score": 1689029048722956,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:15:06.644Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 291,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:05:31.685Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1530,
+            "TEAM_ELIMS_STAT_INDEX": 14,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:29:26.653Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1178,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:58.356Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1432,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:56.731Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:04:21.939Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1451,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "09fda54b-7d47-471a-95f3-874f62989c3e",
+        "827abb1c-d9fb-4618-9914-25c2d3ba9b76",
+        "d7338873-ddcb-48d5-b4a2-3bd1def0ecb5"
+      ],
+      "teamId": "09fda54b7d47471a95f3874f62989c3e:827abb1cd9fb4618991425c2d3ba9b76:d7338873ddcb48d5b4a23bd1def0ecb5",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 27.0,
+          "pointsEarned": 27.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 88,
+      "rank": 3,
+      "score": 1549332822042967,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:24:16.894Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 848,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:05:31.695Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1530,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:31:14.599Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1287,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:03:52.595Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1370,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:35:16.502Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1495,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:03:28.32Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1401,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "14172e75-3af3-4ab4-abe3-c2de6348bc23",
+        "3bd7fe98-024f-4e81-9bc8-fbfaecbe3102",
+        "bf042e83-c855-4e3a-95d7-82bf28de7212"
+      ],
+      "teamId": "14172e753af34ab4abe3c2de6348bc23:3bd7fe98024f4e819bc8fbfaecbe3102:bf042e83c8554e3a95d782bf28de7212",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 28.0,
+          "pointsEarned": 28.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 80,
+      "rank": 4,
+      "score": 1407500386821890,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:34:49.795Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1469,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:04:42.282Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1484,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:34:45.103Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1485,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:02:41.072Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1302,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:14:45.877Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 265,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:04:57.802Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1485,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "23c11c6a-35dd-4b36-a7c7-1845098209f0",
+        "780c8202-8996-42ee-ae42-283b437f3d1a",
+        "c3b1898a-7288-4480-8067-252350e5288a"
+      ],
+      "teamId": "23c11c6a35dd4b36a7c71845098209f0:780c8202899642eeae42283b437f3d1a:c3b1898a728844808067252350e5288a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        }
+      },
+      "pointsEarned": 74,
+      "rank": 5,
+      "score": 1303015372777717,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:35:14.785Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1492,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:59:33.484Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1182,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:27:41.913Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1073,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:05:41.449Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1472,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:34:24.694Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:00:03.158Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1196,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "616cb69e-8c8b-4f45-a831-ea392f97c8e3",
+        "7dfdfc8b-d602-46f6-844b-a076cdb22de7",
+        "fa812917-71cf-4b90-ae1b-444d727df46e"
+      ],
+      "teamId": "616cb69e8c8b4f45a831ea392f97c8e3:7dfdfc8bd60246f6844ba076cdb22de7:fa81291771cf4b90ae1b444d727df46e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 74,
+      "rank": 6,
+      "score": 1301920427567652,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:25:02.413Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 893,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:05:02.86Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1503,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:35:02.835Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1502,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:03:32.523Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1352,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:33.956Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1399,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:04:08.408Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1439,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1e023f12-d8dc-4b2e-b75a-ab3fe3dd8514",
+        "2d91ad40-c738-4c8a-9c12-c4c295450d78",
+        "b0687775-cb14-4397-99d0-120f53d67778"
+      ],
+      "teamId": "1e023f12d8dc4b2eb75aab3fe3dd8514:2d91ad40c7384c8a9c12c4c295450d78:b0687775cb14439799d0120f53d67778",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_fortnite",
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 23.0,
+          "pointsEarned": 23.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 71,
+      "rank": 7,
+      "score": 1250247673293117,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:32:25.482Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1332,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:04:45.434Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1487,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:33:43.38Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1428,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:54:59.897Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 840,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:35:16.508Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1495,
+            "TEAM_ELIMS_STAT_INDEX": 11,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:02:20.618Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1334,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3aba78cf-9e64-4273-807c-36b6185fd400",
+        "57d89f18-a34a-4358-b701-e9f84dcbfcb2",
+        "8ea70358-8b01-4b8b-86d9-c5c32ae1a523"
+      ],
+      "teamId": "3aba78cf9e644273807c36b6185fd400:57d89f18a34a4358b701e9f84dcbfcb2:8ea703588b014b8b86d9c5c32ae1a523",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 26.0,
+          "pointsEarned": 26.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        }
+      },
+      "pointsEarned": 70,
+      "rank": 8,
+      "score": 1231569394394634,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:32:14.298Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1320,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:03:04.618Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1393,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:36:00.602Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1556,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:47:19.863Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 401,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:29:07.841Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1134,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:05:14.681Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1500,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "009c49d1-8001-4ac6-bab2-c1f6800ea89d",
+        "8319abff-1f80-414c-851e-d5cc1408b82c",
+        "8e66bee5-c50b-4486-9a16-e3d59c270894"
+      ],
+      "teamId": "009c49d180014ac6bab2c1f6800ea89d:8319abff1f80414c851ed5cc1408b82c:8e66bee5c50b44869a16e3d59c270894",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 24.0,
+          "pointsEarned": 24.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 69,
+      "rank": 9,
+      "score": 1213968354077261,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:12.484Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1379,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:04:35.625Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1478,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:35:02.416Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1501,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:59:41.703Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1122,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:29:14.918Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1141,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:05:10.666Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1497,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "09ffbbba-bddf-4479-9ca2-5c1736d790cb",
+        "23b619c0-f2f7-4621-91b9-03bd29c34ac6",
+        "a1fd4005-c38b-4378-ad41-efe521ad3244"
+      ],
+      "teamId": "09ffbbbabddf44799ca25c1736d790cb:23b619c0f2f7462191b903bd29c34ac6:a1fd4005c38b4378ad41efe521ad3244",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_england",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 24.0,
+          "pointsEarned": 24.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 62,
+      "rank": 10,
+      "score": 1090844526979918,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:35:36.521Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1513,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:02:54.952Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1383,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:33:04.457Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1392,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:35.137Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1400,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:00:43.976Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1237,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3736de3c-0eb0-4364-9fac-15ec1025ff08",
+        "6f3ebc48-1092-450a-af88-3aa49722914f",
+        "8f260e25-4f12-43d3-84f8-eb55003b3a43"
+      ],
+      "teamId": "3736de3c0eb043649fac15ec1025ff08:6f3ebc481092450aaf883aa49722914f:8f260e254f1243d384f8eb55003b3a43",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_global",
+        "GroupIdentity_GeoIdentity_fortnite",
+        "GroupIdentity_GeoIdentity_sweden"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 18.0,
+          "pointsEarned": 18.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 59,
+      "rank": 11,
+      "score": 1039119155701253,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:35:36.536Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1513,
+            "TEAM_ELIMS_STAT_INDEX": 13,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:04:20.925Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1464,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:21:20.159Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 693,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:02:47.241Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1308,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:32:52.781Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:56:08.027Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 961,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "02bbb690-7acd-4496-95c9-73ebf9b12b0e",
+        "0f390cff-5a52-41b8-b8a6-667f8bfe8d65",
+        "5a372883-0d83-4bd7-8307-cfe968ce374f"
+      ],
+      "teamId": "02bbb6907acd449695c973ebf9b12b0e:0f390cff5a5241b8b8a6667f8bfe8d65:5a3728830d834bd78307cfe968ce374f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_southkorea",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 22.0,
+          "pointsEarned": 22.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 57,
+      "rank": 12,
+      "score": 1002853259339812,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:55.115Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1418,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:00:18.428Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1227,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:24:02.592Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 853,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:45.537Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1420,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:30.789Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1396,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:03:15.693Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1389,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "51da8a03-128f-464c-b570-a55e83c9708f",
+        "5f566648-08d2-4570-9578-71f23e6baa67",
+        "e09609bb-50fb-4ff6-bbf1-06d7c49d267e"
+      ],
+      "teamId": "51da8a03128f464cb570a55e83c9708f:5f56664808d24570957871f23e6baa67:e09609bb50fb4ff6bbf106d7c49d267e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 26.0,
+          "pointsEarned": 26.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        }
+      },
+      "pointsEarned": 55,
+      "rank": 13,
+      "score": 967686596074601,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:02.04Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1369,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:53:58.52Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 846,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:34:31.591Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1473,
+            "TEAM_ELIMS_STAT_INDEX": 8,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:43:18.369Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 176,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:35:03.37Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1483,
+            "TEAM_ELIMS_STAT_INDEX": 11,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:42:11.237Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 105,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1f8478d6-59a2-4107-b0c6-93d279d81b95",
+        "1fe3dc94-d16b-41f1-a976-ff51b41e0be9",
+        "4b919532-dca1-40ed-a4d6-86d945872a03"
+      ],
+      "teamId": "1f8478d659a24107b0c693d279d81b95:1fe3dc94d16b41f1a976ff51b41e0be9:4b919532dca140eda4d686d945872a03",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_argentina",
+        "GroupIdentity_GeoIdentity_mexico"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 14.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 53,
+      "rank": 14,
+      "score": 932448549186315,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:34:07.898Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1430,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:03:27.72Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1415,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:30:54.587Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1267,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:03:00.602Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1321,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:10.723Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1377,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:04:19.68Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1449,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "304249ea-73af-4b17-b738-e5e67fcbc0ed",
+        "769b8641-4a9c-4eb8-9427-5fd958905deb",
+        "e474081c-b012-445c-bfe8-fec307d02853"
+      ],
+      "teamId": "304249ea73af4b17b738e5e67fcbc0ed:769b86414a9c4eb894275fd958905deb:e474081cb012445cbfe8fec307d02853",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_argentina"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 26.0,
+          "pointsEarned": 26.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 50,
+      "rank": 15,
+      "score": 879725665033513,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:29:00.772Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1131,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:58:58.985Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1147,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:35:16.592Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1515,
+            "TEAM_ELIMS_STAT_INDEX": 16,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:42:55.126Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 151,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:34:05.95Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1429,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:44:01.109Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 224,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0cc57f46-c65e-41fb-a21f-ed5ddfa27590",
+        "7ac93628-1898-4d8a-86c8-63487f6cbf1b",
+        "e814bb4f-3d76-466f-8d19-db02db7d8743"
+      ],
+      "teamId": "0cc57f46c65e41fba21fed5ddfa27590:7ac9362818984d8a86c863487f6cbf1b:e814bb4f3d76466f8d19db02db7d8743",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_colombia",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 17.0,
+          "pointsEarned": 17.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 5.0,
+          "pointsEarned": 5.0
+        }
+      },
+      "pointsEarned": 48,
+      "rank": 16,
+      "score": 844501036099808,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:32:36.415Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1343,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:02:38.278Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1366,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:35:35.184Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1532,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:08.004Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1385,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:06.668Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1372,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:54:12.243Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 848,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0dd1ecfa-67db-48c2-9d6b-a65e1b795e30",
+        "24838f8b-d179-4d25-a7d4-91c175cde134",
+        "8a45b951-21bd-40b9-aa91-6a2349601c74"
+      ],
+      "teamId": "0dd1ecfa67db48c29d6ba65e1b795e30:24838f8bd1794d25a7d491c175cde134:8a45b95121bd40b9aa916a2349601c74",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 21.0,
+          "pointsEarned": 21.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 42,
+      "rank": 17,
+      "score": 738965901452914,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:31:02.772Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1252,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:54:23.026Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 870,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:30:45.292Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1257,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:02.703Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1380,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:29:43.096Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1169,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:04:22.708Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1452,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3e999b2d-bb0b-46a4-9028-9ba783142bff",
+        "c3fed2a8-f12f-4d39-ada7-a8aeb784285a",
+        "c4624cd1-7f5e-41c6-84ed-4d834025ea76"
+      ],
+      "teamId": "3e999b2dbb0b46a490289ba783142bff:c3fed2a8f12f4d39ada7a8aeb784285a:c4624cd17f5e41c684ed4d834025ea76",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 12.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 41,
+      "rank": 18,
+      "score": 721333453646149,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:34:42.185Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1462,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:00:05.481Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1214,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:32:58.21Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1387,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:32.245Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1407,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:32:35.857Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1342,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:58:33.259Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1107,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a3a4b125-5bd3-4428-89bd-faa99defcdc8",
+        "f69a9fe6-4d6f-4e6f-a9ad-fe2bb3a6524c",
+        "f75b5b38-bd94-4c7c-b288-0116633ef447"
+      ],
+      "teamId": "a3a4b1255bd3442889bdfaa99defcdc8:f69a9fe64d6f4e6fa9adfe2bb3a6524c:f75b5b38bd944c7cb2880116633ef447",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 18.0,
+          "pointsEarned": 18.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:2": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        }
+      },
+      "pointsEarned": 38,
+      "rank": 19,
+      "score": 668583724570961,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:27:09.999Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1021,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:42:55.357Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 33,
+            "TIME_ALIVE_STAT": 154,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 66,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:13:59.48Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 220,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:05:41.436Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1472,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:29:03.406Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1129,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:54:26.847Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 862,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "00305d46-8857-43f4-b3ba-e606acb1af38",
+        "3fb44adb-a289-439b-84d4-0b5bc8964122",
+        "42e5c658-26bd-4e0c-99f9-8431ab9baa1b"
+      ],
+      "teamId": "00305d46885743f4b3bae606acb1af38:3fb44adba289439b84d40b5bc8964122:42e5c65826bd4e0c99f98431ab9baa1b",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:4": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:3": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 12.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 38,
+      "rank": 20,
+      "score": 668556888400679,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:24:36.177Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 867,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:04:17.87Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1461,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:35:37.86Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1535,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:02:26.288Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1287,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:22:34.653Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 739,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:54:17.487Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 853,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "12b14273-2689-4d4b-a7a6-6d0eb05ae2fb",
+        "91fc3dc6-d497-4439-96cf-3d6c447db25f",
+        "95b05297-f0dc-4177-8a6e-37f9c19a8fd9"
+      ],
+      "teamId": "12b1427326894d4ba7a66d0eb05ae2fb:91fc3dc6d497443996cf3d6c447db25f:95b05297f0dc41778a6e37f9c19a8fd9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_japan",
+        "GroupIdentity_GeoIdentity_mexico"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:5": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 37,
+      "rank": 21,
+      "score": 650951285499807,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:24:49.974Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 881,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:03:23.555Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1412,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:32:50.748Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1379,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:59:34.487Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1115,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:34:24.879Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1447,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:02:56.535Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1369,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "05e17ab2-d6aa-4642-813d-dd4efa8adbbb",
+        "14caafa7-dc96-4c28-b800-96bcd5b38e30",
+        "1e1a068e-cb04-49ae-9c0d-ac4b9a0af813"
+      ],
+      "teamId": "05e17ab2d6aa4642813ddd4efa8adbbb:14caafa7dc964c28b80096bcd5b38e30:1e1a068ecb0449ae9c0dac4b9a0af813",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 11.0,
+          "pointsEarned": 11.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        }
+      },
+      "pointsEarned": 35,
+      "rank": 22,
+      "score": 615775773419862,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:26.713Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1391,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:03:16.658Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1405,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:33:36.602Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1422,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:00:38.912Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1179,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:29:48.228Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1174,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:02:46.591Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1359,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3ac14c44-c558-44f7-86d3-37418d30c6d5",
+        "88e9cba8-19cf-4580-b7d4-d45f343dac31",
+        "ed1260a4-238d-4028-bad1-1c5dc92efe18"
+      ],
+      "teamId": "3ac14c44c55844f786d337418d30c6d5:88e9cba819cf4580b7d4d45f343dac31:ed1260a4238d4028bad11c5dc92efe18",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_sweden",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 12.0,
+          "pointsEarned": 12.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        }
+      },
+      "pointsEarned": 30,
+      "rank": 23,
+      "score": 527819402503913,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:31:05.531Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1254,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:04:02.015Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1446,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:30:15.013Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1227,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:02:47.79Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1308,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:33:27.309Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1393,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:54:09.096Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 844,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1ea4f0a9-0a3b-4ad6-8711-64e32e592b68",
+        "5439066c-9a74-4fa3-a0dc-406de48aebe9",
+        "5f8f382e-4ff6-4008-9d97-02e9b5bbc885"
+      ],
+      "teamId": "1ea4f0a90a3b4ad6871164e32e592b68:5439066c9a744fa3a0dc406de48aebe9:5f8f382e4ff640089d9702e9b5bbc885",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:6": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 11.0,
+          "pointsEarned": 11.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 30,
+      "rank": 24,
+      "score": 527814830643127,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:23.023Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1388,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:48:03.715Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 490,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:24:33.388Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 884,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:41.37Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1416,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:12:52.871Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 151,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:43:56.661Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 219,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "5b804cf9-aec9-4180-8215-70a64c165cf4",
+        "5c322612-c266-4c0c-badb-6fdfc9dde04e",
+        "673b0fd2-95ff-4476-bb31-7b74fa8b3e7b"
+      ],
+      "teamId": "5b804cf9aec94180821570a64c165cf4:5c322612c2664c0cbadb6fdfc9dde04e:673b0fd295ff4476bb317b74fa8b3e7b",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_japan",
+        "GroupIdentity_GeoIdentity_russia",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 11.0,
+          "pointsEarned": 11.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 29,
+      "rank": 25,
+      "score": 510222648139230,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:43.169Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1407,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:45:35.794Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 328,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:24:41.324Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 892,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:47:05.85Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 389,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:31:31.378Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1277,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:04:06.43Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1437,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "befb0c17-3cd2-42d9-82d3-55078cf82202",
+        "d3d25f74-cbf8-46ec-9359-446bfa92f637",
+        "d53176f7-3a29-4fcd-85f0-ad5eb42dd780"
+      ],
+      "teamId": "befb0c173cd242d982d355078cf82202:d3d25f74cbf846ec9359446bfa92f637:d53176f73a294fcd85f0ad5eb42dd780",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_colombia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:7": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:9": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 9.0,
+          "pointsEarned": 9.0
+        },
+        "PLACEMENT_STAT_INDEX:8": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 3.0,
+          "pointsEarned": 3.0
+        }
+      },
+      "pointsEarned": 23,
+      "rank": 26,
+      "score": 404660676781639,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:26:53.32Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 1004,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:01:54.995Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1323,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:31:13.132Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1285,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:04:36.399Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1411,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:26:23.298Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 969,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:02:37.721Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "47759f16-0f66-44c2-a735-b626a6fab849",
+        "4d892d4c-0794-4b60-b01a-6da65a22ed21",
+        "626ef1bd-708b-4a3a-bcaf-d4caa43b629a"
+      ],
+      "teamId": "47759f160f6644c2a735b626a6fab849:4d892d4c07944b60b01a6da65a22ed21:626ef1bd708b4a3abcafd4caa43b629a",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 14.0,
+          "pointsEarned": 14.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 22,
+      "rank": 27,
+      "score": 387090761324237,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:32:49.136Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1356,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:43:01.211Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 160,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:14:12.865Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 235,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:03:09.041Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1329,
+            "TEAM_ELIMS_STAT_INDEX": 10,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:13:05.673Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 31,
+            "TIME_ALIVE_STAT": 165,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 68,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:58:54.478Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1128,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "a683b4c7-d8c7-448a-bd4c-7479f35db5a6",
+        "ca12074e-4e3b-42f8-9747-84d08daa5773",
+        "ecb3215f-62f0-432c-8011-65b372008d9e"
+      ],
+      "teamId": "a683b4c7d8c7448abd4c7479f35db5a6:ca12074e4e3b42f8974784d08daa5773:ecb3215f62f0432c801165b372008d9e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_global",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:10": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 10.0,
+          "pointsEarned": 10.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 19,
+      "rank": 28,
+      "score": 334296491647185,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:29:47.045Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1176,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T23:02:36.575Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1364,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:24:27.006Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 878,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:01:37.609Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1238,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:14:13.933Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 237,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:03:33.812Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1407,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "35a8327c-7d58-4226-befe-0bf73d02085a",
+        "3f005870-c1f8-4b93-afa5-cee13a5e0cbc",
+        "5db6a109-e91f-46ec-b682-cd696158d4de"
+      ],
+      "teamId": "35a8327c7d584226befe0bf73d02085a:3f005870c1f84b93afa5cee13a5e0cbc:5db6a109e91f46ecb682cd696158d4de",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_southkorea"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:11": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:12": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 7.0,
+          "pointsEarned": 7.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        }
+      },
+      "pointsEarned": 14,
+      "rank": 29,
+      "score": 246322135818253,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:24:32.899Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 864,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:57:08.134Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1036,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:24:19.009Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 870,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:55:07.186Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 848,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:29:04.046Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1130,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:03:30.616Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1404,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "12d40f12-84c8-4b6b-b5d1-225365c586de",
+        "3747a0e2-1798-4e39-9aef-c25c5cfb16dd",
+        "7837f574-990c-4f1e-991e-5783f02d83d3"
+      ],
+      "teamId": "12d40f1284c84b6bb5d1225365c586de:3747a0e217984e399aefc25c5cfb16dd:7837f574990c4f1e991e5783f02d83d3",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_russia",
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 8.0,
+          "pointsEarned": 8.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 12,
+      "rank": 30,
+      "score": 211142057876763,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:24:03.138Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 32,
+            "TIME_ALIVE_STAT": 834,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 67,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:47:41.451Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 467,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:28:39.935Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1132,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:48:19.254Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 452,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:32:44.922Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:02:37.827Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1351,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "675950bd-e95a-4937-9dc3-7e298194cf1b",
+        "d3811903-df1e-4d78-b335-3fa08a9810c5",
+        "fc1134cb-08b9-45e9-a057-08fc5414f63f"
+      ],
+      "teamId": "675950bde95a49379dc37e298194cf1b:d3811903df1e4d78b3353fa08a9810c5:fc1134cb08b945e9a05708fc5414f63f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:14": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:15": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:16": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        },
+        "PLACEMENT_STAT_INDEX:13": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        }
+      },
+      "pointsEarned": 7,
+      "rank": 31,
+      "score": 123154284109364,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:33:09.487Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1376,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:54:31.94Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 879,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:28:06.79Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1098,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-01T23:53:51.991Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 773,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:24:11.981Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 837,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T00:53:58.957Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 834,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3aea5501-6b41-4fd2-9d7f-879971f51e4c",
+        "5dd3674a-930d-4538-bdf9-98759b95c0cc",
+        "96db3b5e-cf16-4b03-bb1e-d353d22b896f"
+      ],
+      "teamId": "3aea55016b414fd29d7f879971f51e4c:5dd3674a930d4538bdf998759b95c0cc:96db3b5ecf164b03bb1ed353d22b896f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_japan",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 4.0,
+          "pointsEarned": 4.0
+        },
+        "PLACEMENT_STAT_INDEX:17": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 1.0
+        }
+      },
+      "pointsEarned": 5,
+      "rank": 32,
+      "score": 87979039924220,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:24:34.848Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 866,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:47:25.334Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 449,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 69,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "1615c24ab8964ddca25944dec05b4b67",
+          "endTime": "2020-11-01T23:31:05.241Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1278,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "82b1c5d0b40b4ba6a730f1cd22de77e9",
+          "endTime": "2020-11-02T00:02:37.345Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1298,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "56da2e9688154798a62cd200a78af6fb",
+          "endTime": "2020-11-02T00:26:52.62Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 998,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "7d0b5c5e555b47548d32d30f9774e394",
+          "endTime": "2020-11-02T01:00:53.821Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1247,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1f827dae-0bcc-4c8d-ac23-e5b7e3d97c9d",
+        "735a3fb2-6e88-47f0-a1fc-deb0d9bd2d31",
+        "ba0da8c5-a651-4d85-bfcf-3303eb364daf"
+      ],
+      "teamId": "1f827dae0bcc4c8dac23e5b7e3d97c9d:735a3fb26e8847f0a1fcdeb0d9bd2d31:ba0da8c5a6514d85bfcf3303eb364daf",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+      "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "TEAM_ELIMS_STAT_INDEX:1": {
+          "timesAchieved": 2.0,
+          "pointsEarned": 2.0
+        }
+      },
+      "pointsEarned": 2,
+      "rank": 33,
+      "score": 35211336063245,
+      "sessionHistory": [
+        {
+          "sessionId": "67748f687f014d6c876a7f371f314e5d",
+          "endTime": "2020-11-01T22:27:01.367Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 1012,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        },
+        {
+          "sessionId": "624aa33602bc4703b0980e94a6960e25",
+          "endTime": "2020-11-01T22:49:46.907Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 589,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "068279b8-a5c0-4a8b-8102-b908f64d8daf",
+        "9e24ee30-d65d-440f-8d03-a4946a9f1d43",
+        "d1cc556c-6eac-4ec8-83de-52bebc0bd2e9"
+      ],
+      "teamId": "068279b8a5c04a8b8102b908f64d8daf:9e24ee30d65d440f8d03a4946a9f1d43:d1cc556c6eac4ec883de52bebc0bd2e9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    }
+  ],
+  "eventId": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+  "eventWindowId": "S14_FNCS_Finals_NAE_PC_Grandfinals_Event2",
+  "gameId": "Fortnite",
+  "page": 0,
+  "totalPages": 1,
+  "updatedTime": "2021-01-25T02:00:38.184Z",
+  "liveSessions": {}
+};
+
+var imp_leaderboard = {
+  "internal_Last_Updated": "2021-04-01T21:25:49.3054545Z",
+  "internal_Cache_Mins": 2147483647,
+  "internal_Next_Update": "6104-04-24T23:32:49.3054545Z",
+  "internal_Accounts": {
+    "b9752052-79d8-4a75-983c-03301d24754c": {
+      "nickname": "soul ه"
+    },
+    "fc1134cb-08b9-45e9-a057-08fc5414f63f": {
+      "nickname": "NeonWTFF YT"
+    },
+    "3fb44adb-a289-439b-84d4-0b5bc8964122": {
+      "nickname": "XTRA Furiouѕ"
+    },
+    "2b9fb499-2934-4c3d-8fb6-0c0d1d0fc067": {
+      "nickname": "TNA OliverOG"
+    },
+    "2b987b57-eff1-47dd-934b-0e33e62035f8": {
+      "nickname": "4PF Ethan"
+    },
+    "48590a25-9be6-4bb5-9809-1e8ff4dd5e47": {
+      "nickname": "Felix - -"
+    },
+    "17d61e75-dd7d-44ff-84fd-2009ffdaf977": {
+      "nickname": "Elite Neeqo"
+    },
+    "768ac9cc-c68c-42a3-af25-21c86e7a061e": {
+      "nickname": "Ghoulゞ"
+    },
+    "da549490-5e15-47b8-9045-269240ff2b50": {
+      "nickname": "OUTCAST RAL YT",
+      "countryCode": "US"
+    },
+    "f8eeece8-0392-4b90-93db-2812e6772743": {
+      "nickname": "Pure Ganzo"
+    },
+    "cc383e69-3def-4c0e-831b-285f97dbf299": {
+      "nickname": "ELITE SEBBY7"
+    },
+    "6fa024b0-e13d-44be-9b6d-299d1e38ac0c": {
+      "nickname": "Rehan plays osu"
+    },
+    "27492772-ffce-4586-b688-33131ca6deea": {
+      "nickname": "skillѕ.",
+      "countryCode": "CN",
+      "twitchName": "SkillsFN"
+    },
+    "7961a276-6c47-4822-86b7-3546d1758150": {
+      "nickname": "OA Rocaine",
+      "twitchName": "rocaineg"
+    },
+    "95b05297-f0dc-4177-8a6e-37f9c19a8fd9": {
+      "nickname": "G2 Jelty."
+    },
+    "0db2c1c5-0154-427b-a1ce-396b91d266a8": {
+      "nickname": "Visxals"
+    },
+    "e6c4db10-7f05-4a4d-8784-3bf653e1a840": {
+      "nickname": "Agro"
+    },
+    "dc451c89-9522-405d-8437-3c6e93f72881": {
+      "nickname": "cozhies ψ"
+    },
+    "91fc3dc6-d497-4439-96cf-3d6c447db25f": {
+      "nickname": "XTRA Alliege uwu"
+    },
+    "d3811903-df1e-4d78-b335-3fa08a9810c5": {
+      "nickname": "Mirevz ay лол"
+    },
+    "a8fb52a6-1581-4c45-9516-416714439bd4": {
+      "nickname": "susscript Ȣƻ"
+    },
+    "fa812917-71cf-4b90-ae1b-444d727df46e": {
+      "nickname": "FаZe Dubs ϟ",
+      "twitchName": "dubs"
+    },
+    "5baf9080-4111-4bcc-aff8-45a6194144ce": {
+      "nickname": "brycxski",
+      "countryCode": "US",
+      "twitchName": "BrycxFN",
+      "twitchId": "196132923"
+    },
+    "d30230ff-ecf9-4ad5-b461-4884fcf255cd": {
+      "nickname": "ghost nanoo",
+      "twitchName": "nanolite"
+    },
+    "8e9ea98a-6f1a-4af7-84c0-4e5ee4b1d4fb": {
+      "nickname": "Insight Karma"
+    },
+    "d1cc556c-6eac-4ec8-83de-52bebc0bd2e9": {
+      "nickname": "HWBT Gage",
+      "countryCode": "US",
+      "twitchName": "1337gage",
+      "twitchId": "65033197"
+    },
+    "befb0c17-3cd2-42d9-82d3-55078cf82202": {
+      "nickname": "ENDLESS TRAGIX"
+    },
+    "752fbff5-aafa-4d87-bea7-5749aa07a8b4": {
+      "nickname": "lyejax"
+    },
+    "ffb74ac9-396d-438c-9fe1-57ea08ab4353": {
+      "nickname": "chukkimp",
+      "countryCode": "CA"
+    },
+    "cb93f923-ef34-4e97-a90d-5f82a220bacc": {
+      "nickname": "Insight Okote"
+    },
+    "b5eded11-4172-4d66-920d-69e2e7127cbb": {
+      "nickname": "Liquid ЅТRETCН",
+      "countryCode": "US",
+      "twitchName": "stretch"
+    },
+    "c2f4d8d3-92d6-42a3-baa1-6a16205b13e9": {
+      "nickname": "qwеx"
+    },
+    "8a45b951-21bd-40b9-aa91-6a2349601c74": {
+      "nickname": "clarityG",
+      "twitchName": "clarityg_"
+    },
+    "12b14273-2689-4d4b-a7a6-6d0eb05ae2fb": {
+      "nickname": "ENDLESS pgod",
+      "countryCode": "PE"
+    },
+    "4d892d4c-0794-4b60-b01a-6da65a22ed21": {
+      "nickname": "Kn1pher"
+    },
+    "8744c25c-f9ba-420f-b5b2-725308823639": {
+      "nickname": "LDamienS"
+    },
+    "0417c403-c40a-4a11-9d73-72d6a55b4a08": {
+      "nickname": "Claw ウ"
+    },
+    "7c45bd29-f222-4eb7-af76-73ffd222beb3": {
+      "nickname": "TSM Сo1azo"
+    },
+    "2d386ad2-9dd8-4db1-89f2-755362071753": {
+      "nickname": "Hornеt",
+      "countryCode": "US"
+    },
+    "693124d0-4a9d-439c-9676-75d9e156758a": {
+      "nickname": "BBG Haz",
+      "twitchName": "hazthagreat"
+    },
+    "01156dfc-6e11-494e-a5c9-76d2a0c0ac04": {
+      "nickname": "kwаh"
+    },
+    "e256124d-3156-4fb8-81d7-7857d9fee45d": {
+      "nickname": "Pure Cryp 父"
+    },
+    "077343a2-0e47-4723-aecc-78d877aec8d3": {
+      "nickname": "inqyns .",
+      "countryCode": "US"
+    },
+    "675950bd-e95a-4937-9dc3-7e298194cf1b": {
+      "nickname": "Kjrop"
+    },
+    "ec755cf0-df02-44e5-9dc4-840688c900a1": {
+      "nickname": "47 Logic",
+      "countryCode": "US"
+    },
+    "f767b4cf-f364-41fb-83a6-873163f8bfb2": {
+      "nickname": "OA Whofishy",
+      "twitchName": "whofishy"
+    },
+    "fc2e48e5-8c23-479c-9c67-8976f87c33a0": {
+      "nickname": "MAGNOLIAǃ"
+    },
+    "90a9e0d3-4e33-4e3b-b225-9063b2f8e3ad": {
+      "nickname": "Sparebow ."
+    },
+    "24838f8b-d179-4d25-a7d4-91c175cde134": {
+      "nickname": "mikey6."
+    },
+    "08be24f0-bb45-41bc-9d1a-91e3f0f16017": {
+      "nickname": "DeRoller."
+    },
+    "f9b82506-465e-4faf-a7dc-94dcb431bcba": {
+      "nickname": "Lаrson"
+    },
+    "94fa99b7-37c6-452e-bce5-97a35306decd": {
+      "nickname": "Ѕtrafes"
+    },
+    "439e7417-37a5-4167-821c-99741b6a1369": {
+      "nickname": "Wаlkman",
+      "countryCode": "US",
+      "twitchName": "walkmantv",
+      "twitchId": "437255673"
+    },
+    "3e999b2d-bb0b-46a4-9028-9ba783142bff": {
+      "nickname": "Klaѕѕ",
+      "countryCode": "US",
+      "twitchName": "klass"
+    },
+    "7c18d3ea-ab92-4d42-b054-9c031d15f5f2": {
+      "nickname": "Adonіs",
+      "countryCode": "US",
+      "twitchName": "Adonis",
+      "twitchId": "97677027"
+    },
+    "e0d1d4ac-dce0-430a-bd32-9eed358062cd": {
+      "nickname": "Twitter Avemfn",
+      "countryCode": "US",
+      "twitchName": "LuxeKeys"
+    },
+    "b49902cb-d1b4-4fb4-8907-a2586bc8280b": {
+      "nickname": "fаtch",
+      "countryCode": "CA",
+      "twitchName": "FNfatch",
+      "twitchId": "411418057"
+    },
+    "9e24ee30-d65d-440f-8d03-a4946a9f1d43": {
+      "nickname": "Plege"
+    },
+    "22ed4bdf-ba91-496a-a7d8-a5990f31fa54": {
+      "nickname": "Jerids"
+    },
+    "0dd1ecfa-67db-48c2-9d6b-a65e1b795e30": {
+      "nickname": "Ghost Nittle",
+      "twitchName": "nittlefn"
+    },
+    "c3fed2a8-f12f-4d39-ada7-a8aeb784285a": {
+      "nickname": "Eclipsae",
+      "countryCode": "US",
+      "twitchName": "eclipsae"
+    },
+    "3f429aac-d44f-4a1c-83dc-a963097bd010": {
+      "nickname": "TFC Sharkman."
+    },
+    "1cea31aa-e8e8-4079-8764-ae1812fc09c9": {
+      "nickname": "cloudy -α-"
+    },
+    "44e24373-be32-4775-b57a-afe239dd0802": {
+      "nickname": "fearfll"
+    },
+    "0051173d-5a93-40b5-bc70-b0a27151a282": {
+      "nickname": "TNA Jeff"
+    },
+    "0936feb6-9d23-4f99-9aef-b246b20ec49e": {
+      "nickname": "Xen Kiox"
+    },
+    "7ce93ad5-9fdd-4fd5-87cd-b370c3ba71e6": {
+      "nickname": "Scoped on SARMS",
+      "twitchName": "scoped"
+    },
+    "47759f16-0f66-44c2-a735-b626a6fab849": {
+      "nickname": "LG Joji"
+    },
+    "8ae9871e-5e3e-46b1-986f-b68cc0120f99": {
+      "nickname": "Zûky",
+      "countryCode": "CA"
+    },
+    "fe861117-11b4-49a6-a41a-b6b8f6a618ce": {
+      "nickname": "Aminished",
+      "countryCode": "US"
+    },
+    "c307ea0e-2ff9-49a2-b547-b79838c665a9": {
+      "nickname": "DaETBaby",
+      "countryCode": "CA"
+    },
+    "34316b82-e61c-4ab9-8e19-bff8922c4592": {
+      "nickname": "Reducs"
+    },
+    "cbfa6071-b14a-4310-8e99-c22313431944": {
+      "nickname": "twitter sphinxfn"
+    },
+    "96100f9b-2871-486a-ad7c-c61d01236695": {
+      "nickname": "scrubbyawesomer"
+    },
+    "803c263c-0831-43e6-b103-c6e390696823": {
+      "nickname": "twitter cozyFA"
+    },
+    "44dbb375-58e7-4f0a-bdbb-c8a8b31a78de": {
+      "nickname": "TrainH saffy"
+    },
+    "50f8b064-6a19-45aa-8b47-d25fe221903d": {
+      "nickname": "Aperta_",
+      "countryCode": "US"
+    },
+    "626ef1bd-708b-4a3a-bcaf-d4caa43b629a": {
+      "nickname": "9LIVES TabzG",
+      "countryCode": "US",
+      "twitchName": "tabzg"
+    },
+    "37da09eb-8b57-4968-ad36-da5adc02232b": {
+      "nickname": "coldfv",
+      "countryCode": "US"
+    },
+    "8e66bee5-c50b-4486-9a16-e3d59c270894": {
+      "nickname": "XPRT Xccept"
+    },
+    "cf51b18f-d51b-4a65-b1e8-e4fbd5777d68": {
+      "nickname": "Spayde OT",
+      "countryCode": "US"
+    },
+    "57d89f18-a34a-4358-b701-e9f84dcbfcb2": {
+      "nickname": "BBG Calc",
+      "twitchName": "calculator"
+    },
+    "616cb69e-8c8b-4f45-a831-ea392f97c8e3": {
+      "nickname": "FaZe Megga.",
+      "twitchName": "megga"
+    },
+    "ac93a141-2903-49af-a522-f0ba8ddc3715": {
+      "nickname": "Enquz"
+    },
+    "aaa6130d-e070-4dbe-ad7e-f18acd48dd84": {
+      "nickname": "strawhat charlie"
+    },
+    "455af85b-bbd0-44ec-96f7-f1eea519e372": {
+      "nickname": "nounzy dbadabdab",
+      "countryCode": "US"
+    },
+    "1eb778fb-8326-4db3-8d40-f1fdc0a2cd60": {
+      "nickname": "NRG ZAYT",
+      "twitchName": "zayt"
+    },
+    "76edd46c-8399-45c8-baec-f7608b322668": {
+      "nickname": "tascle",
+      "countryCode": "US",
+      "twitchName": "Tascle",
+      "twitchId": "277330369"
+    },
+    "df2f8ff5-bee0-4f5e-b11d-fe0f384bedce": {
+      "nickname": "youtube epwy"
+    },
+    "bf1bfec1-6aa6-4f4c-b717-ff4a267d7752": {
+      "nickname": "kyrha_ow"
+    }
+  },
+  "entries": [
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {
+        "PLACEMENT_STAT_INDEX:1": {
+          "timesAchieved": 1.0,
+          "pointsEarned": 10.0
+        }
+      },
+      "pointsEarned": 10,
+      "rank": 1,
+      "score": 177102064922185,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:11:02Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 1,
+            "TIME_ALIVE_STAT": 1481,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 99,
+            "VICTORY_ROYALE_STAT": 1
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1eb778fb-8326-4db3-8d40-f1fdc0a2cd60",
+        "44dbb375-58e7-4f0a-bdbb-c8a8b31a78de",
+        "b5eded11-4172-4d66-920d-69e2e7127cbb"
+      ],
+      "teamId": "1eb778fb83264db38d40f1fdc0a2cd60:44dbb37558e74f0abdbbc8a8b31a78de:b5eded1141724d66920d69e2e7127cbb",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_mexico",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 2,
+      "score": 241745931388,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:10:12Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 6,
+            "TIME_ALIVE_STAT": 1423,
+            "TEAM_ELIMS_STAT_INDEX": 9,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 94,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "01156dfc-6e11-494e-a5c9-76d2a0c0ac04",
+        "17d61e75-dd7d-44ff-84fd-2009ffdaf977",
+        "7961a276-6c47-4822-86b7-3546d1758150"
+      ],
+      "teamId": "01156dfc6e11494ea5c976d2a0c0ac04:17d61e75dd7d44ff84fd2009ffdaf977:7961a2766c47482286b73546d1758150",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 3,
+      "score": 188065394255,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:11:05Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 2,
+            "TIME_ALIVE_STAT": 1481,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 98,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "616cb69e-8c8b-4f45-a831-ea392f97c8e3",
+        "c3fed2a8-f12f-4d39-ada7-a8aeb784285a",
+        "fa812917-71cf-4b90-ae1b-444d727df46e"
+      ],
+      "teamId": "616cb69e8c8b4f45a831ea392f97c8e3:c3fed2a8f12f4d39ada7a8aeb784285a:fa81291771cf4b90ae1b444d727df46e",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 4,
+      "score": 188063755629,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:10:55Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 3,
+            "TIME_ALIVE_STAT": 1453,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 97,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "8ae9871e-5e3e-46b1-986f-b68cc0120f99",
+        "b49902cb-d1b4-4fb4-8907-a2586bc8280b",
+        "ffb74ac9-396d-438c-9fe1-57ea08ab4353"
+      ],
+      "teamId": "8ae9871e5e3e46b1986fb68cc0120f99:b49902cbd1b44fb48907a2586bc8280b:ffb74ac9396d438c9fe157ea08ab4353",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_france"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 5,
+      "score": 188044093874,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:08:38Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 15,
+            "TIME_ALIVE_STAT": 1334,
+            "TEAM_ELIMS_STAT_INDEX": 7,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 85,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "27492772-ffce-4586-b688-33131ca6deea",
+        "b9752052-79d8-4a75-983c-03301d24754c",
+        "c2f4d8d3-92d6-42a3-baa1-6a16205b13e9"
+      ],
+      "teamId": "27492772ffce4586b68833131ca6deea:b975205279d84a75983c03301d24754c:c2f4d8d392d642a3baa16a16205b13e9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_southkorea",
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 6,
+      "score": 161208740684,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:09:15Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 10,
+            "TIME_ALIVE_STAT": 1385,
+            "TEAM_ELIMS_STAT_INDEX": 6,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 90,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3fb44adb-a289-439b-84d4-0b5bc8964122",
+        "57d89f18-a34a-4358-b701-e9f84dcbfcb2",
+        "cc383e69-3def-4c0e-831b-285f97dbf299"
+      ],
+      "teamId": "3fb44adba289439b84d40b5bc8964122:57d89f18a34a4358b701e9f84dcbfcb2:cc383e693def4c0e831b285f97dbf299",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_italy"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 7,
+      "score": 134373387465,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:10:08Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 5,
+            "TIME_ALIVE_STAT": 1433,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 95,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0dd1ecfa-67db-48c2-9d6b-a65e1b795e30",
+        "24838f8b-d179-4d25-a7d4-91c175cde134",
+        "8a45b951-21bd-40b9-aa91-6a2349601c74"
+      ],
+      "teamId": "0dd1ecfa67db48c29d6ba65e1b795e30:24838f8bd1794d25a7d491c175cde134:8a45b95121bd40b9aa916a2349601c74",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 8,
+      "score": 134366833598,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:10:01Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 9,
+            "TIME_ALIVE_STAT": 1399,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 91,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "08be24f0-bb45-41bc-9d1a-91e3f0f16017",
+        "3e999b2d-bb0b-46a4-9028-9ba783142bff",
+        "7c45bd29-f222-4eb7-af76-73ffd222beb3"
+      ],
+      "teamId": "08be24f0bb4541bc9d1a91e3f0f16017:3e999b2dbb0b46a490289ba783142bff:7c45bd29f2224eb7af7673ffd222beb3",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 9,
+      "score": 134360279590,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:08:49Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 13,
+            "TIME_ALIVE_STAT": 1348,
+            "TEAM_ELIMS_STAT_INDEX": 5,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 87,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "675950bd-e95a-4937-9dc3-7e298194cf1b",
+        "d3811903-df1e-4d78-b335-3fa08a9810c5",
+        "fc1134cb-08b9-45e9-a057-08fc5414f63f"
+      ],
+      "teamId": "675950bde95a49379dc37e298194cf1b:d3811903df1e4d78b3353fa08a9810c5:fc1134cb08b945e9a05708fc5414f63f",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 10,
+      "score": 107531480328,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:10:36Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 4,
+            "TIME_ALIVE_STAT": 1441,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 96,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "4d892d4c-0794-4b60-b01a-6da65a22ed21",
+        "8e66bee5-c50b-4486-9a16-e3d59c270894",
+        "cf51b18f-d51b-4a65-b1e8-e4fbd5777d68"
+      ],
+      "teamId": "4d892d4c07944b60b01a6da65a22ed21:8e66bee5c50b44869a16e3d59c270894:cf51b18fd51b4a65b1e8e4fbd5777d68",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 11,
+      "score": 107520011038,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:09:09Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 11,
+            "TIME_ALIVE_STAT": 1379,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 89,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "50f8b064-6a19-45aa-8b47-d25fe221903d",
+        "dc451c89-9522-405d-8437-3c6e93f72881",
+        "fe861117-11b4-49a6-a41a-b6b8f6a618ce"
+      ],
+      "teamId": "50f8b0646a1945aa8b47d25fe221903d:dc451c899522405d84373c6e93f72881:fe86111711b449a6a41ab6b8f6a618ce",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 12,
+      "score": 107518372492,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:09:06Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 12,
+            "TIME_ALIVE_STAT": 1361,
+            "TEAM_ELIMS_STAT_INDEX": 4,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 88,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0051173d-5a93-40b5-bc70-b0a27151a282",
+        "6fa024b0-e13d-44be-9b6d-299d1e38ac0c",
+        "ec755cf0-df02-44e5-9dc4-840688c900a1"
+      ],
+      "teamId": "0051173d5a9340b5bc70b0a27151a282:6fa024b0e13d44be9b6d299d1e38ac0c:ec755cf0df0244e59dc4840688c900a1",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 13,
+      "score": 80683019247,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:09:32Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 7,
+            "TIME_ALIVE_STAT": 1405,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 93,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0db2c1c5-0154-427b-a1ce-396b91d266a8",
+        "768ac9cc-c68c-42a3-af25-21c86e7a061e",
+        "f9b82506-465e-4faf-a7dc-94dcb431bcba"
+      ],
+      "teamId": "0db2c1c50154427ba1ce396b91d266a8:768ac9ccc68c42a3af2521c86e7a061e:f9b82506465e4fafa7dc94dcb431bcba",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_japan"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 14,
+      "score": 80681380827,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:09:53Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 8,
+            "TIME_ALIVE_STAT": 1403,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 92,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "37da09eb-8b57-4968-ad36-da5adc02232b",
+        "df2f8ff5-bee0-4f5e-b11d-fe0f384bedce",
+        "e256124d-3156-4fb8-81d7-7857d9fee45d"
+      ],
+      "teamId": "37da09eb8b574968ad36da5adc02232b:df2f8ff5bee04f5eb11dfe0f384bedce:e256124d31564fb881d77857d9fee45d",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_global",
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_russia"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 15,
+      "score": 80671549961,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:08:33Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 14,
+            "TIME_ALIVE_STAT": 1345,
+            "TEAM_ELIMS_STAT_INDEX": 3,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 86,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "455af85b-bbd0-44ec-96f7-f1eea519e372",
+        "aaa6130d-e070-4dbe-ad7e-f18acd48dd84",
+        "d1cc556c-6eac-4ec8-83de-52bebc0bd2e9"
+      ],
+      "teamId": "455af85bbbd044ec96f7f1eea519e372:aaa6130de0704dbead7ef18acd48dd84:d1cc556c6eac4ec883de52bebc0bd2e9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_argentina",
+        "GroupIdentity_GeoIdentity_japan",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 16,
+      "score": 53816533972,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:05:50Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 21,
+            "TIME_ALIVE_STAT": 1146,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 79,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "8744c25c-f9ba-420f-b5b2-725308823639",
+        "c307ea0e-2ff9-49a2-b547-b79838c665a9",
+        "cb93f923-ef34-4e97-a90d-5f82a220bacc"
+      ],
+      "teamId": "8744c25cf9ba420fb5b2725308823639:c307ea0e2ff949a2b547b79838c665a9:cb93f923ef344e97a90d5f82a220bacc",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_canada"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 17,
+      "score": 53805058480,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T01:51:34Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 28,
+            "TIME_ALIVE_STAT": 310,
+            "TEAM_ELIMS_STAT_INDEX": 2,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 72,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "1cea31aa-e8e8-4079-8764-ae1812fc09c9",
+        "2b987b57-eff1-47dd-934b-0e33e62035f8",
+        "a8fb52a6-1581-4c45-9516-416714439bd4"
+      ],
+      "teamId": "1cea31aae8e840798764ae1812fc09c9:2b987b57eff147dd934b0e33e62035f8:a8fb52a615814c459516416714439bd4",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_germany"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 18,
+      "score": 26971349644,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:04:38Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 22,
+            "TIME_ALIVE_STAT": 1105,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 78,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "12b14273-2689-4d4b-a7a6-6d0eb05ae2fb",
+        "91fc3dc6-d497-4439-96cf-3d6c447db25f",
+        "95b05297-f0dc-4177-8a6e-37f9c19a8fd9"
+      ],
+      "teamId": "12b1427326894d4ba7a66d0eb05ae2fb:91fc3dc6d497443996cf3d6c447db25f:95b05297f0dc41778a6e37f9c19a8fd9",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_japan",
+        "GroupIdentity_GeoIdentity_mexico"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 19,
+      "score": 26969711037,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:03:57Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 23,
+            "TIME_ALIVE_STAT": 1079,
+            "TEAM_ELIMS_STAT_INDEX": 1,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 77,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "76edd46c-8399-45c8-baec-f7608b322668",
+        "8e9ea98a-6f1a-4af7-84c0-4e5ee4b1d4fb",
+        "e0d1d4ac-dce0-430a-bd32-9eed358062cd"
+      ],
+      "teamId": "76edd46c839945c8baecf7608b322668:8e9ea98a6f1a4af784c04e5ee4b1d4fb:e0d1d4acdce0430abd329eed358062cd",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 20,
+      "score": 137636173,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:08:21Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 16,
+            "TIME_ALIVE_STAT": 1321,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 84,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "47759f16-0f66-44c2-a735-b626a6fab849",
+        "626ef1bd-708b-4a3a-bcaf-d4caa43b629a",
+        "f767b4cf-f364-41fb-83a6-873163f8bfb2"
+      ],
+      "teamId": "47759f160f6644c2a735b626a6fab849:626ef1bd708b4a3abcafd4caa43b629a:f767b4cff36441fb83a6873163f8bfb2",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 21,
+      "score": 135997600,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:07:37Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 17,
+            "TIME_ALIVE_STAT": 1300,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 83,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "48590a25-9be6-4bb5-9809-1e8ff4dd5e47",
+        "90a9e0d3-4e33-4e3b-b225-9063b2f8e3ad",
+        "bf1bfec1-6aa6-4f4c-b717-ff4a267d7752"
+      ],
+      "teamId": "48590a259be64bb598091e8ff4dd5e47:90a9e0d34e334e3bb2259063b2f8e3ad:bf1bfec16aa64f4cb717ff4a267d7752",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 22,
+      "score": 134359207,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:07:43Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 18,
+            "TIME_ALIVE_STAT": 1300,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 82,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "2b9fb499-2934-4c3d-8fb6-0c0d1d0fc067",
+        "34316b82-e61c-4ab9-8e19-bff8922c4592",
+        "5baf9080-4111-4bcc-aff8-45a6194144ce"
+      ],
+      "teamId": "2b9fb49929344c3d8fb60c0d1d0fc067:34316b82e61c4ab98e19bff8922c4592:5baf908041114bccaff845a6194144ce",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 23,
+      "score": 132720779,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:07:42Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 19,
+            "TIME_ALIVE_STAT": 1297,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 81,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "077343a2-0e47-4723-aecc-78d877aec8d3",
+        "803c263c-0831-43e6-b103-c6e390696823",
+        "cbfa6071-b14a-4310-8e99-c22313431944"
+      ],
+      "teamId": "077343a20e474723aecc78d877aec8d3:803c263c083143e6b103c6e390696823:cbfa6071b14a43108e99c22313431944",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_wales",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 24,
+      "score": 131081336,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:05:28Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 20,
+            "TIME_ALIVE_STAT": 1167,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 80,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "96100f9b-2871-486a-ad7c-c61d01236695",
+        "9e24ee30-d65d-440f-8d03-a4946a9f1d43",
+        "d30230ff-ecf9-4ad5-b461-4884fcf255cd"
+      ],
+      "teamId": "96100f9b2871486aad7cc61d01236695:9e24ee30d65d440f8d03a4946a9f1d43:d30230ffecf94ad5b4614884fcf255cd",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 25,
+      "score": 124526050,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:02:23Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 24,
+            "TIME_ALIVE_STAT": 956,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 76,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "693124d0-4a9d-439c-9676-75d9e156758a",
+        "7ce93ad5-9fdd-4fd5-87cd-b370c3ba71e6",
+        "befb0c17-3cd2-42d9-82d3-55078cf82202"
+      ],
+      "teamId": "693124d04a9d439c967675d9e156758a:7ce93ad59fdd4fd587cdb370c3ba71e6:befb0c173cd242d982d355078cf82202",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 26,
+      "score": 122887489,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T02:02:03Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 25,
+            "TIME_ALIVE_STAT": 936,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 75,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "2d386ad2-9dd8-4db1-89f2-755362071753",
+        "752fbff5-aafa-4d87-bea7-5749aa07a8b4",
+        "7c18d3ea-ab92-4d42-b054-9c031d15f5f2"
+      ],
+      "teamId": "2d386ad29dd84db189f2755362071753:752fbff5aafa4d87bea75749aa07a8b4:7c18d3eaab924d42b0549c031d15f5f2",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 27,
+      "score": 121247815,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T01:58:59Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 26,
+            "TIME_ALIVE_STAT": 776,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 74,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "3f429aac-d44f-4a1c-83dc-a963097bd010",
+        "44e24373-be32-4775-b57a-afe239dd0802",
+        "ac93a141-2903-49af-a522-f0ba8ddc3715"
+      ],
+      "teamId": "3f429aacd44f4a1c83dca963097bd010:44e24373be324775b57aafe239dd0802:ac93a141290349afa522f0ba8ddc3715",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_canada",
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_global"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 28,
+      "score": 119607447,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T01:55:02Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 27,
+            "TIME_ALIVE_STAT": 530,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 73,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "94fa99b7-37c6-452e-bce5-97a35306decd",
+        "da549490-5e15-47b8-9045-269240ff2b50",
+        "fc2e48e5-8c23-479c-9c67-8976f87c33a0"
+      ],
+      "teamId": "94fa99b737c6452ebce597a35306decd:da5494905e1547b89045269240ff2b50:fc2e48e58c23479c9c678976f87c33a0",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_southkorea",
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 29,
+      "score": 116328723,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T01:50:55Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 29,
+            "TIME_ALIVE_STAT": 290,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 71,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0936feb6-9d23-4f99-9aef-b246b20ec49e",
+        "22ed4bdf-ba91-496a-a7d8-a5990f31fa54",
+        "f8eeece8-0392-4b90-93db-2812e6772743"
+      ],
+      "teamId": "0936feb69d234f999aefb246b20ec49e:22ed4bdfba91496aa7d8a5990f31fa54:f8eeece803924b9093db2812e6772743",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates",
+        "GroupIdentity_GeoIdentity_japan"
+      ]
+    },
+    {
+      "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+      "eventWindowId": "S15_FNCS_RebootRound_NAE",
+      "gameId": "Fortnite",
+      "percentile": 0.0,
+      "pointBreakdown": {},
+      "pointsEarned": 0,
+      "rank": 30,
+      "score": 114689160,
+      "sessionHistory": [
+        {
+          "sessionId": "95c5d5d28302450c8a6330945ffb06c7",
+          "endTime": "2021-03-08T01:48:22Z",
+          "trackedStats": {
+            "PLACEMENT_STAT_INDEX": 30,
+            "TIME_ALIVE_STAT": 145,
+            "TEAM_ELIMS_STAT_INDEX": 0,
+            "MATCH_PLAYED_STAT": 1,
+            "PLACEMENT_TIEBREAKER_STAT": 70,
+            "VICTORY_ROYALE_STAT": 0
+          }
+        }
+      ],
+      "teamAccountIds": [
+        "0417c403-c40a-4a11-9d73-72d6a55b4a08",
+        "439e7417-37a5-4167-821c-99741b6a1369",
+        "e6c4db10-7f05-4a4d-8784-3bf653e1a840"
+      ],
+      "teamId": "0417c403c40a4a119d7372d6a55b4a08:439e741737a54167821c99741b6a1369:e6c4db107f054a4d87843bf653e1a840",
+      "tokens": [
+        "GroupIdentity_GeoIdentity_unitedstates"
+      ]
+    }
+  ],
+  "eventId": "epicgames_S15_FNCS_RebootRound_NAE",
+  "eventWindowId": "S15_FNCS_RebootRound_NAE",
+  "gameId": "Fortnite",
+  "page": 0,
+  "totalPages": 1,
+  "updatedTime": "2021-04-01T21:25:37.181Z",
+  "liveSessions": {}
+};

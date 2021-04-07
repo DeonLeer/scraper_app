@@ -1,13 +1,6 @@
 module.exports = function(router, database) {
   router.get('/reset', (req, res) => {
     database.resetDB()
-      .then(()=>{
-        res.send('reset db :)')
-      })
-      .catch(e => {
-        console.error(e)
-        res.send(e)
-      })
   })
   router.post('/regions', (req, res) => {
     database.addRegion(req.body['name'])
@@ -91,10 +84,30 @@ module.exports = function(router, database) {
         res.send(e)
       });
   });
-  router.post('/eliminationss', (req, res) => {
+  router.post('/eliminations', (req, res) => {
     database.addElimination(req.body)
       .then(elimination => {
         res.send(elimination)
+      })
+      .catch(e => {
+        console.error(e)
+        res.send(e)
+      });
+  });
+  router.post('/eliminationsnofeed', (req, res) => {
+    database.addEliminationNoFeed(req.body)
+      .then(elimination => {
+        res.send(elimination)
+      })
+      .catch(e => {
+        console.error(e)
+        res.send(e)
+      });
+  });
+  router.post('/update_zone', (req, res) => {
+    database.updateZone(req.body)
+      .then(zone => {
+        res.send(zone)
       })
       .catch(e => {
         console.error(e)

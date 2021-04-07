@@ -13,25 +13,25 @@ CREATE TABLE players (
 );
 DROP TABLE IF EXISTS regions CASCADE;
 CREATE TABLE regions (
-  id SERIAL PRIMARY KEY NOT NULL,
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
   name varchar(255) NOT NULL
 );
 DROP TABLE IF EXISTS seasons CASCADE;
 CREATE TABLE seasons (
-  id SERIAL PRIMARY KEY NOT NULL,
+  id INTEGER PRIMARY KEY NOT NULL,
   season INTEGER NOT NULL
 );
 DROP TABLE IF EXISTS types CASCADE;
 CREATE TABLE types (
-  id SERIAL PRIMARY KEY NOT NULL,
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
   season_id INTEGER REFERENCES seasons(id) ON DELETE CASCADE,
-  region_id INTEGER REFERENCES regions(id) ON DELETE CASCADE
+  region_id VARCHAR(255) REFERENCES regions(id) ON DELETE CASCADE
 );
 DROP TABLE IF EXISTS tournaments CASCADE;
 CREATE TABLE tournaments (
   id VARCHAR(255) PRIMARY KEY NOT NULL,
   name varchar(255) NOT NULL,
-  type INTEGER REFERENCES types(id) ON DELETE CASCADE
+  type VARCHAR(255) REFERENCES types(id) ON DELETE CASCADE
 );
 DROP TABLE IF EXISTS solos CASCADE;
 CREATE TABLE solos (
@@ -63,25 +63,29 @@ DROP TABLE IF EXISTS solo_games CASCADE;
 CREATE TABLE solo_games (
   id VARCHAR(255) PRIMARY KEY NOT NULL,
   tournament_id VARCHAR(255) REFERENCES tournaments(id) ON DELETE CASCADE,
-  time TIME NOT NULL
+  time TIME NOT NULL,
+  zones VARCHAR(255)
 );
 DROP TABLE IF EXISTS duo_games CASCADE;
 CREATE TABLE duo_games (
   id VARCHAR(255) PRIMARY KEY NOT NULL,
   tournament_id VARCHAR(255) REFERENCES tournaments(id) ON DELETE CASCADE,
-  time TIME NOT NULL
+  time TIME NOT NULL,
+  zones VARCHAR(255)
 );
 DROP TABLE IF EXISTS trio_games CASCADE;
 CREATE TABLE trio_games (
   id VARCHAR(255) PRIMARY KEY NOT NULL,
   tournament_id VARCHAR(255) REFERENCES tournaments(id) ON DELETE CASCADE,
-  time TIME NOT NULL
+  time TIME NOT NULL,
+  zones VARCHAR(255)
 );
 DROP TABLE IF EXISTS squad_games CASCADE;
 CREATE TABLE squad_games (
   id VARCHAR(255) PRIMARY KEY NOT NULL,
   tournament_id VARCHAR(255) REFERENCES tournaments(id) ON DELETE CASCADE,
-  time TIME NOT NULL
+  time TIME NOT NULL,
+  zones VARCHAR(255)
 );
 DROP TABLE IF EXISTS solo_games_played CASCADE;
 CREATE TABLE solo_games_played (
@@ -107,37 +111,75 @@ CREATE TABLE squad_games_played (
   squad_id VARCHAR(255) REFERENCES trios(id) ON DELETE CASCADE,
   game_id VARCHAR(255) REFERENCES squad_games(id) ON DELETE CASCADE
 );
+DROP TABLE IF EXISTS solo_eliminations_no_feed CASCADE;
+CREATE TABLE solo_eliminations_no_feed (
+  id SERIAL PRIMARY KEY NOT NULL,
+  player_elimination_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  game_id VARCHAR(255) REFERENCES solo_games(id) ON DELETE CASCADE
+);
 DROP TABLE IF EXISTS solo_eliminations CASCADE;
 CREATE TABLE solo_eliminations (
-  id SERIAL PRIMARY KEY NOT NULL,
-  player_eliminated_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  player_elimination_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  game_id VARCHAR(255) REFERENCES solo_games(id) ON DELETE CASCADE,
-  time INTEGER
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
+  match_id VARCHAR(255) REFERENCES solo_games(id) ON DELETE CASCADE,
+  time INTEGER,
+  victimId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  victimX DECIMAL(15, 4),
+  victimY DECIMAL(15, 4),
+  victimZ DECIMAL(15, 4),
+  instigatorId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  instigatorX DECIMAL(15, 4),
+  instigatorY DECIMAL(15, 4),
+  instigatorZ DECIMAL(15, 4),
+  deathCause INTEGER,
+  dbno BOOLEAN
 );
 DROP TABLE IF EXISTS duo_eliminations CASCADE;
 CREATE TABLE duo_eliminations (
-  id SERIAL PRIMARY KEY NOT NULL,
-  player_eliminated_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  player_elimination_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  game_id VARCHAR(255) REFERENCES duo_games(id) ON DELETE CASCADE,
-  time INTEGER
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
+  match_id VARCHAR(255) REFERENCES duo_games(id) ON DELETE CASCADE,
+  time INTEGER,
+  victimId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  victimX DECIMAL(15, 4),
+  victimY DECIMAL(15, 4),
+  victimZ DECIMAL(15, 4),
+  instigatorId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  instigatorX DECIMAL(15, 4),
+  instigatorY DECIMAL(15, 4),
+  instigatorZ DECIMAL(15, 4),
+  deathCause INTEGER,
+  dbno BOOLEAN
 );
 DROP TABLE IF EXISTS trio_eliminations CASCADE;
 CREATE TABLE trio_eliminations (
-  id SERIAL PRIMARY KEY NOT NULL,
-  player_eliminated_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  player_elimination_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  game_id VARCHAR(255) REFERENCES trio_games(id) ON DELETE CASCADE,
-  time INTEGER
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
+  match_id VARCHAR(255) REFERENCES trio_games(id) ON DELETE CASCADE,
+  time INTEGER,
+  victimId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  victimX DECIMAL(15, 4),
+  victimY DECIMAL(15, 4),
+  victimZ DECIMAL(15, 4),
+  instigatorId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  instigatorX DECIMAL(15, 4),
+  instigatorY DECIMAL(15, 4),
+  instigatorZ DECIMAL(15, 4),
+  deathCause INTEGER,
+  dbno BOOLEAN
 );
 DROP TABLE IF EXISTS squad_eliminations CASCADE;
 CREATE TABLE squad_eliminations (
-  id SERIAL PRIMARY KEY NOT NULL,
-  player_eliminated_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  player_elimination_id VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
-  game_id VARCHAR(255) REFERENCES squad_games(id) ON DELETE CASCADE,
-  time INTEGER
+  id VARCHAR(255) PRIMARY KEY NOT NULL,
+  match_id VARCHAR(255) REFERENCES squad_games(id) ON DELETE CASCADE,
+  time INTEGER,
+  victimId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  victimX DECIMAL(15, 4),
+  victimY DECIMAL(15, 4),
+  victimZ DECIMAL(15, 4),
+  instigatorId VARCHAR(255) REFERENCES players(id) ON DELETE CASCADE,
+  instigatorX DECIMAL(15, 4),
+  instigatorY DECIMAL(15, 4),
+  instigatorZ DECIMAL(15, 4),
+  deathCause INTEGER,
+  dbno BOOLEAN
   );`
   pool.query(resetString)
     .then(res => {
@@ -254,14 +296,31 @@ const addGamePlayed = function(game, mode, team) {
     })
 }
 exports.addGamePlayed = addGamePlayed
-const addElimination = function(game, mode, killer, victim, time) {
+const addElimination = function(elimination) {
   return pool.query(`
-    INSERT INTO ${mode}_eliminations(player_eliminated_id, player_elimination_id, game_id, time)
-    VALUES($1, $2, $3, $4)
+    INSERT INTO ${elimination.mode}_eliminations(id, match_id, time, victimId, victimX, victimY, victimZ, instigatorId, instigatorX, instigatorY, instigatorZ, deathCause, dbno)
+    VALUES($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)
     RETURNING *
-  `, [victim.id, killer.id, game.id, time])
+  `, [elimination.id, elimination.match_id, elimination.time, elimination.victimId, elimination.victimX, elimination.victimY, elimination.victimZ, elimination.instigatorId, elimination.instigatorX, elimination.instigatorY, elimination.instigatorZ, elimination.deathCause, elimination.dbno])
     .then((data) => {
       return data.rows[0]
     })
 }
 exports.addElimination = addElimination
+const addEliminationNoFeed = function(elimination) {
+  return pool.query(`
+    INSERT INTO solo_eliminations_no_feed(match_id, player_id)
+    VALUES($1, $2)
+    RETURNING *
+  `, [elimination.game_id, elimination.player_id])
+    .then((data) => {
+      return data.rows[0]
+    })
+}
+exports.addEliminationNoFeed = addEliminationNoFeed
+const updateZone = function(game, mode, zones) {
+  return pool.query(`
+    UPDATE ${mode}_games SET zones = ${zones} WHERE id = ${game}
+  `)
+}
+exports.updateZone = updateZone
