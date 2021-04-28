@@ -1,3 +1,4 @@
+const axios = require('axios')
 const games = {
  "6fa54062-4145-45dd-8282-765abc93a0c7": {
   "tournamentID": "epicgames_S12_FNCS_Invitational_NAE_Week3",
@@ -182,7 +183,7 @@ const games = {
  "1293c0c0-cc3d-4593-ae09-1a9b698dffd2": {
   "tournamentID": "epicgames_S12_FNCS_Invitational_ASIA_Week3",
   "winners": [
-   "Peterpan 76"
+   "peterpan ay лол"
   ],
   "time": "2020-05-24T09:45:13.026",
   "duration": 1475,
@@ -3957,7 +3958,7 @@ const games = {
   "mode": 2
  },
  "22a83543-7602-4123-824a-5b13b3d01110": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -3968,7 +3969,7 @@ const games = {
   "mode": 3
  },
  "37ea84ac-14d9-4bd7-ada4-0748736a4882": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "winners": [
    "UnknownxArmy 父",
    "FS casqer",
@@ -3979,7 +3980,7 @@ const games = {
   "mode": 3
  },
  "c40871d9-fd38-4eef-bf53-d096768d5288": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -3990,7 +3991,7 @@ const games = {
   "mode": 3
  },
  "00618211-d1a9-4c93-b964-1ccc03b16356": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "winners": [
    "SEN Aspect.",
    "LG Xoonies",
@@ -4001,7 +4002,7 @@ const games = {
   "mode": 3
  },
  "1695c575-edfc-4060-bda2-b1411ed1619b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "winners": [
    "NRG СІіх",
    "XTRA Illest",
@@ -4012,7 +4013,7 @@ const games = {
   "mode": 3
  },
  "4fcd6323-4410-4f84-8e57-1d333ae3e03f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "winners": [
    "ENDL8SS DEYYRITO",
    "mero2k",
@@ -4023,13 +4024,13 @@ const games = {
   "mode": 3
  },
  "2fd440f8-12f8-41a9-988d-adb54b606544": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
   "time": "2020-10-10T23:40:19.571",
   "duration": 1447,
   "mode": 3
  },
  "f65469bb-8e36-4da3-b673-a2354ba4058f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "chaоtic",
    "BBG Haz",
@@ -4040,7 +4041,7 @@ const games = {
   "mode": 3
  },
  "7babdc09-4d62-4f87-9eaa-4261c84a3442": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -4051,7 +4052,7 @@ const games = {
   "mode": 3
  },
  "717d5c69-2d52-403d-a08c-0a97d26948a4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "TSM_Zexrow",
    "BBG Calc",
@@ -4062,7 +4063,7 @@ const games = {
   "mode": 3
  },
  "8c84341e-7f04-400d-9f9c-5760557742f1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4073,7 +4074,7 @@ const games = {
   "mode": 3
  },
  "8b71ee3c-5406-4e8a-ad07-26a7e7ee13a1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "NRG СІіх",
    "XTRA Illest",
@@ -4084,7 +4085,7 @@ const games = {
   "mode": 3
  },
  "1eb143cf-ff30-48a1-9053-80e74c286c11": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "XSET Knight",
    "XSET Shark",
@@ -4095,7 +4096,7 @@ const games = {
   "mode": 3
  },
  "320b0a58-38bd-4fbb-af42-2c25a666dc84": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "XSET Knight",
    "XSET Shark",
@@ -4106,7 +4107,7 @@ const games = {
   "mode": 3
  },
  "24687ba3-b243-4d9e-ad8c-281681ec997d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "UnknownxArmy 父",
    "FS casqer",
@@ -4117,7 +4118,7 @@ const games = {
   "mode": 3
  },
  "6aca76fb-f90a-4ed6-aa6b-0ccd1af592f0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -4128,7 +4129,7 @@ const games = {
   "mode": 3
  },
  "50960b8f-30e8-4aa9-aab4-14698e9230f3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "ENDL8SS DEYYRITO",
    "mero2k",
@@ -4139,7 +4140,7 @@ const games = {
   "mode": 3
  },
  "8de40da3-cf39-4ac9-b155-e20db2bfa323": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4150,7 +4151,7 @@ const games = {
   "mode": 3
  },
  "e4f4aa89-1262-4d84-86af-ca8ba456d2d7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4161,7 +4162,7 @@ const games = {
   "mode": 3
  },
  "018df9d8-8b99-4eea-8d4e-acd274e58685": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4172,7 +4173,7 @@ const games = {
   "mode": 3
  },
  "5a63a231-de3b-43bd-917d-e4c32480ae24": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4183,7 +4184,7 @@ const games = {
   "mode": 3
  },
  "6ca04073-efee-49a0-9539-91d5dd18b603": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4194,7 +4195,7 @@ const games = {
   "mode": 3
  },
  "24058fb2-44ff-424f-b803-90873c642617": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "Cоmmandment",
    "FaZe Cented",
@@ -4205,7 +4206,7 @@ const games = {
   "mode": 3
  },
  "245ef706-1242-45c1-ae4e-78c5788ea989": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "Cоmmandment",
    "FaZe Cented",
@@ -4216,7 +4217,7 @@ const games = {
   "mode": 3
  },
  "390d5139-abcf-4373-997c-9c76594a696a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4227,7 +4228,7 @@ const games = {
   "mode": 3
  },
  "52243c6b-0a0e-46af-96a8-34fa0abcaa46": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4238,7 +4239,7 @@ const games = {
   "mode": 3
  },
  "3d48ef5c-4aad-4aeb-9e88-132ad05073af": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "FaZe Megga.",
    "Liquid Riversan",
@@ -4249,7 +4250,7 @@ const games = {
   "mode": 3
  },
  "81499331-3bf7-460e-9f1a-43ffd171d1c4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -4260,7 +4261,7 @@ const games = {
   "mode": 3
  },
  "83b03914-ae36-4069-9149-692a00e06520": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "NRG СІіх",
    "XTRA Illest",
@@ -4271,7 +4272,7 @@ const games = {
   "mode": 3
  },
  "a0c6851c-0183-4b01-ab1a-17526758b927": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4282,7 +4283,7 @@ const games = {
   "mode": 3
  },
  "6dcaf459-dcd4-4abf-9382-b528728d305f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4293,7 +4294,7 @@ const games = {
   "mode": 3
  },
  "bf232831-8179-4898-bae6-31027f1179fd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "ENDLESS TRAGIX",
    "Snakeccept",
@@ -4304,7 +4305,7 @@ const games = {
   "mode": 3
  },
  "268e3910-9e4a-4624-9f76-55ecedf8abc0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "Cеicе",
    "XTRA Furiouѕ",
@@ -4315,7 +4316,7 @@ const games = {
   "mode": 3
  },
  "a007ab68-fccb-4b26-a40c-b74bc906535c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -4326,7 +4327,7 @@ const games = {
   "mode": 3
  },
  "8fc96fda-a9ad-4843-ab4d-beaa9d5f7e97": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4337,7 +4338,7 @@ const games = {
   "mode": 3
  },
  "a2642599-dc72-4459-af5b-e7858ebcc014": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "gаbeski",
    "9LIVES Tahi",
@@ -4348,7 +4349,7 @@ const games = {
   "mode": 3
  },
  "d2016264-3c8a-4c02-952e-7b0bcaba0c84": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "TSM_Zexrow",
    "BBG Calc",
@@ -4359,7 +4360,7 @@ const games = {
   "mode": 3
  },
  "e8b41d2e-f3ca-4730-8fb9-1814ef3319a9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -4370,7 +4371,7 @@ const games = {
   "mode": 3
  },
  "837c4090-b2c5-450f-a450-895108911473": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4381,7 +4382,7 @@ const games = {
   "mode": 3
  },
  "8853019b-0eea-44ab-a889-f669988e12b2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "gаbeski",
    "9LIVES Tahi",
@@ -4392,7 +4393,7 @@ const games = {
   "mode": 3
  },
  "3d974aed-b7fb-45df-b59d-f16560b2552d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "Cеicе",
    "XTRA Furiouѕ",
@@ -4403,7 +4404,7 @@ const games = {
   "mode": 3
  },
  "fdd4b556-a02f-478e-9014-a086097b601e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "LG Jampеr ψ",
    "SEN BUGHA 父",
@@ -4414,7 +4415,7 @@ const games = {
   "mode": 3
  },
  "f9f7b4e0-9e64-4262-947e-ec5e83a823f9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4425,7 +4426,7 @@ const games = {
   "mode": 3
  },
  "9c677089-0250-4ede-bb0e-3eaa7488bfbb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "mamy ay лол",
    "Aperta_",
@@ -4436,7 +4437,7 @@ const games = {
   "mode": 3
  },
  "d26e7437-b973-4b07-8d0b-900253bae68a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "TNA ZUM",
    "skqughaski2k",
@@ -4447,7 +4448,7 @@ const games = {
   "mode": 3
  },
  "6cb0f2c2-cc33-4062-a79c-cc79e5c50f61": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "narwhаl",
    "TNA ZLEM 3939",
@@ -4458,7 +4459,7 @@ const games = {
   "mode": 3
  },
  "37f26c9c-05e3-49ba-ba42-c9b2eb76a474": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "cloudy -α-",
    "strep ง",
@@ -4469,7 +4470,7 @@ const games = {
   "mode": 3
  },
  "2dd164c5-0341-421d-8b26-bc8e46cfdf7d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "ENDL8SS DEYYRITO",
    "mero2k",
@@ -4480,7 +4481,7 @@ const games = {
   "mode": 3
  },
  "8c52ad51-9c29-4fee-8fcb-a4b236a78a03": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "SEN Aspect.",
    "LG Xoonies",
@@ -4491,7 +4492,7 @@ const games = {
   "mode": 3
  },
  "989fbf40-ad55-499f-987d-05341ae8b25a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "FS Bυlly",
    "TNA Slick",
@@ -4502,7 +4503,7 @@ const games = {
   "mode": 3
  },
  "421b8244-2b5f-4b15-96ab-9321ba897453": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "Cоmmandment",
    "FaZe Cented",
@@ -4513,7 +4514,7 @@ const games = {
   "mode": 3
  },
  "eb2f8ffa-c897-4290-8534-2ad04a1ab9c6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "XSET Knight",
    "XSET Shark",
@@ -4524,7 +4525,7 @@ const games = {
   "mode": 3
  },
  "cd7e4ad6-c640-46a3-b3b2-ecbb9ce05e1f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "ENDL8SS DEYYRITO",
    "mero2k",
@@ -4535,7 +4536,7 @@ const games = {
   "mode": 3
  },
  "9afb4c82-c386-4c0b-9c04-6328cb2c69f0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "TRNL TRAP",
    "7 pozed",
@@ -4546,7 +4547,7 @@ const games = {
   "mode": 3
  },
  "c6a968e6-b8ed-4106-80dd-f1939b5b7c7b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
   "winners": [
    "Cоmmandment",
    "FaZe Cented",
@@ -4557,7 +4558,7 @@ const games = {
   "mode": 3
  },
  "42c413d0-789b-45a2-b7d1-9579eaedcce2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4568,7 +4569,7 @@ const games = {
   "mode": 3
  },
  "7fe93217-4934-4985-a3ab-f7fcbf94cbbb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "NRG СІіх",
    "XTRA Illest",
@@ -4579,7 +4580,7 @@ const games = {
   "mode": 3
  },
  "f01bae69-20b7-4316-a6e6-89ff1de3c3c5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "NRG СІіх",
    "XTRA Illest",
@@ -4590,7 +4591,7 @@ const games = {
   "mode": 3
  },
  "df3153c0-d2e9-4b97-af10-a5b11c288370": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Joji",
    "Kn1pher",
@@ -4601,7 +4602,7 @@ const games = {
   "mode": 3
  },
  "ead70082-3ddb-4fbe-be3b-f052f273b8d6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4612,7 +4613,7 @@ const games = {
   "mode": 3
  },
  "3fc11d50-c952-414d-9514-6f4165a19f67": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LDamienS",
    "ms13 dany",
@@ -4623,7 +4624,7 @@ const games = {
   "mode": 3
  },
  "62cf85ea-67b8-4493-983a-38f6581322d7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4634,7 +4635,7 @@ const games = {
   "mode": 3
  },
  "6b157c19-686b-4d82-8f3d-9807a40eaf93": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "Littlespoon42",
    "CerealBowler69",
@@ -4645,7 +4646,7 @@ const games = {
   "mode": 3
  },
  "2452b103-b780-4550-8a45-4775d975d2bf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4656,7 +4657,7 @@ const games = {
   "mode": 3
  },
  "b532494e-b35e-47cd-8c24-184df066e693": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4667,7 +4668,7 @@ const games = {
   "mode": 3
  },
  "54637761-5927-494c-ad10-0cb04f8e3890": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "NRG СІіх",
    "XTRA Illest",
@@ -4678,7 +4679,7 @@ const games = {
   "mode": 3
  },
  "d0f49e43-53c1-49ae-a492-a70b9019f8e7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4689,7 +4690,7 @@ const games = {
   "mode": 3
  },
  "072ce672-5166-4aa5-827a-9542fb40e8c6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "MIH Drew",
    "jwordn ハハ",
@@ -4700,7 +4701,7 @@ const games = {
   "mode": 3
  },
  "4ae74ffc-4f90-4e40-9400-81fc82455c74": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "Balanced Nevify",
    "tyqzu xo",
@@ -4711,7 +4712,7 @@ const games = {
   "mode": 3
  },
  "7cc14977-ebf6-4d0d-9f79-5904055cfa3b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4722,7 +4723,7 @@ const games = {
   "mode": 3
  },
  "539bbd95-118e-4bd7-b83a-22896fd20254": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "Dxrant7",
    "EP Takened",
@@ -4733,7 +4734,7 @@ const games = {
   "mode": 3
  },
  "b23a7242-50cb-4d7c-a26e-58533aea2034": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4744,7 +4745,7 @@ const games = {
   "mode": 3
  },
  "1280570b-87b7-45ab-8e34-44e4af80a535": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4755,7 +4756,7 @@ const games = {
   "mode": 3
  },
  "537123f7-15a5-40da-8c1b-ea5f143442be": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4766,7 +4767,7 @@ const games = {
   "mode": 3
  },
  "5d32fbaa-cda5-4a12-aab4-ee8250087d08": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "ENDLESS pgod",
    "XTRA Alliege alv",
@@ -4777,7 +4778,7 @@ const games = {
   "mode": 3
  },
  "9678f8e0-3981-4e1a-9c91-bd791b8c1cf2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "FS SHERIFF DEG",
    "FS PIECE CHIEF",
@@ -4788,7 +4789,7 @@ const games = {
   "mode": 3
  },
  "953821fc-d074-48d4-a30d-10e62a46da7f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4799,7 +4800,7 @@ const games = {
   "mode": 3
  },
  "2267a704-7e81-4548-b344-c033f41bc062": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "UnknownxArmy 父",
    "FS casqer",
@@ -4810,7 +4811,7 @@ const games = {
   "mode": 3
  },
  "63f8d521-6f75-42b6-8693-f9f82835e990": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4821,7 +4822,7 @@ const games = {
   "mode": 3
  },
  "7d0b5c5e-555b-4754-8d32-d30f9774e394": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4832,7 +4833,7 @@ const games = {
   "mode": 3
  },
  "56da2e96-8815-4798-a62c-d200a78af6fb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "TSM_Zexrow",
    "BBG Calc",
@@ -4843,7 +4844,7 @@ const games = {
   "mode": 3
  },
  "82b1c5d0-b40b-4ba6-a730-f1cd22de77e9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "FaZe Megga.",
    "Liquid Riversan",
@@ -4854,7 +4855,7 @@ const games = {
   "mode": 3
  },
  "1615c24a-b896-4ddc-a259-44dec05b4b67": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -4865,7 +4866,7 @@ const games = {
   "mode": 3
  },
  "624aa336-02bc-4703-b098-0e94a6960e25": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "Cоmmandment",
    "FaZe Cented",
@@ -4876,7 +4877,7 @@ const games = {
   "mode": 3
  },
  "67748f68-7f01-4d6c-876a-7f371f314e5d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4887,7 +4888,7 @@ const games = {
   "mode": 3
  },
  "f5036820-a3a3-43bb-8700-d9438b681941": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "TSM_Zexrow",
    "BBG Calc",
@@ -4898,7 +4899,7 @@ const games = {
   "mode": 3
  },
  "4184e467-ca6b-40b7-92bd-936955843da5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "BBG Kreozard",
    "BBG Bucke",
@@ -4909,7 +4910,7 @@ const games = {
   "mode": 3
  },
  "608857f6-33a0-4c03-97d4-1126353d1bbb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -4920,7 +4921,7 @@ const games = {
   "mode": 3
  },
  "239f8060-c8e6-4ab4-998f-bb973bb20296": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "XSET Knight",
    "XSET Shark",
@@ -4931,7 +4932,7 @@ const games = {
   "mode": 3
  },
  "10e6abd4-9782-4ce3-9c63-daeb56ed7ea1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "XSET Knight",
    "XSET Shark",
@@ -4942,7 +4943,7 @@ const games = {
   "mode": 3
  },
  "b835af4f-53e2-4f69-89a2-4fc7a84eeeee": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
   "winners": [
    "SEN Aspect.",
    "LG Xoonies",
@@ -5121,7 +5122,7 @@ const games = {
   "mode": 2
  },
  "cb73579b-333e-4956-aec2-c3ff53e373dd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5132,7 +5133,7 @@ const games = {
   "mode": 3
  },
  "928f903b-ecd0-48c7-9bab-c4378217ae32": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "winners": [
    "BL Raifla",
    "BL SliX",
@@ -5143,7 +5144,7 @@ const games = {
   "mode": 3
  },
  "20c201d6-42c6-4a96-8995-5e487050e877": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "winners": [
    "Lnuef",
    "Gamma Merijn",
@@ -5154,7 +5155,7 @@ const games = {
   "mode": 3
  },
  "43c7eb85-f85a-4fa5-a84a-3b7805784b83": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "winners": [
    "GUILD Flikk",
    "GUILD Аnas",
@@ -5165,7 +5166,7 @@ const games = {
   "mode": 3
  },
  "7f8b0d7e-4a65-471d-afd2-4978fd7c2ccd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "winners": [
    "BL Noahreyli ӝ",
    "COOLER aqua",
@@ -5176,7 +5177,7 @@ const games = {
   "mode": 3
  },
  "a93e193d-eaa9-4235-a71a-471e2c514425": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5187,19 +5188,19 @@ const games = {
   "mode": 3
  },
  "1b18eeee-cf1e-4fd6-b2eb-1a3a6be8cf47": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "time": "2020-10-10T19:40:20.016",
   "duration": 1414,
   "mode": 3
  },
  "2df8298c-3fbc-4c4b-9f68-4de7bec15989": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_EU_PC",
   "time": "2020-10-10T19:10:25.273",
   "duration": 1116,
   "mode": 3
  },
  "834b16e4-4f90-45c2-bb12-aeaae9c58bd6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "CL Sаfik",
    "VP Siberiajkee",
@@ -5210,7 +5211,7 @@ const games = {
   "mode": 3
  },
  "3e2c6c3c-09e7-4586-a187-adf5c92bb1b0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5221,7 +5222,7 @@ const games = {
   "mode": 3
  },
  "1e7a31a9-27a8-4e41-8a28-43478b6f1b03": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "Centric Rakso",
    "Gamma Kami",
@@ -5232,7 +5233,7 @@ const games = {
   "mode": 3
  },
  "1b09fe89-2c4a-4387-ba0f-61e6d1362d75": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5243,7 +5244,7 @@ const games = {
   "mode": 3
  },
  "213fd00c-07bf-46d1-aa5c-34dbd5e35a03": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "GUILD Flikk",
    "GUILD Аnas",
@@ -5254,7 +5255,7 @@ const games = {
   "mode": 3
  },
  "36b5e838-88a5-4cff-86ef-2bcfec87c419": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5265,7 +5266,7 @@ const games = {
   "mode": 3
  },
  "981321c3-982d-477e-ae48-1911d17188d5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -5276,7 +5277,7 @@ const games = {
   "mode": 3
  },
  "67e8b67e-12d7-4db2-8a53-780969169f0c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "GLORIOUS snаp",
    "Heretics Miro.",
@@ -5287,7 +5288,7 @@ const games = {
   "mode": 3
  },
  "13a058ad-6dd9-45f4-b753-d8fe6072ad74": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "LootBoy QueasKun",
    "GXR Milаn",
@@ -5298,7 +5299,7 @@ const games = {
   "mode": 3
  },
  "3ca40f01-46ad-4f5a-a858-b9875cfd7aa6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "LootBoy QueasKun",
    "GXR Milаn",
@@ -5309,7 +5310,7 @@ const games = {
   "mode": 3
  },
  "2a679f38-a9eb-476c-a2d8-e9ac41ef673c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "VP Kiryache32",
    "CL Rotory.",
@@ -5320,7 +5321,7 @@ const games = {
   "mode": 3
  },
  "e6106fb2-8482-4d1b-8a8d-da953c4f8e94": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_EU_PC",
   "winners": [
    "GLORIOUS snаp",
    "Heretics Miro.",
@@ -5331,7 +5332,7 @@ const games = {
   "mode": 3
  },
  "9ff94c17-ca4e-4d21-bc81-6bfcb4aaeb6a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "TrainH Umplify",
    "Adn 7",
@@ -5342,7 +5343,7 @@ const games = {
   "mode": 3
  },
  "8dfbe11d-af6c-4bc5-87af-65e74ae15dd4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "MCES Andilex",
    "GUILD JаnnisZ",
@@ -5353,7 +5354,7 @@ const games = {
   "mode": 3
  },
  "ac9c205f-977a-4c4d-9bb8-98de44e5c862": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "Refsgaard 7",
    "vitality stompy-",
@@ -5364,7 +5365,7 @@ const games = {
   "mode": 3
  },
  "4074cf3b-34ca-48f4-aef8-6a2c4ff5a5b3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "CL l1nk マ",
    "NaVі 7tоr",
@@ -5375,7 +5376,7 @@ const games = {
   "mode": 3
  },
  "4a54e477-3492-4908-83bd-3d55bdb2bc73": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "MCES Andilex",
    "GUILD JаnnisZ",
@@ -5386,7 +5387,7 @@ const games = {
   "mode": 3
  },
  "2b1388c8-a07e-4dac-b9c1-889ada9f992d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "Vitаlity Airwaks",
    "Vatо",
@@ -5397,7 +5398,7 @@ const games = {
   "mode": 3
  },
  "27af9543-6b5c-4dc0-b3a1-43f315886b46": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -5408,7 +5409,7 @@ const games = {
   "mode": 3
  },
  "c5a0ab94-08ee-48b3-866e-71136d4304c7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "qvado 1",
    "VP JAMSIDE",
@@ -5419,7 +5420,7 @@ const games = {
   "mode": 3
  },
  "71e83442-4b48-4aa0-8764-b3254d3157e5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -5430,7 +5431,7 @@ const games = {
   "mode": 3
  },
  "b522fdb2-c3d7-4580-a71f-fcdb27f91878": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5441,7 +5442,7 @@ const games = {
   "mode": 3
  },
  "65ff3c7d-6a03-4f50-8126-9e3b6f05cb91": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "Solarу Floki",
    "Clement_ttt",
@@ -5452,7 +5453,7 @@ const games = {
   "mode": 3
  },
  "4c560c87-3aa1-4084-b7c4-cf138f4d3a70": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_EU_PC",
   "winners": [
    "MCES Andilex",
    "GUILD JаnnisZ",
@@ -5463,7 +5464,7 @@ const games = {
   "mode": 3
  },
  "669f2e92-6ebc-4c3e-bc6b-c33bca230702": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "Playwell Vetle 7",
    "apeks IDrop 7",
@@ -5474,7 +5475,7 @@ const games = {
   "mode": 3
  },
  "b702503b-f23e-4990-aa71-1d8fe23e9905": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "GUILD Flikk",
    "GUILD Аnas",
@@ -5485,7 +5486,7 @@ const games = {
   "mode": 3
  },
  "f8d94716-3400-4044-9e10-1e5eb031644a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5496,7 +5497,7 @@ const games = {
   "mode": 3
  },
  "86f79adf-7bf0-4efa-95a7-d81b2358c141": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "Wave Vadeal",
    "Fastroki",
@@ -5507,7 +5508,7 @@ const games = {
   "mode": 3
  },
  "a4277d8b-afb1-4341-a2b8-cc25a7b0f94f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "Aloft Voidd",
    "MonsterMuncher77",
@@ -5518,7 +5519,7 @@ const games = {
   "mode": 3
  },
  "a1e9fc95-67b0-4a13-b6fe-dd2dcd55e316": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "Psycho maestro",
    "Psycho Styler",
@@ -5529,7 +5530,7 @@ const games = {
   "mode": 3
  },
  "bb50d97f-13cb-4730-a963-a81c71f8c863": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "znaрру",
    "Michаel ツ",
@@ -5540,7 +5541,7 @@ const games = {
   "mode": 3
  },
  "ae3033e1-a736-4896-b680-ac298092de46": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "NRG benjуfishу",
    "100T MrSavage",
@@ -5551,7 +5552,7 @@ const games = {
   "mode": 3
  },
  "10f7c9fb-5b1f-4870-a107-28082076c55b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -5562,7 +5563,7 @@ const games = {
   "mode": 3
  },
  "6d121c1e-d78d-4b2b-96fa-1b7949a72640": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "TRICKED Caspersa",
    "Zh1ny",
@@ -5573,7 +5574,7 @@ const games = {
   "mode": 3
  },
  "f6fe3306-2842-4002-a7d5-88050f2bb1b8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "Wave Vadeal",
    "Fastroki",
@@ -5584,7 +5585,7 @@ const games = {
   "mode": 3
  },
  "21e7ed21-5b9d-4d63-a8a3-0fd49eb6d453": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
   "winners": [
    "GUILD Flikk",
    "GUILD Аnas",
@@ -5595,7 +5596,7 @@ const games = {
   "mode": 3
  },
  "a7de3c0d-9f1a-4b22-86b5-47e796999e6b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "Solarу Floki",
    "Clement_ttt",
@@ -5606,7 +5607,7 @@ const games = {
   "mode": 3
  },
  "37c6a34a-3003-4586-b913-99c5909d32a7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "Temperino.",
    "11M Zаrа",
@@ -5617,7 +5618,7 @@ const games = {
   "mode": 3
  },
  "dd672e97-7191-4e76-9d1c-29e2036fb64c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "Heretics K1nzеll",
    "wxlfiez",
@@ -5628,7 +5629,7 @@ const games = {
   "mode": 3
  },
  "dff5b7cd-98f8-45d2-93c2-dd7d30673b79": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "TrainH Skite",
    "TrаinH Fаlconly",
@@ -5639,7 +5640,7 @@ const games = {
   "mode": 3
  },
  "cf662dcd-d704-43d7-8211-088e45a99785": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "slovay 74 lol",
    "GameWard Antorak",
@@ -5650,7 +5651,7 @@ const games = {
   "mode": 3
  },
  "f57f50f5-7118-4a75-a879-6fc7891621f1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "Solarу Floki",
    "Clement_ttt",
@@ -5661,7 +5662,7 @@ const games = {
   "mode": 3
  },
  "f2764c8c-985b-465b-9c8e-7bb2d0d3d485": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "Heretics K1nzеll",
    "wxlfiez",
@@ -5672,7 +5673,7 @@ const games = {
   "mode": 3
  },
  "c0ab7778-cbf4-4877-b769-5404b79b0378": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "VP Kiryache32",
    "CL Rotory.",
@@ -5683,7 +5684,7 @@ const games = {
   "mode": 3
  },
  "6c2deee4-c1d4-4e8c-a337-6550ab60b78f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "Solarу Floki",
    "Clement_ttt",
@@ -5694,7 +5695,7 @@ const games = {
   "mode": 3
  },
  "9d7d8a43-3f78-4075-bd94-4171aa8c6163": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "lucky Mr.J",
    "Onyx WingS",
@@ -5705,7 +5706,7 @@ const games = {
   "mode": 3
  },
  "aa9c6661-aa11-4ee9-a33b-48a599c9e74a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "LootBoy QueasKun",
    "GXR Milаn",
@@ -5716,7 +5717,7 @@ const games = {
   "mode": 3
  },
  "195a5d74-c92d-4dd9-ab21-afe04ff850e2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
   "winners": [
    "TrainH Skite",
    "TrаinH Fаlconly",
@@ -5727,7 +5728,7 @@ const games = {
   "mode": 3
  },
  "400a7dca-7ce9-4d31-8fc6-3f55df5aa789": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "MCES DKS",
    "DualMedia Snipeツ",
@@ -5738,7 +5739,7 @@ const games = {
   "mode": 3
  },
  "13fec864-9552-47b6-83a1-cd1ee7d83906": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -5749,7 +5750,7 @@ const games = {
   "mode": 3
  },
  "61c459e6-9ffb-491f-b5c8-0388213694f1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -5760,7 +5761,7 @@ const games = {
   "mode": 3
  },
  "0c7946ba-63d6-4911-8fb8-1d5b2cb7ed59": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "qvado 1",
    "VP JAMSIDE",
@@ -5771,7 +5772,7 @@ const games = {
   "mode": 3
  },
  "8a8332c2-f069-441a-a8ed-56c5529dbb6d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "Centric Rakso",
    "Gamma Kami",
@@ -5782,7 +5783,7 @@ const games = {
   "mode": 3
  },
  "8d7de30e-97be-4a29-9638-4784d3c7dd5f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "BL Raifla",
    "BL SliX",
@@ -5793,7 +5794,7 @@ const games = {
   "mode": 3
  },
  "bc152474-c959-40f3-95f6-527bb3787006": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "sjеfen",
    "Gеanzha",
@@ -5804,7 +5805,7 @@ const games = {
   "mode": 3
  },
  "ae42ed1f-4c64-4226-8ced-5f75dbb47c3f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "SRN Skydeun",
    "braize.",
@@ -5815,7 +5816,7 @@ const games = {
   "mode": 3
  },
  "54d559ae-8c2a-476c-9f3a-ed82d80d1327": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "six nueve zq",
    "Grizi Robabz",
@@ -5826,7 +5827,7 @@ const games = {
   "mode": 3
  },
  "8d40d810-2b69-4b0d-a0c4-29f6013eaebc": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "MCES Andilex",
    "GUILD JаnnisZ",
@@ -5837,7 +5838,7 @@ const games = {
   "mode": 3
  },
  "be66a7b2-ac2b-4034-9013-3e77053694de": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "SRN Skydeun",
    "braize.",
@@ -5848,7 +5849,7 @@ const games = {
   "mode": 3
  },
  "5c0f36b9-bc89-4d53-a484-0890d9bfc147": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -5859,7 +5860,7 @@ const games = {
   "mode": 3
  },
  "3ebeceed-05a3-4e2d-b571-f6e3877b5af7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "Monaco Anddone",
    "herrrrrrrrrrrrra",
@@ -5870,7 +5871,7 @@ const games = {
   "mode": 3
  },
  "25cd6894-c84c-4da1-b2dd-483a19f07f4e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "Lootboy Pinq 7",
    "COOLER Noward",
@@ -5881,7 +5882,7 @@ const games = {
   "mode": 3
  },
  "55c1455a-8015-40ff-8512-895a80c648e6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "Vitаlity Airwaks",
    "Vatо",
@@ -5892,7 +5893,7 @@ const games = {
   "mode": 3
  },
  "8a13305f-5949-4e48-b113-ed002f2194cf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "sapiros",
    "hаlfdumb",
@@ -5903,7 +5904,7 @@ const games = {
   "mode": 3
  },
  "a2d316e7-4d7b-4c40-bfd5-1942796d6e1f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "Centric Snagged7",
    "bl heatzy ψ",
@@ -5914,7 +5915,7 @@ const games = {
   "mode": 3
  },
  "c118590c-33f0-42e5-b7de-5546a76d85f9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "THE BIG DOWNS 유",
    "BL PabloWingu",
@@ -5925,7 +5926,7 @@ const games = {
   "mode": 3
  },
  "ed711cc9-ce63-415f-a466-9687cca1c7fb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "Refsgaard 7",
    "vitality stompy-",
@@ -5936,7 +5937,7 @@ const games = {
   "mode": 3
  },
  "a7832bbf-5e3a-4f1c-8def-0731c0d39416": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "etq 7",
    "IboooHai",
@@ -5947,7 +5948,7 @@ const games = {
   "mode": 3
  },
  "21bcbf9a-cf90-47af-bd3c-220aabae2e4c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "etq 7",
    "IboooHai",
@@ -5958,7 +5959,7 @@ const games = {
   "mode": 3
  },
  "0650246b-840c-4e48-8408-736789c93350": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "CL Sаfik",
    "VP Siberiajkee",
@@ -5969,7 +5970,7 @@ const games = {
   "mode": 3
  },
  "832551a9-86ec-4c91-b6fb-0e0e5f2ae64d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "troqz 7",
    "فانبويميثك",
@@ -5980,7 +5981,7 @@ const games = {
   "mode": 3
  },
  "117a40c6-ed4e-4b1c-b120-165fefa5f14c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
   "winners": [
    "FF 1lusha7",
    "CL Fury",
@@ -5991,7 +5992,7 @@ const games = {
   "mode": 3
  },
  "434a5114-77ef-456f-8d6d-6c19acb1de67": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "GLORIOUS snаp",
    "Heretics Miro.",
@@ -6002,7 +6003,7 @@ const games = {
   "mode": 3
  },
  "21922a45-0eae-4bdf-8118-6ea608b08f33": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "seanvp.glrs",
    "Sqwinnt",
@@ -6013,7 +6014,7 @@ const games = {
   "mode": 3
  },
  "1bee2bcd-7f4f-446f-94b9-32d02d2ff861": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "Centric Rakso",
    "Gamma Kami",
@@ -6024,7 +6025,7 @@ const games = {
   "mode": 3
  },
  "0e8faea0-35a9-4051-bac9-0f6522e08d3e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "GUILD Hen ӝ",
    "GO Decyptos",
@@ -6035,7 +6036,7 @@ const games = {
   "mode": 3
  },
  "6132fe4d-edd2-4ca2-aaed-7b2c76d65424": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "GUILD Flikk",
    "GUILD Аnas",
@@ -6046,7 +6047,7 @@ const games = {
   "mode": 3
  },
  "2b39352b-67aa-461b-9783-a9fb08e693cd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -6057,7 +6058,7 @@ const games = {
   "mode": 3
  },
  "157f2a69-556d-49bc-8d84-2990ad648a6e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "Centric Rakso",
    "Gamma Kami",
@@ -6068,7 +6069,7 @@ const games = {
   "mode": 3
  },
  "32c5f756-03db-4ee7-90e5-5762068931bb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -6079,7 +6080,7 @@ const games = {
   "mode": 3
  },
  "681cf3c3-36b4-4b80-b9d2-77174459d471": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "six nueve zq",
    "Grizi Robabz",
@@ -6090,7 +6091,7 @@ const games = {
   "mode": 3
  },
  "07f9e2b3-0d74-4061-99f9-2c2cad908ad0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "MCES Andilex",
    "GUILD JаnnisZ",
@@ -6101,7 +6102,7 @@ const games = {
   "mode": 3
  },
  "90c5a2d8-8aab-4be4-b24b-e88644392cbf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "FaZe Mongrааl",
    "Lίquid mίtr0",
@@ -6112,7 +6113,7 @@ const games = {
   "mode": 3
  },
  "d5aff8bc-6c96-4267-a251-d063b960cf8d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
   "winners": [
    "Heretics K1nzеll",
    "wxlfiez",
@@ -6291,7 +6292,7 @@ const games = {
   "mode": 2
  },
  "437cb6b8-0e01-49d0-beba-987416206738": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "winners": [
    "Pure Nates Daddy",
    "5G Xetiq7",
@@ -6302,7 +6303,7 @@ const games = {
   "mode": 3
  },
  "16fe1d92-f336-4c54-8678-7b33708e5738": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "winners": [
    "TRNL TrashyTHD",
    "TRNL exе",
@@ -6313,7 +6314,7 @@ const games = {
   "mode": 3
  },
  "5de74ac2-a37c-4822-bdc0-cd40db91c011": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -6324,7 +6325,7 @@ const games = {
   "mode": 3
  },
  "ee00dae4-1d6f-4918-9b6c-cae8af26cb64": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -6335,7 +6336,7 @@ const games = {
   "mode": 3
  },
  "8f02a046-929c-450c-b4ad-3a842a241b11": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -6346,7 +6347,7 @@ const games = {
   "mode": 3
  },
  "052d5bfb-39a9-4380-87b3-6117f63ab449": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "winners": [
    "pure optimal",
    "snow 143",
@@ -6357,13 +6358,13 @@ const games = {
   "mode": 3
  },
  "13d11528-7475-414e-854b-2f21533938f3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
   "time": "2020-10-11T02:40:22.425",
   "duration": 509,
   "mode": 3
  },
  "e0f08e8f-858b-4b7d-915a-f7f124eae6fe": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "xtra leb",
    "4PF Ethan",
@@ -6374,7 +6375,7 @@ const games = {
   "mode": 3
  },
  "2b6cb84c-a93f-42c6-859a-f376a585c1a4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "pure spideyy",
    "NorCal Blizyzyzy",
@@ -6385,7 +6386,7 @@ const games = {
   "mode": 3
  },
  "179c2a67-f55d-4c31-aa61-348411661eba": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "TSG defiable",
    "Nuqloツ",
@@ -6396,7 +6397,7 @@ const games = {
   "mode": 3
  },
  "2e057fd5-66d5-4506-8189-f96f012df7d4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -6407,7 +6408,7 @@ const games = {
   "mode": 3
  },
  "010c07b0-fb63-4880-9c3d-384783fcb1a6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "g0dku",
    "Outcast Triggy",
@@ -6418,7 +6419,7 @@ const games = {
   "mode": 3
  },
  "8e9f871c-c3f5-4c05-8312-0f23a11da681": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "twitter 1beastfn",
    "XTRA SeahorseTai",
@@ -6429,7 +6430,7 @@ const games = {
   "mode": 3
  },
  "5bd9e5c7-8d97-4bbc-88cf-c831454a33a8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -6440,7 +6441,7 @@ const games = {
   "mode": 3
  },
  "6c85a760-2e00-4b01-a125-7ba04f3aa69f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "5G Dex 神",
    "konoszn",
@@ -6451,7 +6452,7 @@ const games = {
   "mode": 3
  },
  "bbc96bda-3e26-49c3-8b20-18f36eacb390": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "sIіm",
    "5G Nitrix",
@@ -6462,7 +6463,7 @@ const games = {
   "mode": 3
  },
  "4d6fd240-5e1f-412c-9366-2a3b78d5b02b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -6473,7 +6474,7 @@ const games = {
   "mode": 3
  },
  "13bc0e4b-170b-44c4-8eb3-0d259b75a78f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -6484,7 +6485,7 @@ const games = {
   "mode": 3
  },
  "256188cc-180c-4c1a-8382-01a9c13c1762": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -6495,7 +6496,7 @@ const games = {
   "mode": 3
  },
  "1deb7931-9eff-44b8-b3c1-e8e9c72376cf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "sIіm",
    "5G Nitrix",
@@ -6506,7 +6507,7 @@ const games = {
   "mode": 3
  },
  "6af98aa5-4fad-40d7-85ac-30f790639c89": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "tsg kenshi",
    "Akella Maken",
@@ -6517,7 +6518,7 @@ const games = {
   "mode": 3
  },
  "6325a50d-577a-43b5-8633-bc31aca4ac50": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "xtra leb",
    "4PF Ethan",
@@ -6528,7 +6529,7 @@ const games = {
   "mode": 3
  },
  "8eb1e654-1c6f-4732-bf83-9a7d0efe9f06": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "NolbertoEZ",
    "NorCal Peppa",
@@ -6539,7 +6540,7 @@ const games = {
   "mode": 3
  },
  "17ad7b6a-66f8-4600-ab67-86b407f59a63": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "ThaiTanks",
    "5G KADENOX",
@@ -6550,7 +6551,7 @@ const games = {
   "mode": 3
  },
  "cc594674-3794-4db2-ab4e-f905c0398b08": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "tsg kenshi",
    "Akella Maken",
@@ -6561,7 +6562,7 @@ const games = {
   "mode": 3
  },
  "828208c3-2184-479c-a0d0-44460da34dd6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "LIТТLE B",
    "TEMPLE B",
@@ -6572,7 +6573,7 @@ const games = {
   "mode": 3
  },
  "115e23b4-3410-479f-8bec-1f1c2abc76d9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "LIТТLE B",
    "TEMPLE B",
@@ -6583,7 +6584,7 @@ const games = {
   "mode": 3
  },
  "600829e3-5610-43ba-81dd-ca137090b927": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "xtra leb",
    "4PF Ethan",
@@ -6594,7 +6595,7 @@ const games = {
   "mode": 3
  },
  "59b065a8-51d2-437d-b7b3-fe84cb12a2e6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "tericcsan10",
    "July221",
@@ -6605,7 +6606,7 @@ const games = {
   "mode": 3
  },
  "60882822-919e-47d9-99cd-1a9412567518": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "juiсeǃ",
    "gawr gura fǃ",
@@ -6616,7 +6617,7 @@ const games = {
   "mode": 3
  },
  "52c6d500-8d67-4b95-900a-e08ef526d4ea": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
   "winners": [
    "NАRS",
    "Vydo",
@@ -6627,7 +6628,7 @@ const games = {
   "mode": 3
  },
  "adb99985-60cf-42bc-aa88-1860e1ae52aa": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "ZF jeckL",
    "ZH22 Squishy",
@@ -6638,7 +6639,7 @@ const games = {
   "mode": 3
  },
  "51d49522-828c-482e-bd33-f9f9f08b57c3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "twitter 1beastfn",
    "XTRA SeahorseTai",
@@ -6649,7 +6650,7 @@ const games = {
   "mode": 3
  },
  "780402fe-9040-4635-ba45-2fe46e078cd6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "razer naga",
    "ItsBocha TV",
@@ -6660,7 +6661,7 @@ const games = {
   "mode": 3
  },
  "ad2673f4-613f-4ec6-b7f7-04249f0257bb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "lmао.",
    "5G tonystark",
@@ -6671,7 +6672,7 @@ const games = {
   "mode": 3
  },
  "e827488d-a83b-4c2e-ad00-72d180ef6844": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -6682,7 +6683,7 @@ const games = {
   "mode": 3
  },
  "52841f7a-5acd-4666-a8d7-d9765e811018": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "pure spideyy",
    "NorCal Blizyzyzy",
@@ -6693,7 +6694,7 @@ const games = {
   "mode": 3
  },
  "67c8b7c6-4ecf-4152-8d6b-aa4f3e24e8f0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "XТRA Reеt7",
    "CLST Hockle",
@@ -6704,7 +6705,7 @@ const games = {
   "mode": 3
  },
  "3bae94ca-c7a2-4512-81b4-425c2f6ee3bd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "pure optimal",
    "snow 143",
@@ -6715,7 +6716,7 @@ const games = {
   "mode": 3
  },
  "5133bc88-e83c-4a73-81a9-183dfd0b53ca": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -6726,7 +6727,7 @@ const games = {
   "mode": 3
  },
  "ed0f21aa-af4f-4ab8-95c5-092d5c80362f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "pure spideyy",
    "NorCal Blizyzyzy",
@@ -6737,7 +6738,7 @@ const games = {
   "mode": 3
  },
  "deeff861-ad61-4511-8423-d67831174ccd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -6748,7 +6749,7 @@ const games = {
   "mode": 3
  },
  "d7febf0a-7131-4315-804c-05c12dc70714": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
   "winners": [
    "pure optimal",
    "snow 143",
@@ -6759,7 +6760,7 @@ const games = {
   "mode": 3
  },
  "0e093e4e-32d8-4e9f-969a-34c1d192c496": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "XTRA Quinn",
    "TRNL Lxdesman600",
@@ -6770,7 +6771,7 @@ const games = {
   "mode": 3
  },
  "42d0c444-232b-4b61-bad0-c3c6a7ece49f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "TRNL TrashyTHD",
    "TRNL exе",
@@ -6781,7 +6782,7 @@ const games = {
   "mode": 3
  },
  "1f26d28f-d97d-44b0-b74a-8150abdec4c0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "Ghost Sean",
    "TRNL Criizux.",
@@ -6792,7 +6793,7 @@ const games = {
   "mode": 3
  },
  "86e0c55f-d0ff-48f4-9cdb-d389829c87b5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "5G Nach",
    "9LIVES Slays",
@@ -6803,7 +6804,7 @@ const games = {
   "mode": 3
  },
  "757a2642-3135-437c-8ac7-7c17c4280311": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "оIaf",
    "ACREE.",
@@ -6814,7 +6815,7 @@ const games = {
   "mode": 3
  },
  "9111990b-b148-4b06-85fe-4553edd0a48c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "sIіm",
    "5G Nitrix",
@@ -6825,7 +6826,7 @@ const games = {
   "mode": 3
  },
  "1f33c346-fa2a-4d1f-a933-d7c6a8da4a0d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "5G Nach",
    "9LIVES Slays",
@@ -6836,7 +6837,7 @@ const games = {
   "mode": 3
  },
  "30d45a10-cfd0-4cf4-8fd3-6c348b2d63b0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "sIіm",
    "5G Nitrix",
@@ -6847,7 +6848,7 @@ const games = {
   "mode": 3
  },
  "c8f8e244-dc83-492b-9802-0a5be550cee0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "TTV LimeV2",
    "KazqiGGs",
@@ -6858,7 +6859,7 @@ const games = {
   "mode": 3
  },
  "d7cc3473-6cd0-400e-8799-053e009c6828": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "5G Nach",
    "9LIVES Slays",
@@ -6869,7 +6870,7 @@ const games = {
   "mode": 3
  },
  "20c349b7-75aa-4ff3-a1d5-476d4b2e9fdf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "norcal alithy",
    "daddy rift420",
@@ -6880,7 +6881,7 @@ const games = {
   "mode": 3
  },
  "4c3d5471-6e9d-4cab-a192-d3fa90f9b947": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
   "winners": [
    "CLG symetrical",
    "Pure Bombito",
@@ -6891,7 +6892,7 @@ const games = {
   "mode": 3
  },
  "1c0d68e8-ae50-4e50-b24d-0a4e58e93e08": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "0-1 Xen Alexx",
    "Nedаk",
@@ -6902,7 +6903,7 @@ const games = {
   "mode": 3
  },
  "a69bea61-0c0e-4095-84e5-9b9320d4817b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "washed coach",
    "BH Cepillín",
@@ -6913,7 +6914,7 @@ const games = {
   "mode": 3
  },
  "189541ea-fa28-4f21-bd34-cca4618e0ed5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "LIТТLE B",
    "TEMPLE B",
@@ -6924,7 +6925,7 @@ const games = {
   "mode": 3
  },
  "4862a5e3-4de2-4116-9f66-200507ce049c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "LIТТLE B",
    "TEMPLE B",
@@ -6935,7 +6936,7 @@ const games = {
   "mode": 3
  },
  "20b58abd-d300-48b8-82ec-0b639fedf4ce": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "TSG defiable",
    "Nuqloツ",
@@ -6946,7 +6947,7 @@ const games = {
   "mode": 3
  },
  "9934d9c3-1bb5-4ae8-90cb-257f643b7107": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -6957,7 +6958,7 @@ const games = {
   "mode": 3
  },
  "3c7e3b6d-f1ac-4256-b997-1bfd613c8e4b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "ZH22 Inferno",
    "Relaklol",
@@ -6968,7 +6969,7 @@ const games = {
   "mode": 3
  },
  "13a3acf8-c740-4d52-9f78-bcff0dc9032f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "5G Dex 神",
    "konoszn",
@@ -6979,7 +6980,7 @@ const games = {
   "mode": 3
  },
  "132b3546-06f3-4259-94b8-5c35ae97148d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "محارب مريض unwet",
    "Zaеy",
@@ -6990,7 +6991,7 @@ const games = {
   "mode": 3
  },
  "02f5081a-65b2-4482-bd82-f212846dbe81": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "tsg kenshi",
    "Akella Maken",
@@ -7001,7 +7002,7 @@ const games = {
   "mode": 3
  },
  "69872163-c22c-4206-ae23-7f4e9b9ce8f7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -7012,7 +7013,7 @@ const games = {
   "mode": 3
  },
  "5a06554e-329e-46a9-aad1-c8229ec136ee": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -7023,7 +7024,7 @@ const games = {
   "mode": 3
  },
  "5efd6f68-3f76-4b87-aab8-8e50d645319e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "Voxie.",
    "CYFISH.",
@@ -7034,7 +7035,7 @@ const games = {
   "mode": 3
  },
  "2d59b328-8c7a-4422-9a46-a812e2d692dd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "pure fjaa",
    "Coach Chad.",
@@ -7045,7 +7046,7 @@ const games = {
   "mode": 3
  },
  "4f7c9bb4-dbd8-402d-b51b-c336539c6066": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "pure fjaa",
    "Coach Chad.",
@@ -7056,7 +7057,7 @@ const games = {
   "mode": 3
  },
  "5b3f723b-0345-418d-b5f3-a597890bb02c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "TSG 1Tidal",
    "GUSHER SKILLZ",
@@ -7067,7 +7068,7 @@ const games = {
   "mode": 3
  },
  "57f694ed-98b9-45b4-b99a-f03cc0a478c7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "TSG 1Tidal",
    "GUSHER SKILLZ",
@@ -7078,7 +7079,7 @@ const games = {
   "mode": 3
  },
  "9f93d23f-e922-4918-bf7f-c9db89224ed1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -7089,7 +7090,7 @@ const games = {
   "mode": 3
  },
  "87194a51-737f-401f-a755-15c34d62a849": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "5G bossbanana22",
    "TRNL Hov",
@@ -7100,7 +7101,7 @@ const games = {
   "mode": 3
  },
  "549f9fe6-c533-4701-ac28-f37c97195a4f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "yt cyrzr",
    "5G Feared",
@@ -7111,7 +7112,7 @@ const games = {
   "mode": 3
  },
  "2824188e-e995-45f2-a291-13af55302d80": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -7122,7 +7123,7 @@ const games = {
   "mode": 3
  },
  "478b92a0-71f1-4da1-93ca-2af16162d053": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "Adity.",
    "wouho xx",
@@ -7133,7 +7134,7 @@ const games = {
   "mode": 3
  },
  "c6e8d6cc-fe98-4a4d-89bd-4d0c33dbea4d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "Dz xParrazek",
    "Timbers RevoAB",
@@ -7144,7 +7145,7 @@ const games = {
   "mode": 3
  },
  "ca27e35c-7984-48a2-8417-4896ea24e4ca": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -7155,7 +7156,7 @@ const games = {
   "mode": 3
  },
  "1a62700b-2193-4568-9cb8-7854b6652daf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "pure spideyy",
    "NorCal Blizyzyzy",
@@ -7166,7 +7167,7 @@ const games = {
   "mode": 3
  },
  "5e26ac0b-49b3-4054-9b4a-39e8fe57cc7f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "g0dku",
    "Outcast Triggy",
@@ -7177,7 +7178,7 @@ const games = {
   "mode": 3
  },
  "93a228fe-3393-4c99-9a46-a7e530568e6b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -7188,7 +7189,7 @@ const games = {
   "mode": 3
  },
  "5992714d-9c61-4947-9a1e-906ac139f3af": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -7199,7 +7200,7 @@ const games = {
   "mode": 3
  },
  "8b7705b7-e17d-4546-ba13-6d711f1b9f68": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "LIТТLE B",
    "TEMPLE B",
@@ -7210,7 +7211,7 @@ const games = {
   "mode": 3
  },
  "c1aa2094-066f-47da-a07d-ededf6afa045": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "sIіm",
    "5G Nitrix",
@@ -7221,7 +7222,7 @@ const games = {
   "mode": 3
  },
  "50e2c439-8e6a-49c2-90d4-3209dfdc1e58": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -7232,7 +7233,7 @@ const games = {
   "mode": 3
  },
  "2b8f747f-353f-4efd-8a2f-ca8c216c3775": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "XTRA Reet7",
    "alexgοnzsoccer85",
@@ -7243,7 +7244,7 @@ const games = {
   "mode": 3
  },
  "0aafbe5e-49dc-40f8-986d-44dabadb1028": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "CLG symetrical",
    "Pure Bombito",
@@ -7254,7 +7255,7 @@ const games = {
   "mode": 3
  },
  "1a127a34-bd12-41e2-be73-d1d5e719fe84": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -7265,7 +7266,7 @@ const games = {
   "mode": 3
  },
  "75e91277-a8ab-4807-b701-7b6b7d1710c1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "100T Falconer",
    "TurtleTavern",
@@ -7276,7 +7277,7 @@ const games = {
   "mode": 3
  },
  "2361adbf-6acc-470b-af14-d980abf9ffd6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
   "winners": [
    "5G Dex 神",
    "konoszn",
@@ -7287,7 +7288,7 @@ const games = {
   "mode": 3
  },
  "85619cb5-883d-4dec-a308-6caa9d699750": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "winners": [
    "ALBAひろ.椿",
    "KUREN 覇",
@@ -7298,7 +7299,7 @@ const games = {
   "mode": 3
  },
  "5c6f7f6f-ac29-464f-ae0f-b94487424b03": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "winners": [
    "CЕ 2SNgNl",
    "CE fa1zzyy",
@@ -7309,7 +7310,7 @@ const games = {
   "mode": 3
  },
  "08aa9d13-f9db-42af-8e20-733c538f9eeb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7320,7 +7321,7 @@ const games = {
   "mode": 3
  },
  "13126440-0313-40c6-a467-7953510530a7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "winners": [
    "stork 笑",
    "DaAllen.",
@@ -7331,7 +7332,7 @@ const games = {
   "mode": 3
  },
  "82e16cfb-8aff-4250-904e-6cfb94d78ea0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "winners": [
    "CЕ 2SNgNl",
    "CE fa1zzyy",
@@ -7342,7 +7343,7 @@ const games = {
   "mode": 3
  },
  "5081a612-ace6-4471-8573-51483eec2ec4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7353,13 +7354,13 @@ const games = {
   "mode": 3
  },
  "018aea5d-96a3-41bc-b5ee-e677b68cdfb3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
   "time": "2020-10-10T10:40:22.945",
   "duration": 1360,
   "mode": 3
  },
  "613c2fd4-6fc8-49cd-84c2-f5d4a302e964": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "Ruiサナ",
    "私はたっとです",
@@ -7370,7 +7371,7 @@ const games = {
   "mode": 3
  },
  "d9d6f126-70e0-4e17-980c-5e1e2c163194": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "Korox2 Ѧ",
    "Ṭzuyu2k",
@@ -7381,7 +7382,7 @@ const games = {
   "mode": 3
  },
  "07716c3a-6550-429a-8686-9a7a0b1bcd1f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "CЕ 2SNgNl",
    "CE fa1zzyy",
@@ -7392,7 +7393,7 @@ const games = {
   "mode": 3
  },
  "4b0fb982-c7e3-431c-8a73-f57373a15c73": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "Hayatentacion",
    "さざんとレクイエム",
@@ -7403,7 +7404,7 @@ const games = {
   "mode": 3
  },
  "6cb37152-3834-4670-bc89-921b2f36d939": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "CR QJАC",
    "Rid WildHawk ゆ機",
@@ -7414,7 +7415,7 @@ const games = {
   "mode": 3
  },
  "50f97e5f-b57f-4dfd-a480-d13db00e81fa": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "181.77.20",
    "T1 Quickss 75",
@@ -7425,10 +7426,10 @@ const games = {
   "mode": 3
  },
  "099cca3c-2ce3-463a-96f2-b0ea655ac9a5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-17T10:40:22.77",
@@ -7436,7 +7437,7 @@ const games = {
   "mode": 3
  },
  "402b8491-7945-4f01-81d8-7be7187d95a6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "CЕ 2SNgNl",
    "CE fa1zzyy",
@@ -7447,7 +7448,7 @@ const games = {
   "mode": 3
  },
  "1d5f9080-7c4f-471a-adc7-493b3989e319": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "CЕ 2SNgNl",
    "CE fa1zzyy",
@@ -7458,7 +7459,7 @@ const games = {
   "mode": 3
  },
  "0dfe6b63-8091-4a36-ad80-9f66a1781fcd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7469,10 +7470,10 @@ const games = {
   "mode": 3
  },
  "0976042d-0087-4985-8788-ca06d40439a2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-17T08:40:21.981",
@@ -7480,7 +7481,7 @@ const games = {
   "mode": 3
  },
  "286ff342-5ae8-4646-b8c4-6638c1972393": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7491,7 +7492,7 @@ const games = {
   "mode": 3
  },
  "abd5f826-ae67-4c44-939f-dd05c61deb57": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7502,10 +7503,10 @@ const games = {
   "mode": 3
  },
  "5d1cd72e-be7c-4832-87f1-3aa49c3f553b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-25T10:10:22.418",
@@ -7513,7 +7514,7 @@ const games = {
   "mode": 3
  },
  "41b5e2b6-93ce-4acd-b556-cd3e43dcb5ae": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "CЕ 2SNgNl",
    "CE fa1zzyy",
@@ -7524,7 +7525,7 @@ const games = {
   "mode": 3
  },
  "72c86e06-696e-49d7-9917-7129ec4c5620": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "Ragna G Justice",
    "俺は天下の大将軍になる男だ",
@@ -7535,7 +7536,7 @@ const games = {
   "mode": 3
  },
  "73c34cca-6669-4f04-ab4f-f4b8e063bf48": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7546,10 +7547,10 @@ const games = {
   "mode": 3
  },
  "135ab22d-4bfd-4b63-84fc-2dcdf937428e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-25T08:10:21.84",
@@ -7557,7 +7558,7 @@ const games = {
   "mode": 3
  },
  "05fceef1-1f87-4b14-ac92-406768e74d6b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7568,7 +7569,7 @@ const games = {
   "mode": 3
  },
  "6c036597-1628-45f7-9ecb-501d64442a84": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7579,7 +7580,7 @@ const games = {
   "mode": 3
  },
  "11979f81-b68b-452b-b7ae-46a1eeb4bff0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "ALBA まるお",
    "FA たかちゃん",
@@ -7590,7 +7591,7 @@ const games = {
   "mode": 3
  },
  "03be06ac-93d0-4ff7-ac75-8d49245e40e4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7601,7 +7602,7 @@ const games = {
   "mode": 3
  },
  "0f29f1af-f697-4ef0-a6a3-6c8e104cd288": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "ぽこきん.",
    "Tori 峻",
@@ -7612,10 +7613,10 @@ const games = {
   "mode": 3
  },
  "169235b0-8d02-4ed3-ab35-283352ac81f8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-24T08:10:17.742",
@@ -7623,7 +7624,7 @@ const games = {
   "mode": 3
  },
  "1c806c2d-8393-431a-ac72-4315848b7909": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7634,7 +7635,7 @@ const games = {
   "mode": 3
  },
  "64617123-2db0-465f-9572-8c50fe1ce5e1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7645,7 +7646,7 @@ const games = {
   "mode": 3
  },
  "cba38856-5f18-4cc9-bfce-983e304d9ea8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7656,7 +7657,7 @@ const games = {
   "mode": 3
  },
  "3a83964f-c1eb-44ed-89ba-265a5a89c3b2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7667,7 +7668,7 @@ const games = {
   "mode": 3
  },
  "0e9c09e3-f09f-4950-adf3-fcc8f6f9b129": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -7678,7 +7679,7 @@ const games = {
   "mode": 3
  },
  "95b12617-6a27-49f1-ab79-77f670ef9182": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "stork 笑",
    "DaAllen.",
@@ -7689,10 +7690,10 @@ const games = {
   "mode": 3
  },
  "96fd5cf6-22cd-42c3-a0f9-32ca6cd08b4a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-29T10:40:27.435",
@@ -7700,10 +7701,10 @@ const games = {
   "mode": 3
  },
  "36075757-9864-44e7-a88e-65133bf562c6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "FaxFox77"
   ],
   "time": "2020-10-29T10:10:21.988",
@@ -7711,7 +7712,7 @@ const games = {
   "mode": 3
  },
  "4e98ccfe-f88f-48bf-9730-0803570a6d2d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "Secret xEllthuR",
    "私の彼女 まいぽり",
@@ -7722,7 +7723,7 @@ const games = {
   "mode": 3
  },
  "5027016a-7315-4dd9-bf3a-a1384f6e3b48": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7733,7 +7734,7 @@ const games = {
   "mode": 3
  },
  "8809252f-13f3-44d9-8bb9-0613f20cb179": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "GW_Lettuce",
    "CREssway",
@@ -7744,7 +7745,7 @@ const games = {
   "mode": 3
  },
  "66546263-6f08-43f7-8460-69b78bc9830b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7755,7 +7756,7 @@ const games = {
   "mode": 3
  },
  "11e7c510-3195-4e20-9d41-730769968eb9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "りんかー浜田ジェームズブライアン",
    "ALBA iNyy",
@@ -7766,7 +7767,7 @@ const games = {
   "mode": 3
  },
  "56599e89-5a2f-4a98-a779-6d6968298b9f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7777,7 +7778,7 @@ const games = {
   "mode": 3
  },
  "3e31b3d1-67b8-4bf2-b3b4-5a4c87d6e182": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7788,7 +7789,7 @@ const games = {
   "mode": 3
  },
  "9eb95655-9050-4ad9-be8e-dd9544704768": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "CRノRiz",
    "GOL.D.RОGER",
@@ -7799,7 +7800,7 @@ const games = {
   "mode": 3
  },
  "1ead4e32-078a-496f-9678-1c56d2d0f84a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7810,7 +7811,7 @@ const games = {
   "mode": 3
  },
  "ed0c989d-2995-425b-af18-d0ab17b8dfe1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "крыса0_о",
    "SR Atlxntid",
@@ -7821,7 +7822,7 @@ const games = {
   "mode": 3
  },
  "d5b33f85-c7fc-49ee-ab40-b7994c93a0c5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "CRノRiz",
    "GOL.D.RОGER",
@@ -7832,7 +7833,7 @@ const games = {
   "mode": 3
  },
  "037e83ca-30ab-4b9c-bcb5-4da24980159d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7843,7 +7844,7 @@ const games = {
   "mode": 3
  },
  "06b9a200-251f-441f-b26c-43837a5608b0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "alba L4ex",
    "Štunt",
@@ -7854,7 +7855,7 @@ const games = {
   "mode": 3
  },
  "0ddc06d0-dccb-4abf-a448-0f35c4fedd07": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7865,7 +7866,7 @@ const games = {
   "mode": 3
  },
  "0b299c5a-d55b-409c-95f0-d8fad8d1e707": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "りんかー浜田ジェームズブライアン",
    "ALBA iNyy",
@@ -7876,7 +7877,7 @@ const games = {
   "mode": 3
  },
  "2f9de9fa-0cd2-49ad-ba7b-6d7f830f8f83": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
   "winners": [
    "ALBAひろ.椿",
    "KUREN 覇",
@@ -7887,7 +7888,7 @@ const games = {
   "mode": 3
  },
  "57244fef-41ec-40e5-8c1a-dcb426fbd4a5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "CR QJАC",
    "Rid WildHawk ゆ機",
@@ -7898,7 +7899,7 @@ const games = {
   "mode": 3
  },
  "1c540b51-8bfb-4ac6-950d-7ba7b2f5eb03": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "Ruiサナ",
    "私はたっとです",
@@ -7909,7 +7910,7 @@ const games = {
   "mode": 3
  },
  "8c929872-1b2a-4628-b0fa-cefe466afcad": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "stork 笑",
    "DaAllen.",
@@ -7920,7 +7921,7 @@ const games = {
   "mode": 3
  },
  "0c15e983-cce0-4d6e-a2f7-8bd4cf8917c5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "stork 笑",
    "DaAllen.",
@@ -7931,7 +7932,7 @@ const games = {
   "mode": 3
  },
  "87fdfe4c-3bcf-4d12-b612-01b0b8f91739": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "CRノRuri",
    "MaufinTT",
@@ -7942,7 +7943,7 @@ const games = {
   "mode": 3
  },
  "1c487fb2-92a1-47d1-8766-737a8c2964ea": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7953,7 +7954,7 @@ const games = {
   "mode": 3
  },
  "6de4b645-4b29-41c6-89b5-e36a7b9afe56": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "헤으응 눈나 나 죽어",
    "losing life",
@@ -7964,7 +7965,7 @@ const games = {
   "mode": 3
  },
  "3fc83f0a-1f25-41af-9719-cdf643f36e86": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "Korox2 Ѧ",
    "Ṭzuyu2k",
@@ -7975,7 +7976,7 @@ const games = {
   "mode": 3
  },
  "7fd44734-c322-4b01-95cc-665e32e00a58": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7986,7 +7987,7 @@ const games = {
   "mode": 3
  },
  "70889ca0-3e27-43ce-bb1b-f10f9baadb87": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -7997,7 +7998,7 @@ const games = {
   "mode": 3
  },
  "57a285e3-71d5-4121-b6aa-92a516628b6f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "The Kid MAESAR",
    "Macyfishy",
@@ -8008,7 +8009,7 @@ const games = {
   "mode": 3
  },
  "2a2117f1-6e55-46e8-be63-bacf0facd249": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
   "winners": [
    "ncr rainy",
    "NSR みや",
@@ -8019,7 +8020,7 @@ const games = {
   "mode": 3
  },
  "722e39d7-fb4d-4fb9-ad84-b4d3593e5b4a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8030,7 +8031,7 @@ const games = {
   "mode": 3
  },
  "b6e6b7d6-c120-4ff4-86ea-d42397b7b771": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8041,7 +8042,7 @@ const games = {
   "mode": 3
  },
  "0fbaf302-33a9-4297-85e4-4dcf9182eb93": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8052,7 +8053,7 @@ const games = {
   "mode": 3
  },
  "2fcfc4af-8ff4-4a88-804a-94c98719c9ba": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8063,7 +8064,7 @@ const games = {
   "mode": 3
  },
  "9a1b82e8-3ffb-4efd-a82e-2d2baea061bc": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8074,7 +8075,7 @@ const games = {
   "mode": 3
  },
  "99b5782f-3572-4f5c-9d92-fa4a0ab102e9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "TRIBE Liimaa",
    "brabo punisher",
@@ -8085,7 +8086,7 @@ const games = {
   "mode": 3
  },
  "555509a4-21ba-4455-8ae1-bd8cbbe8b114": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8096,7 +8097,7 @@ const games = {
   "mode": 3
  },
  "38f83d37-7f19-4db0-ae42-b744035d3c85": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8107,31 +8108,31 @@ const games = {
   "mode": 3
  },
  "0abbd3ed-1216-4f09-a301-533da1103fd1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "time": "2020-10-10T20:40:40",
   "duration": 1440,
   "mode": 3
  },
  "0a013f07-6696-4d67-aba4-4160e8c90171": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "time": "2020-10-10T20:10:32",
   "duration": 1403,
   "mode": 3
  },
  "19641f59-6604-4c27-9309-f377deaaf091": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "time": "2020-10-10T19:40:27",
   "duration": 890,
   "mode": 3
  },
  "0b4b8db2-f10b-4f64-ba40-338ebde355f9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_BR_PC",
   "time": "2020-10-10T19:10:40",
   "duration": 1496,
   "mode": 3
  },
  "6247d894-a139-4767-8617-d8ba83d9029e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8142,7 +8143,7 @@ const games = {
   "mode": 3
  },
  "0e2a4261-80a2-4a57-9c53-406ed6e5ef59": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8153,7 +8154,7 @@ const games = {
   "mode": 3
  },
  "1ba92a78-2168-40f5-b97d-64105cff52a5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8164,7 +8165,7 @@ const games = {
   "mode": 3
  },
  "70b0994a-fe11-475c-9077-a7efab9a4b22": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "SNOW FINAL BOSS",
    "Noble Diamondd",
@@ -8175,7 +8176,7 @@ const games = {
   "mode": 3
  },
  "1335bde3-db85-48a5-9e51-eb7ced14cc32": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8186,7 +8187,7 @@ const games = {
   "mode": 3
  },
  "5302a923-2a33-4db6-8da8-48afcde5c810": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8197,7 +8198,7 @@ const games = {
   "mode": 3
  },
  "1168c7c1-ab17-4ec3-b9af-2135cffd65c0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "FURY sнeco",
    "FURY histtory",
@@ -8208,7 +8209,7 @@ const games = {
   "mode": 3
  },
  "2da3121c-0af6-462b-9243-beb256562a04": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8219,7 +8220,7 @@ const games = {
   "mode": 3
  },
  "1538e132-7b0d-4b89-9e23-8d03e918d17b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8230,7 +8231,7 @@ const games = {
   "mode": 3
  },
  "666600ae-a561-4182-ac76-879248e878ce": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8241,7 +8242,7 @@ const games = {
   "mode": 3
  },
  "0af98349-2f40-4c80-ac0b-3059c7d317fe": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8252,7 +8253,7 @@ const games = {
   "mode": 3
  },
  "80328a9d-7457-4a07-bd66-f808a1b6b340": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_BR_PC",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8263,7 +8264,7 @@ const games = {
   "mode": 3
  },
  "a611afcc-b65f-4b91-a94d-7fb9495cee05": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8274,7 +8275,7 @@ const games = {
   "mode": 3
  },
  "3aab881e-1377-464f-b287-deb42ea22a15": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "eRa KBR -ɢ-",
    "9z Barella1x",
@@ -8285,7 +8286,7 @@ const games = {
   "mode": 3
  },
  "a83768cc-b4db-4da8-8aee-1816bc9ba6c2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "persa smoke",
    "TRNL Ed",
@@ -8296,7 +8297,7 @@ const games = {
   "mode": 3
  },
  "12480a47-8ef1-431d-8290-4e9dad447803": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "9z FiѕhyL2R2",
    "Æ Riquelmee",
@@ -8307,7 +8308,7 @@ const games = {
   "mode": 3
  },
  "0a19df72-e30e-4e4c-9fdc-a418488f5dff": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -8318,7 +8319,7 @@ const games = {
   "mode": 3
  },
  "1d5a670a-8952-4be6-8735-d6fd5ee60ed0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -8329,7 +8330,7 @@ const games = {
   "mode": 3
  },
  "69cc1bf0-eb1f-4e64-81ba-d9911d5f12ec": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -8340,7 +8341,7 @@ const games = {
   "mode": 3
  },
  "071b48ba-7ead-496c-ae62-584f50db44aa": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -8351,7 +8352,7 @@ const games = {
   "mode": 3
  },
  "09467da1-2264-4b31-9e41-c033f3d5fd31": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "LOUD lelеo",
    "diguera7",
@@ -8362,7 +8363,7 @@ const games = {
   "mode": 3
  },
  "218e3343-e043-4fe9-bcf7-d23f8a919215": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "TCE Lucasg",
    "spıtflow",
@@ -8373,7 +8374,7 @@ const games = {
   "mode": 3
  },
  "0b06e3a9-2862-4a42-a30b-6cc7285def75": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "eRa cadu",
    "TRNL bedin",
@@ -8384,7 +8385,7 @@ const games = {
   "mode": 3
  },
  "7c3063d7-a390-457b-8641-7767fff16734": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_BR_PC",
   "winners": [
    "Revenge Sync",
    "Beтто",
@@ -8395,7 +8396,7 @@ const games = {
   "mode": 3
  },
  "513b7333-d4cf-4376-8e38-c6c6a1617a27": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "FURY sнeco",
    "FURY histtory",
@@ -8406,7 +8407,7 @@ const games = {
   "mode": 3
  },
  "c5edbb57-6d68-43ac-b5e0-61147b122c5e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "9z sant",
    "KRU Leobas",
@@ -8417,7 +8418,7 @@ const games = {
   "mode": 3
  },
  "0103de85-f669-4a64-956f-12fb960700ca": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "eRa KBR -ɢ-",
    "9z Barella1x",
@@ -8428,7 +8429,7 @@ const games = {
   "mode": 3
  },
  "2d5c6f8e-f6fb-4e82-a76c-925356d2304a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "saint 76",
    "dario demon mode",
@@ -8439,7 +8440,7 @@ const games = {
   "mode": 3
  },
  "0ec85936-1616-4c8a-9cb9-873b4875127f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "NW9 rpg",
    "HiT Irikura9x",
@@ -8450,7 +8451,7 @@ const games = {
   "mode": 3
  },
  "55b862c6-8029-4a59-a17f-bf144220b1ee": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "eRa KBR -ɢ-",
    "9z Barella1x",
@@ -8461,7 +8462,7 @@ const games = {
   "mode": 3
  },
  "60193dff-c18b-4910-8330-c0718afed6cd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "9z H4wwk",
    "Suetam .",
@@ -8472,7 +8473,7 @@ const games = {
   "mode": 3
  },
  "273b8ea7-0a82-4d2a-bdcd-dfcd622ae355": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "9z FiѕhyL2R2",
    "Æ Riquelmee",
@@ -8483,7 +8484,7 @@ const games = {
   "mode": 3
  },
  "1865a005-107e-45cd-b884-3777d8f6f4e6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "RedbullKing.",
    "pogba beiby",
@@ -8494,7 +8495,7 @@ const games = {
   "mode": 3
  },
  "0b9d67a2-87aa-4ba0-aace-a5d1db2b954d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "eRa KBR -ɢ-",
    "9z Barella1x",
@@ -8505,7 +8506,7 @@ const games = {
   "mode": 3
  },
  "05eba675-b02d-4a79-a8b7-55abd0a53521": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "9z H4wwk",
    "Suetam .",
@@ -8516,7 +8517,7 @@ const games = {
   "mode": 3
  },
  "81935dae-47cd-4183-ad71-a347c8beb822": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
   "winners": [
    "persa smoke",
    "TRNL Ed",
@@ -8527,7 +8528,7 @@ const games = {
   "mode": 3
  },
  "c7ef4a45-8ae1-42bc-88bb-168265dab6b6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "mуstick",
    "eRa gordinho",
@@ -8538,7 +8539,7 @@ const games = {
   "mode": 3
  },
  "03d5ec48-f6ef-42f8-8f46-ab1b026f60e4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "TDDEMOCNEYACHE32",
    "Æ fazer74",
@@ -8549,7 +8550,7 @@ const games = {
   "mode": 3
  },
  "c25012be-ac71-43b0-a1d2-1f30ac6fb3f6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8560,7 +8561,7 @@ const games = {
   "mode": 3
  },
  "ebaff9f7-6d73-4384-a932-d78a9af560fd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8571,7 +8572,7 @@ const games = {
   "mode": 3
  },
  "56b5bc52-746a-4638-b9e1-335dbda48195": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8582,7 +8583,7 @@ const games = {
   "mode": 3
  },
  "72a0df76-de5d-469a-86a0-99d38d7c4f07": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "mуstick",
    "eRa gordinho",
@@ -8593,7 +8594,7 @@ const games = {
   "mode": 3
  },
  "437b3023-e530-4555-b0e6-d0c7823dd587": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "TDDEMOCNEYACHE32",
    "Æ fazer74",
@@ -8604,7 +8605,7 @@ const games = {
   "mode": 3
  },
  "46393331-677f-4250-8e89-079c11b10898": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "SKIPЕR7",
    "nias .",
@@ -8615,7 +8616,7 @@ const games = {
   "mode": 3
  },
  "35be2c42-1bc2-4fea-ab35-5c76150d7101": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8626,7 +8627,7 @@ const games = {
   "mode": 3
  },
  "013657a6-6488-48ee-a87f-db624adc7035": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "TCE Lucasg",
    "spıtflow",
@@ -8637,7 +8638,7 @@ const games = {
   "mode": 3
  },
  "1ac9b8ea-4456-438b-bf8b-02f6a2e1fb5a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "Liquid Pulga",
    "mɑster",
@@ -8648,7 +8649,7 @@ const games = {
   "mode": 3
  },
  "8c567c10-7df4-49fa-9b52-fba83f77aac9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -8659,7 +8660,7 @@ const games = {
   "mode": 3
  },
  "47edc9df-f67c-459a-8851-e910768a0075": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "Prxnextt L2R2",
    "GH Itrol〆",
@@ -8670,7 +8671,7 @@ const games = {
   "mode": 3
  },
  "2b8ecc35-df56-4581-93dd-6129399141b4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "Prxnextt L2R2",
    "GH Itrol〆",
@@ -8681,7 +8682,7 @@ const games = {
   "mode": 3
  },
  "0964add7-1cd7-41df-abcd-3bf26efda8f8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "mingal mamute",
    "abreuhere ʞ",
@@ -8692,7 +8693,7 @@ const games = {
   "mode": 3
  },
  "26678acf-095d-461a-b123-bc11c3729312": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "eRa cadu",
    "TRNL bedin",
@@ -8703,7 +8704,7 @@ const games = {
   "mode": 3
  },
  "b9cd5d1f-10c0-4a49-bf80-2c224bc2fc6b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -8714,7 +8715,7 @@ const games = {
   "mode": 3
  },
  "77ce5d82-f7cb-4901-83b9-e03b26f2b857": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "Prxnextt L2R2",
    "GH Itrol〆",
@@ -8725,7 +8726,7 @@ const games = {
   "mode": 3
  },
  "290138e5-2fcb-4009-a767-d9c4e6d8db09": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "pattaty46",
    "bagu46",
@@ -8736,7 +8737,7 @@ const games = {
   "mode": 3
  },
  "1e1fa71e-fe47-45a0-b82d-b386ad2c391b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "SNOW FINAL BOSS",
    "Noble Diamondd",
@@ -8747,7 +8748,7 @@ const games = {
   "mode": 3
  },
  "c714e8f9-bb7b-42f2-a5e6-a4fa6b5921ef": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "SNOW FINAL BOSS",
    "Noble Diamondd",
@@ -8758,7 +8759,7 @@ const games = {
   "mode": 3
  },
  "178bd20e-2a9e-4148-b82f-895eeb24bd75": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "Luiston7",
    "Blessed Whalifaa",
@@ -8769,7 +8770,7 @@ const games = {
   "mode": 3
  },
  "522b9ee6-79a9-4a51-a4c4-ec165c438d63": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "Prxnextt L2R2",
    "GH Itrol〆",
@@ -8780,7 +8781,7 @@ const games = {
   "mode": 3
  },
  "0392f70e-e17f-43f2-ba8d-89d3d9989202": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
   "winners": [
    "pattaty46",
    "bagu46",
@@ -8791,7 +8792,7 @@ const games = {
   "mode": 3
  },
  "5508dc3f-8a20-4dd8-9987-64c237054cf5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "LOUD lelеo",
    "diguera7",
@@ -8802,7 +8803,7 @@ const games = {
   "mode": 3
  },
  "b5fa37dd-712c-48bd-ba50-56e4cd3f2392": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "DETONA Kayky",
    "NEW Insano",
@@ -8813,7 +8814,7 @@ const games = {
   "mode": 3
  },
  "6f365a33-6a91-4d2d-8284-dbfe60b65f69": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "9z Twayko",
    "Faккz",
@@ -8824,7 +8825,7 @@ const games = {
   "mode": 3
  },
  "78910779-0d41-46c0-bf31-355734ecb83e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8835,7 +8836,7 @@ const games = {
   "mode": 3
  },
  "31b6dbd2-1d72-4155-b2ac-c9c2e064123e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "9z Twayko",
    "Faккz",
@@ -8846,7 +8847,7 @@ const games = {
   "mode": 3
  },
  "5b2e4d8e-523a-405b-9a14-eeceba61a829": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "y97da9dy9",
    "gabov1ce",
@@ -8857,7 +8858,7 @@ const games = {
   "mode": 3
  },
  "4fb06203-781c-4c04-a5d4-f04c03f2e4fe": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "DETONA Kayky",
    "NEW Insano",
@@ -8868,7 +8869,7 @@ const games = {
   "mode": 3
  },
  "bdb1e103-ab60-4ff9-a640-528638cc6115": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8879,7 +8880,7 @@ const games = {
   "mode": 3
  },
  "6b29a3d2-49d4-44a6-b5a5-26526d584997": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8890,7 +8891,7 @@ const games = {
   "mode": 3
  },
  "07e28e77-50cb-405e-abbb-ae894992586c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -8901,7 +8902,7 @@ const games = {
   "mode": 3
  },
  "1bfc7485-f19a-492e-a503-350f0d971125": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "SATIS LaroKshyer",
    "SATIS Gangifishy",
@@ -8912,7 +8913,7 @@ const games = {
   "mode": 3
  },
  "01c89f91-2e8d-4d08-93a1-b2effee852f4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
   "winners": [
    "Frаns",
    "kiritoﾠ",
@@ -8923,7 +8924,7 @@ const games = {
   "mode": 3
  },
  "1e1510aa-29c4-4f48-9776-0706826d46db": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -8934,7 +8935,7 @@ const games = {
   "mode": 3
  },
  "56024923-7268-415e-9742-293c2b16642b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "9z Nahue507",
    "TWSTD tade",
@@ -8945,7 +8946,7 @@ const games = {
   "mode": 3
  },
  "32ce5db2-25e0-41ea-a467-d743f9b0fbf5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "SNOW FINAL BOSS",
    "Noble Diamondd",
@@ -8956,7 +8957,7 @@ const games = {
   "mode": 3
  },
  "c38e62b1-0cb8-4b3b-a22a-7ed8e0be9fb9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "TRIBE Liimaa",
    "brabo punisher",
@@ -8967,7 +8968,7 @@ const games = {
   "mode": 3
  },
  "65745dee-7064-4fb0-a18f-39bd68d00a5e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "lorax9j",
    "ndр",
@@ -8978,7 +8979,7 @@ const games = {
   "mode": 3
  },
  "4b1874b7-afd1-4b03-b1a8-68734b91c8bb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "LOUD lelеo",
    "diguera7",
@@ -8989,7 +8990,7 @@ const games = {
   "mode": 3
  },
  "0a186ea2-c5b6-4e9c-bfe5-77e9fa3f51da": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -9000,7 +9001,7 @@ const games = {
   "mode": 3
  },
  "60b60a78-591f-499e-84b4-d883625bbde1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "DEMONRUSTYACHE32",
    "VКS 100UM",
@@ -9011,7 +9012,7 @@ const games = {
   "mode": 3
  },
  "03c48a60-6f8a-4dc1-bba2-22f58a17e811": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -9022,7 +9023,7 @@ const games = {
   "mode": 3
  },
  "5229e840-8705-4ac8-aa67-5a41b3b68756": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "Gabrielh99 L2 L2",
    "LOUD Lasers",
@@ -9033,7 +9034,7 @@ const games = {
   "mode": 3
  },
  "4a2469d8-40fd-4293-8c28-1c5ef836f1b1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "FURY sнeco",
    "FURY histtory",
@@ -9044,7 +9045,7 @@ const games = {
   "mode": 3
  },
  "9739e862-350e-4704-9b10-d6ff3e711d38": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
   "winners": [
    "kurtzv2_",
    "Frosтy7",
@@ -9055,7 +9056,7 @@ const games = {
   "mode": 3
  },
  "405594f2-74ae-442e-bbcd-d8e43aea219e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9066,7 +9067,7 @@ const games = {
   "mode": 3
  },
  "4e4fcfcb-e54d-455b-ae48-f0bb0cfc9645": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9077,7 +9078,7 @@ const games = {
   "mode": 3
  },
  "19cc0093-9215-4b25-9452-d57a41593faa": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "winners": [
    "NMR 3BoooD",
    "2ormen",
@@ -9088,7 +9089,7 @@ const games = {
   "mode": 3
  },
  "8ec2317d-9886-478a-8712-568719df890a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "winners": [
    "SAQR QnDx",
    "SAQR Rapit",
@@ -9099,7 +9100,7 @@ const games = {
   "mode": 3
  },
  "f4802fd3-ba0c-4591-9bd5-09339cc45740": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "winners": [
    "Eltrocity KuKi",
    "Mevǃ",
@@ -9110,7 +9111,7 @@ const games = {
   "mode": 3
  },
  "904342e2-128f-405f-a9b7-992020a04328": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "winners": [
    "LND Ax3",
    "Feиix",
@@ -9121,13 +9122,13 @@ const games = {
   "mode": 3
  },
  "1f3a9ccb-d7e8-4492-b13f-eb64a62e5ff4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_ME_PC",
   "time": "2020-10-09T18:40:24.431",
   "duration": 1463,
   "mode": 3
  },
  "510644a9-c5c6-4b34-bb34-7046c2b5d300": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "Eltrocity KuKi",
    "Mevǃ",
@@ -9138,7 +9139,7 @@ const games = {
   "mode": 3
  },
  "3b3460bb-7c78-43d3-ab76-f56d49b4c542": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "POWER 7MOOD",
    "POWER Abdulelah",
@@ -9149,7 +9150,7 @@ const games = {
   "mode": 3
  },
  "1fe2eef1-840c-4873-8621-5bf6b893bbb3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "Falcon FHD",
    "Falcon Yonx",
@@ -9160,7 +9161,7 @@ const games = {
   "mode": 3
  },
  "6fd9cc5d-758f-42bb-b11c-4ea61c826a54": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "Falcon FHD",
    "Falcon Yonx",
@@ -9171,7 +9172,7 @@ const games = {
   "mode": 3
  },
  "c4f2605b-e168-4c0c-9332-fc1c6063aab9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "EpikSKULLYlol",
    "Sudor Saudツ",
@@ -9182,7 +9183,7 @@ const games = {
   "mode": 3
  },
  "924e0c1f-bcb0-4818-8ec3-3f85697724e3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9193,7 +9194,7 @@ const games = {
   "mode": 3
  },
  "18d51820-a7f4-40d9-a0f4-3502aded282a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "Eltrocity KuKi",
    "Mevǃ",
@@ -9204,7 +9205,7 @@ const games = {
   "mode": 3
  },
  "894a48ce-b0f5-4203-8ff0-70ed6ad15389": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9215,7 +9216,7 @@ const games = {
   "mode": 3
  },
  "2c7de276-b36e-4531-ba97-12962ea91b9f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9226,7 +9227,7 @@ const games = {
   "mode": 3
  },
  "91a472f3-4ad4-4928-9078-a56d70d44303": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "DeattFan109",
    "А7mdo",
@@ -9237,7 +9238,7 @@ const games = {
   "mode": 3
  },
  "0f53451f-8d2b-43d5-bbd0-b558c5e518ae": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "SAQR QnDx",
    "SAQR Rapit",
@@ -9248,7 +9249,7 @@ const games = {
   "mode": 3
  },
  "a3427962-8009-4a57-bb7c-bdea8fe588e6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_ME_PC",
   "winners": [
    "Fаlcon Spy",
    "Nаsir",
@@ -9259,7 +9260,7 @@ const games = {
   "mode": 3
  },
  "c4d0604e-3194-4177-b3de-ab153f9f12fc": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "POWER 7MOOD",
    "POWER Abdulelah",
@@ -9270,7 +9271,7 @@ const games = {
   "mode": 3
  },
  "9b3872c5-6084-42e2-a803-75b9000f33ab": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9281,7 +9282,7 @@ const games = {
   "mode": 3
  },
  "f0dac456-49ec-4f48-9097-c08a6a687c36": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9292,7 +9293,7 @@ const games = {
   "mode": 3
  },
  "5454c91c-52cb-4054-83ea-9424de4f63ff": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9303,7 +9304,7 @@ const games = {
   "mode": 3
  },
  "8bc5a494-77fe-4a3d-88d8-376bd09ecea9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Tox AAAAAAAAAAAA",
    "pJLoJI_JljJj",
@@ -9314,7 +9315,7 @@ const games = {
   "mode": 3
  },
  "57e645f8-79bc-44d2-aa81-21138f39a05b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9325,7 +9326,7 @@ const games = {
   "mode": 3
  },
  "3bdd0fcb-eafc-49e1-b3fa-0f04ef5a9c47": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9336,7 +9337,7 @@ const games = {
   "mode": 3
  },
  "5182358a-8a2f-433b-9a71-ebd18e15dd07": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Falcon Speedy.",
    "SCYTES Heif",
@@ -9347,7 +9348,7 @@ const games = {
   "mode": 3
  },
  "a58680df-df9c-4e6a-b409-edf52ee45067": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9358,7 +9359,7 @@ const games = {
   "mode": 3
  },
  "5346bd33-d75b-4156-a49a-8ca00d0f25ff": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9369,7 +9370,7 @@ const games = {
   "mode": 3
  },
  "4b1e685c-6339-4b07-b552-1c1a56799ee8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "Tox AAAAAAAAAAAA",
    "pJLoJI_JljJj",
@@ -9380,7 +9381,7 @@ const games = {
   "mode": 3
  },
  "5ecd946e-e460-4013-8d2f-4596d851df3d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_ME_PC",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -9391,7 +9392,7 @@ const games = {
   "mode": 3
  },
  "89c8c78a-43e2-4296-b2f6-508606b59500": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "Eltrocity KuKi",
    "Mevǃ",
@@ -9402,7 +9403,7 @@ const games = {
   "mode": 3
  },
  "e2a52c92-383b-4a69-9930-acc2fac873e3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "TU Msiddig",
    "TU Siddig",
@@ -9413,7 +9414,7 @@ const games = {
   "mode": 3
  },
  "d428b214-2e0c-471b-bb4b-d2c9494dc0e4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9424,7 +9425,7 @@ const games = {
   "mode": 3
  },
  "8bc3997d-dd94-4bd6-a87b-08a242b6b681": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "Eltrocity KuKi",
    "Mevǃ",
@@ -9435,7 +9436,7 @@ const games = {
   "mode": 3
  },
  "26219221-e081-4339-be46-ae78ddb162e3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "Falcon Νm7",
    "Falcon Rv",
@@ -9446,7 +9447,7 @@ const games = {
   "mode": 3
  },
  "64f03f96-282e-43af-8cad-d76e44812bb9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "Nakano Krista",
    "DiggerWavyXander",
@@ -9457,7 +9458,7 @@ const games = {
   "mode": 3
  },
  "5d080a81-4dd2-464e-b9f8-4f7ec0292447": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9468,7 +9469,7 @@ const games = {
   "mode": 3
  },
  "98675477-6936-4c91-9c3d-ebc3f8b76985": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "LND Ax3",
    "Feиix",
@@ -9479,7 +9480,7 @@ const games = {
   "mode": 3
  },
  "424a5738-8f01-4b34-b7ef-717dcc786294": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "TU Adapter7",
    "Sudor LeziX",
@@ -9490,7 +9491,7 @@ const games = {
   "mode": 3
  },
  "0efd39c4-f2db-4d33-bd34-1da2f7203f27": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "AQ Khalood",
    "Spark DemonMinas",
@@ -9501,7 +9502,7 @@ const games = {
   "mode": 3
  },
  "2f227356-cf71-414f-9b56-acd397adceb8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "TU Msiddig",
    "TU Siddig",
@@ -9512,7 +9513,7 @@ const games = {
   "mode": 3
  },
  "99387cff-fa4e-420a-af9f-2ccdb599ad75": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
   "winners": [
    "Lоzer",
    "KINGS Azizilex",
@@ -9523,7 +9524,7 @@ const games = {
   "mode": 3
  },
  "e5c17c9e-e152-48e5-84bb-78bab2804898": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -9534,7 +9535,7 @@ const games = {
   "mode": 3
  },
  "3a1d9e7c-f01e-4252-b5ad-2f80759791bd": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -9545,7 +9546,7 @@ const games = {
   "mode": 3
  },
  "96bcd598-4f35-41a5-9e81-8a978ec58d5c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9556,7 +9557,7 @@ const games = {
   "mode": 3
  },
  "8687a446-9fa5-4358-9de6-2c195b1abdf8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SAQR QnDx",
    "SAQR Rapit",
@@ -9567,7 +9568,7 @@ const games = {
   "mode": 3
  },
  "d009507c-18d6-40b7-b688-ef3cb659254e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SAQR Hellon",
    "Falcon Phantom.",
@@ -9578,7 +9579,7 @@ const games = {
   "mode": 3
  },
  "5f10004d-b4c7-4523-a94e-a1b7a66bb7d6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -9589,7 +9590,7 @@ const games = {
   "mode": 3
  },
  "b4f7d19e-8ce0-4bcb-a228-d6a948d52922": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "YaLLa Ech0",
    "25 D7M",
@@ -9600,7 +9601,7 @@ const games = {
   "mode": 3
  },
  "d2fe301c-2e57-426d-b42c-40eb3add81e1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "Gemx Roadkiller",
    "TE Flаsh",
@@ -9611,7 +9612,7 @@ const games = {
   "mode": 3
  },
  "5ce5bf95-2d20-4b40-909f-1b65ca17aaa6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SAQR Hellon",
    "Falcon Phantom.",
@@ -9622,7 +9623,7 @@ const games = {
   "mode": 3
  },
  "d84870d6-fe0b-4376-ae70-392eb57a77d5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9633,7 +9634,7 @@ const games = {
   "mode": 3
  },
  "76588e00-545e-4597-bdfc-3c314f6260d3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SAQR QnDx",
    "SAQR Rapit",
@@ -9644,7 +9645,7 @@ const games = {
   "mode": 3
  },
  "16286fb8-0db2-475a-adc9-d8a1ec826a17": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
   "winners": [
    "SAQR Hellon",
    "Falcon Phantom.",
@@ -9655,7 +9656,7 @@ const games = {
   "mode": 3
  },
  "2aa6c0f3-1fd9-49a4-9f33-cfb232aaba1e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Dаrgon.",
    "Sudor Raed",
@@ -9666,7 +9667,7 @@ const games = {
   "mode": 3
  },
  "19f72abb-550f-4a4f-a1ac-d315d82ae890": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Falcon FHD",
    "Falcon Yonx",
@@ -9677,7 +9678,7 @@ const games = {
   "mode": 3
  },
  "4fed9276-5e12-474c-be56-8e51d544cffa": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -9688,7 +9689,7 @@ const games = {
   "mode": 3
  },
  "e480f3b8-2ea7-4568-872d-947d0ce16863": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Falcon Speedy.",
    "SCYTES Heif",
@@ -9699,7 +9700,7 @@ const games = {
   "mode": 3
  },
  "cf178053-f88e-4694-bfe1-0ab0a1765703": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Falcon Νm7",
    "Falcon Rv",
@@ -9710,7 +9711,7 @@ const games = {
   "mode": 3
  },
  "9ff26bea-56cf-4bfe-be97-a0a4ab3d526c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "KINGS Javi",
    "Nezirrrツ",
@@ -9721,7 +9722,7 @@ const games = {
   "mode": 3
  },
  "dc4eedd1-58b9-4117-bcf0-69a6af051005": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "TU Adapter7",
    "Sudor LeziX",
@@ -9732,7 +9733,7 @@ const games = {
   "mode": 3
  },
  "889a0dea-0718-48ee-924d-b5e038e440a6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "SAQR Hellon",
    "Falcon Phantom.",
@@ -9743,7 +9744,7 @@ const games = {
   "mode": 3
  },
  "10a67f40-3750-47b3-a82b-f78ef40e5262": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -9754,7 +9755,7 @@ const games = {
   "mode": 3
  },
  "8179319c-b19e-4c10-960d-aa55178c9d1d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Falcon Speedy.",
    "SCYTES Heif",
@@ -9765,7 +9766,7 @@ const games = {
   "mode": 3
  },
  "8a33cc8b-aac9-4f16-8728-63494d3d446d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Falcon Modisk.",
    "Falcon Kai",
@@ -9776,7 +9777,7 @@ const games = {
   "mode": 3
  },
  "6c46acfd-cd6d-412a-b64f-0699e6a540a9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
   "winners": [
    "Fаlcon Spy",
    "Nаsir",
@@ -9787,7 +9788,7 @@ const games = {
   "mode": 3
  },
  "26d3f6d5-3aeb-401b-b6da-2bc701fa616c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -9798,7 +9799,7 @@ const games = {
   "mode": 3
  },
  "461c2ba3-b098-4fb3-9781-078428b04d10": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -9809,7 +9810,7 @@ const games = {
   "mode": 3
  },
  "2f443b12-6fe5-4ea4-9409-5951b830626e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "winners": [
    "Bolаrr",
    "tp mechszn",
@@ -9820,7 +9821,7 @@ const games = {
   "mode": 3
  },
  "12f2c8c8-a739-472d-999c-c51fd20f26b5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -9831,7 +9832,7 @@ const games = {
   "mode": 3
  },
  "6e29584f-f141-4b88-8430-a22f59d9cca7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -9842,7 +9843,7 @@ const games = {
   "mode": 3
  },
  "db9ec9f2-7344-488d-80c1-853dd9083ab7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -9853,25 +9854,25 @@ const games = {
   "mode": 3
  },
  "13454b02-851a-4e9b-b9c2-890bfd054016": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "time": "2020-10-10T07:40:22.969",
   "duration": 1211,
   "mode": 3
  },
  "120236e0-75c7-4096-bb40-012b9683798c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "time": "2020-10-10T07:10:22.598",
   "duration": 729,
   "mode": 3
  },
  "538cfdaa-dc3e-42dc-8c71-d23a089242d7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
   "time": "2020-10-10T06:40:24.845",
   "duration": 399,
   "mode": 3
  },
  "341bee1c-1d32-4eae-8eb6-2aa7c3dd20de": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -9882,7 +9883,7 @@ const games = {
   "mode": 3
  },
  "6fd2e3cd-c63f-4217-89bc-bb6de53660b1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -9893,7 +9894,7 @@ const games = {
   "mode": 3
  },
  "5bc3b6ea-aec0-410d-847d-602b7bd3c203": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -9904,7 +9905,7 @@ const games = {
   "mode": 3
  },
  "628089ff-5063-43d4-8648-b7e71c11fd81": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "РWR Banana",
    "PWR radius",
@@ -9915,7 +9916,7 @@ const games = {
   "mode": 3
  },
  "9d337fda-26f8-46b4-a0c8-df2349a6c8f9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "agent sorif",
    "demon mode x",
@@ -9926,7 +9927,7 @@ const games = {
   "mode": 3
  },
  "6c35e9d8-1d94-493d-b593-e96a1115ffac": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "SPG repuk",
    "HVT Forbes",
@@ -9937,7 +9938,7 @@ const games = {
   "mode": 3
  },
  "12d57762-52e2-4faa-8111-db99fd983e6b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "2321451254213123",
    "ATL ronin",
@@ -9948,7 +9949,7 @@ const games = {
   "mode": 3
  },
  "3ad6b101-3607-45de-91c1-38df2847b1f6": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "Bolаrr",
    "tp mechszn",
@@ -9959,7 +9960,7 @@ const games = {
   "mode": 3
  },
  "5078bf59-5ae1-4c06-a130-7ff9255219e7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "wicked гг",
    "GLM x2Suns",
@@ -9970,7 +9971,7 @@ const games = {
   "mode": 3
  },
  "6ceb332d-e3bc-4b19-9e67-27758cd1ef5f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -9981,7 +9982,7 @@ const games = {
   "mode": 3
  },
  "2d3ab738-9e01-43c6-b276-7e04135556bf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -9992,7 +9993,7 @@ const games = {
   "mode": 3
  },
  "1dfc787c-0905-4eb0-b841-0dc3d00bc21c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
   "winners": [
    "newbatoon.",
    "CLR hardworker",
@@ -10003,7 +10004,7 @@ const games = {
   "mode": 3
  },
  "1248b1c7-31bc-413d-8b13-46e9df0767b8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -10014,7 +10015,7 @@ const games = {
   "mode": 3
  },
  "7547ec48-d59f-4bfc-a143-dee7b71cd20c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "zoreh 4pf",
    "jаhlyn",
@@ -10025,7 +10026,7 @@ const games = {
   "mode": 3
  },
  "64543231-8a2c-4d57-bb94-5e0a43aa29a2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "MG DISTRICT",
    "Bаntis",
@@ -10036,7 +10037,7 @@ const games = {
   "mode": 3
  },
  "121d118d-774f-4c5b-8e08-d3ad07ef71cb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -10047,7 +10048,7 @@ const games = {
   "mode": 3
  },
  "79e97837-789f-4959-8e72-0608d67e1e33": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -10058,7 +10059,7 @@ const games = {
   "mode": 3
  },
  "142ba076-893e-479f-ac89-07e441a2f96d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "SPG repuk",
    "HVT Forbes",
@@ -10069,7 +10070,7 @@ const games = {
   "mode": 3
  },
  "54cdf725-b1ce-45ae-b709-7efd32eafcd2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -10080,7 +10081,7 @@ const games = {
   "mode": 3
  },
  "3018eaae-696c-4d42-8ddf-8ac15e4d1c7f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -10091,7 +10092,7 @@ const games = {
   "mode": 3
  },
  "51312672-6f92-43c1-88ee-b1a257bd2dec": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -10102,7 +10103,7 @@ const games = {
   "mode": 3
  },
  "5ea097cf-db66-462b-8abe-831b03c50d64": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "2321451254213123",
    "ATL ronin",
@@ -10113,7 +10114,7 @@ const games = {
   "mode": 3
  },
  "366210a4-7a12-405d-9794-2a237be3d8e7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "2321451254213123",
    "ATL ronin",
@@ -10124,7 +10125,7 @@ const games = {
   "mode": 3
  },
  "63e27488-03be-42fd-bfdc-9f1fd81777e7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
   "winners": [
    "agent sorif",
    "demon mode x",
@@ -10135,7 +10136,7 @@ const games = {
   "mode": 3
  },
  "5593cb72-98cb-4e34-b78c-09aa6eb3fe22": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -10146,7 +10147,7 @@ const games = {
   "mode": 3
  },
  "679efbbc-8f7a-49d1-b22c-8d9b7dcf110a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "wicked гг",
    "GLM x2Suns",
@@ -10157,7 +10158,7 @@ const games = {
   "mode": 3
  },
  "55c6d8ab-5c76-4489-ad15-da68fb151358": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -10168,7 +10169,7 @@ const games = {
   "mode": 3
  },
  "6b3572c7-2689-43e2-b013-669e13fe303e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "wicked гг",
    "GLM x2Suns",
@@ -10179,7 +10180,7 @@ const games = {
   "mode": 3
  },
  "eed4ee85-2433-4059-bf40-dd5d81a42783": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "x2prhzy",
    "J. A Prufrock",
@@ -10190,7 +10191,7 @@ const games = {
   "mode": 3
  },
  "b28d66ca-5481-4a9b-b122-565e6c96fec5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "PRDX Oatley",
    "kоrq",
@@ -10201,7 +10202,7 @@ const games = {
   "mode": 3
  },
  "ddda59ba-ba9e-44a7-b30c-bcbfe7659ae9": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "rahcks FA",
    "skvtzz",
@@ -10212,7 +10213,7 @@ const games = {
   "mode": 3
  },
  "a1e6505a-d2b3-49d8-9adc-0623339b458a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -10223,7 +10224,7 @@ const games = {
   "mode": 3
  },
  "abb992f7-6aeb-47f5-8848-8903916812e1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "CRISER 父",
    "agent re11",
@@ -10234,7 +10235,7 @@ const games = {
   "mode": 3
  },
  "5e8d15a1-36c1-4f23-8737-264405339600": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "wicked гг",
    "GLM x2Suns",
@@ -10245,7 +10246,7 @@ const games = {
   "mode": 3
  },
  "23e747ee-54d1-4bf6-94a7-a4cfd442cb7a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "wicked гг",
    "GLM x2Suns",
@@ -10256,7 +10257,7 @@ const games = {
   "mode": 3
  },
  "f2d75cd0-45c9-4dc3-a3a1-a9a2abef6b94": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -10267,7 +10268,7 @@ const games = {
   "mode": 3
  },
  "3b5b334c-473d-4484-9229-4657f2d82f74": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "Mako Pumpkin",
    "SPG Trixy",
@@ -10278,7 +10279,7 @@ const games = {
   "mode": 3
  },
  "41d57046-d373-466d-bd98-a242dec967ba": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "РWR Banana",
    "PWR radius",
@@ -10289,7 +10290,7 @@ const games = {
   "mode": 3
  },
  "251318b0-8d2c-40b7-8d33-55b495066e3a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -10300,7 +10301,7 @@ const games = {
   "mode": 3
  },
  "2e1fdc4f-5b71-4267-a34a-e732bc507a26": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "РWR Banana",
    "PWR radius",
@@ -10311,7 +10312,7 @@ const games = {
   "mode": 3
  },
  "90d4e08c-beb4-4d58-b2d0-45e0b730ef71": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "zoreh 4pf",
    "jаhlyn",
@@ -10322,7 +10323,7 @@ const games = {
   "mode": 3
  },
  "12abc930-10af-44a6-a0e1-6d495747ab03": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "bigc0ckboz",
    "AGENT Tyraxe",
@@ -10333,7 +10334,7 @@ const games = {
   "mode": 3
  },
  "1e23f9af-d631-4899-934a-1a8cd592f935": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "РWR Banana",
    "PWR radius",
@@ -10344,7 +10345,7 @@ const games = {
   "mode": 3
  },
  "080f6d4d-662f-4dca-8b1a-4c04339db390": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "zoreh 4pf",
    "jаhlyn",
@@ -10355,7 +10356,7 @@ const games = {
   "mode": 3
  },
  "5d721bfa-f55d-4cac-9f76-67ae820b6c65": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "2321451254213123",
    "ATL ronin",
@@ -10366,7 +10367,7 @@ const games = {
   "mode": 3
  },
  "20c8a6ee-a847-44e1-b63c-9d9601002a0f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -10377,7 +10378,7 @@ const games = {
   "mode": 3
  },
  "bd78030d-3107-4a14-b271-425c0f4bf35d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "agent sorif",
    "demon mode x",
@@ -10388,7 +10389,7 @@ const games = {
   "mode": 3
  },
  "44a8254b-c239-4ab9-a57a-d53be8790f53": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
   "winners": [
    "2321451254213123",
    "ATL ronin",
@@ -10399,7 +10400,7 @@ const games = {
   "mode": 3
  },
  "2aa6c846-20ec-40c5-824f-3e38c9367c25": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "SPG repuk",
    "HVT Forbes",
@@ -10410,7 +10411,7 @@ const games = {
   "mode": 3
  },
  "340058d2-9f6f-473e-b040-e3f64aed84d1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "agent sorif",
    "demon mode x",
@@ -10421,7 +10422,7 @@ const games = {
   "mode": 3
  },
  "086b6abe-3832-4d2e-9536-ad944846ab5f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "SPG repuk",
    "HVT Forbes",
@@ -10432,7 +10433,7 @@ const games = {
   "mode": 3
  },
  "824d7ac0-d24b-401c-aa9c-8fd48b02304f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "SPG repuk",
    "HVT Forbes",
@@ -10443,7 +10444,7 @@ const games = {
   "mode": 3
  },
  "0bbeeeeb-a056-4e22-99a8-ca39347e6b9f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "SPG repuk",
    "HVT Forbes",
@@ -10454,7 +10455,7 @@ const games = {
   "mode": 3
  },
  "2a97de5f-f90b-4589-8828-643582e1d8d4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -10465,7 +10466,7 @@ const games = {
   "mode": 3
  },
  "0ad06341-c1b6-4594-bfd7-cab550ad380c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "rahcks FA",
    "skvtzz",
@@ -10476,7 +10477,7 @@ const games = {
   "mode": 3
  },
  "5821561d-e2fd-4cba-af7b-a5327eb558f4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "x2Сhubby",
    "Cоde x2Twins",
@@ -10487,7 +10488,7 @@ const games = {
   "mode": 3
  },
  "9039513a-eeb6-4463-933c-b6b090fb2e20": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "CRISER 父",
    "agent re11",
@@ -10498,7 +10499,7 @@ const games = {
   "mode": 3
  },
  "92a0b9fb-0668-48a5-a2fb-724c45a279b3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "РWR Banana",
    "PWR radius",
@@ -10509,7 +10510,7 @@ const games = {
   "mode": 3
  },
  "5cdef378-6683-4518-a78f-e913b029b919": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "MG DISTRICT",
    "Bаntis",
@@ -10520,7 +10521,7 @@ const games = {
   "mode": 3
  },
  "33338bc0-e0cc-4603-979c-cbb3cc00bdbc": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
   "winners": [
    "agent sorif",
    "demon mode x",
@@ -11133,7 +11134,7 @@ const games = {
   "mode": 3
  },
  "8a118f51-9d2f-4f8d-86fa-1a8edef7a10d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "BBG Bucke",
    "BBG PIECE POLICE",
@@ -11144,7 +11145,7 @@ const games = {
   "mode": 3
  },
  "f68bacc6-0cbc-4676-9163-6a33ed5e9628": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "XPRT Domski",
    "insight duŝky",
@@ -11155,7 +11156,7 @@ const games = {
   "mode": 3
  },
  "b21688c9-c579-4f0a-a3de-faafe198b0f7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "NRG СІіх",
    "SEN BUGHA 父",
@@ -11166,7 +11167,7 @@ const games = {
   "mode": 3
  },
  "e86cd793-ebe6-40c3-9b94-210a67527af7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "NRG СІіх",
    "SEN BUGHA 父",
@@ -11177,7 +11178,7 @@ const games = {
   "mode": 3
  },
  "c4b9326c-b79b-483c-8b0a-97d1e29642c1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "BBG Kreozard",
    "XTRA Illest",
@@ -11188,7 +11189,7 @@ const games = {
   "mode": 3
  },
  "70e4bdd0-8950-44d0-822d-0c2101e39a0f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "NRG ZAYT",
    "TrainH saffy",
@@ -11199,7 +11200,7 @@ const games = {
   "mode": 3
  },
  "0e6b8d63-e9c7-40a0-acf7-55c197ba5f18": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "FS SHERIFF DEG",
    "FS PIECE CHIEF",
@@ -11210,7 +11211,7 @@ const games = {
   "mode": 3
  },
  "520e1446-d459-4997-af69-149a1cf3a5ef": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "NRG СІіх",
    "SEN BUGHA 父",
@@ -11221,7 +11222,7 @@ const games = {
   "mode": 3
  },
  "3bc8753a-5549-4368-837e-e01f46c7830e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "Cоmmandment",
    "FaZe Cented",
@@ -11232,7 +11233,7 @@ const games = {
   "mode": 3
  },
  "0602e559-9d1c-454d-8a20-8d2c18feeade": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "LG Slackes",
    "1P Acornski",
@@ -11243,7 +11244,7 @@ const games = {
   "mode": 3
  },
  "ceaa30b9-8896-47b6-84aa-404398dc9e27": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "ENDL8SS DEYYRITO",
    "mero2k",
@@ -11254,7 +11255,7 @@ const games = {
   "mode": 3
  },
  "10323d0c-5623-48cc-ba93-e905a5603c31": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAE",
   "winners": [
    "gаbeski",
    "9LIVES Tahi",
@@ -11878,7 +11879,7 @@ const games = {
   "mode": 3
  },
  "0722de64-280c-43e3-b328-39ad72a9adbf": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "GUILD Hen ӝ",
    "GUILD JаnnisZ",
@@ -11889,7 +11890,7 @@ const games = {
   "mode": 3
  },
  "f170b7a0-208e-4560-8a21-e5dceb52c6f4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "GUILD Flikk",
    "GUILD Аnas",
@@ -11900,7 +11901,7 @@ const games = {
   "mode": 3
  },
  "a3043799-dd99-4ce1-8725-d9ea55c17055": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "MCES Andilex",
    "Grizi SnayzOnBTC",
@@ -11911,7 +11912,7 @@ const games = {
   "mode": 3
  },
  "85304357-c9e1-4860-bdda-aad670819480": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "RCY Paddy",
    "Knifer .",
@@ -11922,7 +11923,7 @@ const games = {
   "mode": 3
  },
  "9a95463c-45a1-463d-87fc-a3f2d1b85676": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "GUILD Hen ӝ",
    "GUILD JаnnisZ",
@@ -11933,7 +11934,7 @@ const games = {
   "mode": 3
  },
  "51a50f2c-9d7b-4642-af3d-00043aebcd39": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "Wave Vadeal",
    "BL Noahreyli ӝ",
@@ -11944,7 +11945,7 @@ const games = {
   "mode": 3
  },
  "30573356-b0ab-4468-889f-925cf3b88e29": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "BL Setty",
    "Gamma Kami",
@@ -11955,7 +11956,7 @@ const games = {
   "mode": 3
  },
  "a15fde49-f8ea-44ac-89f4-39f05b771011": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "GUILD Hen ӝ",
    "GUILD JаnnisZ",
@@ -11966,7 +11967,7 @@ const games = {
   "mode": 3
  },
  "0110fb9a-9bff-431b-a2ee-53ede998d4e7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "Wave Vadeal",
    "BL Noahreyli ӝ",
@@ -11977,7 +11978,7 @@ const games = {
   "mode": 3
  },
  "16aa2170-d86b-4f12-a89b-bea304ae9f4e": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "Wave Kikoo",
    "LootBoy Slender",
@@ -11988,7 +11989,7 @@ const games = {
   "mode": 3
  },
  "2ce1aa95-64ed-4283-8524-81071b9840e1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "TrainH Umplify",
    "TrainH Matsoe",
@@ -11999,7 +12000,7 @@ const games = {
   "mode": 3
  },
  "b3da443b-0f19-4857-85f1-7abf9c771515": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_EU",
   "winners": [
    "Lootboy Pinq 7",
    "Glоrious TruleX",
@@ -12198,7 +12199,7 @@ const games = {
   "winners": [
    "TSG SIDLAHψ",
    "Mateоψ",
-   "Munk AB"
+   "munkawesomer"
   ],
   "time": "2021-02-15T03:10:25.404",
   "duration": 1511,
@@ -12623,7 +12624,7 @@ const games = {
   "mode": 3
  },
  "ab0d91c1-842e-421c-a6b0-b1548f2f6a6a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "ZH22 Zehlo",
    "Balanced Decay",
@@ -12634,7 +12635,7 @@ const games = {
   "mode": 3
  },
  "55e9f4c3-e897-44fb-8e6a-e67d48ad70b4": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "pure spideyy",
    "NorCal Blizyzyzy",
@@ -12645,7 +12646,7 @@ const games = {
   "mode": 3
  },
  "2ac97491-6e8b-4140-b13d-5575743cfd10": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -12656,7 +12657,7 @@ const games = {
   "mode": 3
  },
  "3ab75cfe-c54b-48ad-a2cc-40b5d69ae1cb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "CLG symetrical",
    "TD Dog7",
@@ -12667,7 +12668,7 @@ const games = {
   "mode": 3
  },
  "6f51676c-40fa-4195-8865-de59a8d8318c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "tsg kenshi",
    "tsg snacky",
@@ -12678,7 +12679,7 @@ const games = {
   "mode": 3
  },
  "2433f2c8-4b67-432c-a4fd-ea48543cc1f3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "pure spideyy",
    "NorCal Blizyzyzy",
@@ -12689,7 +12690,7 @@ const games = {
   "mode": 3
  },
  "7b50cd49-a6ec-4466-b266-824ab609b1ee": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "XTRA Quinn",
    "Jucygoatified101",
@@ -12700,7 +12701,7 @@ const games = {
   "mode": 3
  },
  "4df8d053-f951-442f-9c93-6a1b67afeda1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "100T Arkhram.",
    "100T rehx",
@@ -12711,7 +12712,7 @@ const games = {
   "mode": 3
  },
  "4aa6b167-1dbd-4288-8b50-f9a203c2d529": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "TRNL Criizux.",
    "norcal alithy",
@@ -12722,7 +12723,7 @@ const games = {
   "mode": 3
  },
  "c61f8de2-6a66-4b6a-911b-c2af62a24023": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "tsg kenshi",
    "tsg snacky",
@@ -12733,7 +12734,7 @@ const games = {
   "mode": 3
  },
  "671328ec-7c11-48e7-8974-5e2e7a681f88": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "TSG DaChicken",
    "Skinnybluhh",
@@ -12744,7 +12745,7 @@ const games = {
   "mode": 3
  },
  "67a88aed-ab73-4c06-9bfb-63607f6076c2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_NAW",
   "winners": [
    "TSG DaChicken",
    "Skinnybluhh",
@@ -12867,7 +12868,7 @@ const games = {
  "040fb9bc-2acf-4947-bd7e-a429de2d7381": {
   "tournamentID": "epicgames_S15_FNCS_Qualifier2_ASIA",
   "winners": [
-   "Shinoar",
+   "ShinoaFN",
    "スイッチ勢かげとら",
    "xavid ."
   ],
@@ -12878,7 +12879,7 @@ const games = {
  "07633ac5-7af2-42b4-8e22-065904889d3e": {
   "tournamentID": "epicgames_S15_FNCS_Qualifier2_ASIA",
   "winners": [
-   "Shinoar",
+   "ShinoaFN",
    "スイッチ勢かげとら",
    "xavid ."
   ],
@@ -13142,7 +13143,7 @@ const games = {
  "27a737ee-1d8c-480a-a76c-cf5d0392d060": {
   "tournamentID": "epicgames_S15_FNCS_SemiFinals_ASIA",
   "winners": [
-   "Shinoar",
+   "ShinoaFN",
    "スイッチ勢かげとら",
    "xavid ."
   ],
@@ -13165,7 +13166,7 @@ const games = {
   "tournamentID": "epicgames_S15_FNCS_SemiFinals_ASIA",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "clitefishy"
   ],
   "time": "2021-03-07T10:40:57.218",
@@ -13187,7 +13188,7 @@ const games = {
   "tournamentID": "epicgames_S15_FNCS_SemiFinals_ASIA",
   "winners": [
    "ce seak.",
-   "Peterpan 76",
+   "peterpan ay лол",
    "clitefishy"
   ],
   "time": "2021-03-07T09:41:00.088",
@@ -13228,7 +13229,7 @@ const games = {
   "mode": 3
  },
  "51be836f-7bfc-4ee3-a59e-693e2d13e36b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "AQ demon x",
    "CE Moon",
@@ -13239,7 +13240,7 @@ const games = {
   "mode": 3
  },
  "8505b717-f953-4cb3-bf80-46f459e1ffe5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "ごっとらびっと",
    "alba L4ex",
@@ -13250,7 +13251,7 @@ const games = {
   "mode": 3
  },
  "0b327af0-1c29-4692-ae77-a87f4d6d8b99": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "FCS Fram ncr",
    "ALBA まるお",
@@ -13261,7 +13262,7 @@ const games = {
   "mode": 3
  },
  "6418df86-25dd-4b44-9a57-e4eea3543f1f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "マニマニRio",
    "Ruiサナ",
@@ -13272,7 +13273,7 @@ const games = {
   "mode": 3
  },
  "8970784e-46b6-42d7-9479-ec91e186209c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "GW_Lettuce",
    "CREssway",
@@ -13283,7 +13284,7 @@ const games = {
   "mode": 3
  },
  "8bfb8726-a3ad-4f3a-9700-e4987b84e884": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "GW_Kоgane",
    "GW_Nephrite",
@@ -13294,7 +13295,7 @@ const games = {
   "mode": 3
  },
  "2b752bc6-7744-48d3-9d1c-063f2a27a1b8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "しゅんしゃんだ",
    "LCF りる",
@@ -13305,7 +13306,7 @@ const games = {
   "mode": 3
  },
  "39fa65b2-7c12-40a5-85d6-0eae3226603a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "FCS Fram ncr",
    "ALBA まるお",
@@ -13316,7 +13317,7 @@ const games = {
   "mode": 3
  },
  "84d74e00-55fb-4957-92d6-967b468eb15f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "FCS Fram ncr",
    "ALBA まるお",
@@ -13327,7 +13328,7 @@ const games = {
   "mode": 3
  },
  "0776d7ca-cabb-40d4-868c-904849e322ad": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "ごっとらびっと",
    "alba L4ex",
@@ -13338,7 +13339,7 @@ const games = {
   "mode": 3
  },
  "17d27d4d-7152-4796-8fbe-31d90b6d4a60": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "CRノRiz",
    "Rid WildHawk ゆ機",
@@ -13349,7 +13350,7 @@ const games = {
   "mode": 3
  },
  "4ab12b83-421a-42ff-9564-501dce283508": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "winners": [
    "T1 SinOoh 666",
    "T1 EnvyWhale",
@@ -13844,7 +13845,7 @@ const games = {
   "mode": 3
  },
  "12deaedf-b238-4d9d-84f5-a2a7ce7f0684": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "eRa KBR -ɢ-",
    "9z Barella1x",
@@ -13855,7 +13856,7 @@ const games = {
   "mode": 3
  },
  "258bc97c-6e19-4ac5-a693-c863f906043b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "eRa cadu",
    "VКS 100UM",
@@ -13866,7 +13867,7 @@ const games = {
   "mode": 3
  },
  "0a5dfcb1-344d-45d7-92da-083d867f49f5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "eRa cadu",
    "VКS 100UM",
@@ -13877,7 +13878,7 @@ const games = {
   "mode": 3
  },
  "263694f0-961b-4fa0-9947-354655706b70": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "lil моjа",
    "FURY histtory",
@@ -13888,7 +13889,7 @@ const games = {
   "mode": 3
  },
  "d2d123d2-31ba-4347-bb4b-36bc0377a142": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "eRa cadu",
    "VКS 100UM",
@@ -13899,7 +13900,7 @@ const games = {
   "mode": 3
  },
  "dcc77d0a-4835-4273-b1fc-26fedb19dde5": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "9z FiѕhyL2R2",
    "9z Nahue507",
@@ -13910,7 +13911,7 @@ const games = {
   "mode": 3
  },
  "c3760d55-a398-44eb-a7b5-8a137c2fafb8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "9z H4wwk",
    "TRIBE Juanzin",
@@ -13921,7 +13922,7 @@ const games = {
   "mode": 3
  },
  "b7c0d2af-4569-42a2-a3cb-21d4a86a8dd3": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "persa smoke",
    "TRNL Ed",
@@ -13932,7 +13933,7 @@ const games = {
   "mode": 3
  },
  "2681a768-d964-4824-8993-babbd361b9b8": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "eRa cadu",
    "VКS 100UM",
@@ -13943,7 +13944,7 @@ const games = {
   "mode": 3
  },
  "6d6d0e3d-33eb-4f6f-8ac5-9dd1106fcb55": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "DETONA Kayky",
    "NEW Insano",
@@ -13954,7 +13955,7 @@ const games = {
   "mode": 3
  },
  "01a163f3-864c-4eb1-8583-1f2878beeb2a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "eRa cadu",
    "VКS 100UM",
@@ -13965,7 +13966,7 @@ const games = {
   "mode": 3
  },
  "ce035ef2-4baa-4564-a58d-ce5e183ad33a": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_BR",
   "winners": [
    "persa smoke",
    "TRNL Ed",
@@ -14449,7 +14450,7 @@ const games = {
   "mode": 3
  },
  "f0dc3628-2ba0-49a5-9b09-37e89772fd2d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "SAQR QnDx",
    "SAQR Njﱞby",
@@ -14460,7 +14461,7 @@ const games = {
   "mode": 3
  },
  "57bc5a19-1f18-41a0-8a0d-b64e87c1941f": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Falcon Modisk.",
    "SAQR Souriаnо",
@@ -14471,7 +14472,7 @@ const games = {
   "mode": 3
  },
  "2ddf49d0-d97b-4d19-8cb0-082e3de76e87": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Fаlcon Spy",
    "TU iExon",
@@ -14482,7 +14483,7 @@ const games = {
   "mode": 3
  },
  "271d6556-09cd-4a92-b948-8484328ec59b": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Sudor Balor",
    "DeattFan109",
@@ -14493,7 +14494,7 @@ const games = {
   "mode": 3
  },
  "667926bd-c785-44cd-a3dd-660b2060f87c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Eagle fahad",
    "Hawk Mansour",
@@ -14504,7 +14505,7 @@ const games = {
   "mode": 3
  },
  "48e0e000-133c-47b4-bdcc-ea61bd500747": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "reformed ali",
    "Arrow Faris",
@@ -14515,7 +14516,7 @@ const games = {
   "mode": 3
  },
  "6aac0e75-dd19-4b5f-a981-1556042e96e2": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Falcon Speedy.",
    "SCYTES Heif",
@@ -14526,7 +14527,7 @@ const games = {
   "mode": 3
  },
  "2dc719e6-d817-4b70-a1c5-b9ddfba9d905": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Falcon Modisk.",
    "SAQR Souriаnо",
@@ -14537,7 +14538,7 @@ const games = {
   "mode": 3
  },
  "ba876b91-61ae-4eb6-8d99-328f58297653": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "Eltrocity KuKi",
    "Falcon Phantom.",
@@ -14548,7 +14549,7 @@ const games = {
   "mode": 3
  },
  "459be51f-0669-4e31-8de1-0b9794d22ad1": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "SAQR QnDx",
    "SAQR Njﱞby",
@@ -14559,7 +14560,7 @@ const games = {
   "mode": 3
  },
  "ec50f56a-bbed-4794-a6e1-57b828898e14": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -14570,7 +14571,7 @@ const games = {
   "mode": 3
  },
  "1bc376a9-ffa0-4a32-8a92-cf180149ea08": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_ME",
   "winners": [
    "SCYTES vagnaR",
    "TU I4xPRO",
@@ -15054,7 +15055,7 @@ const games = {
   "mode": 3
  },
  "248dc80b-6597-4e63-b323-9e3327d5bf6c": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "GLM x2Suns",
    "tp mechszn",
@@ -15065,7 +15066,7 @@ const games = {
   "mode": 3
  },
  "c9b3b0d2-dbbc-4465-8f70-6d19ccc78bc7": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "РWR Banana",
    "PWR looter",
@@ -15076,7 +15077,7 @@ const games = {
   "mode": 3
  },
  "0d699726-e067-4f7c-a647-c43c7231b147": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -15087,7 +15088,7 @@ const games = {
   "mode": 3
  },
  "1a5a16a6-8ed4-4e92-a82c-ba9c93592a8d": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "FURY Remi",
    "pace〆",
@@ -15098,7 +15099,7 @@ const games = {
   "mode": 3
  },
  "dcb420e1-9fad-4665-8c92-e86eac2ff6bb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "agent sorif",
    "volx",
@@ -15109,7 +15110,7 @@ const games = {
   "mode": 3
  },
  "1f930436-7d21-4f4c-83e5-492105bb8096": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "basil 74",
    "Forbidden Vortex",
@@ -15120,7 +15121,7 @@ const games = {
   "mode": 3
  },
  "2fc0c877-9a39-4397-b36f-9cbcb2e785c0": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "noob jynx",
    "wavyalecc",
@@ -15131,7 +15132,7 @@ const games = {
   "mode": 3
  },
  "007be8c7-c87f-4cf1-b2d3-18262698bc91": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "agent sorif",
    "volx",
@@ -15142,7 +15143,7 @@ const games = {
   "mode": 3
  },
  "1c87abd0-a8c4-448c-b5a0-497286b967cb": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "GLM x2Suns",
    "tp mechszn",
@@ -15153,7 +15154,7 @@ const games = {
   "mode": 3
  },
  "bc976804-a101-49b4-947b-0859b222a892": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "agent sorif",
    "volx",
@@ -15164,7 +15165,7 @@ const games = {
   "mode": 3
  },
  "d7e4968b-5f18-4d07-b04d-774bc4a77f83": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "Agent Raptah",
    "x2prhzy",
@@ -15175,7 +15176,7 @@ const games = {
   "mode": 3
  },
  "e9a70e61-532e-40bc-a242-1c955883a786": {
-  "tournamentID": "floating",
+  "tournamentID": "epicgames_S15_FNCS_GrandFinals_OCE",
   "winners": [
    "Agent Raptah",
    "x2prhzy",
@@ -15197,3 +15198,22 @@ const games = {
   "mode": 3
  }
 }
+const modes = {1: 'solo', 2: 'duo', 3: 'trio', 4: 'squad'}
+Object.keys(games).map((game) => {
+  if (games[game].winners) {
+    axios.post('http://localhost:3000/api/games', {game: {
+      id: game,
+      tournament_id: games[game].tournamentID,
+      time: games[game].time,
+      duration: games[game].duration,
+      winners: games[game].winners.join(),
+      mode: modes[games[game].mode] 
+    }})
+    .then(function(response) {
+      console.log(response)
+    })
+    .catch((err) => {
+      console.log(err)
+    })
+  }
+})

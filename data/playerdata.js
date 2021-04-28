@@ -1,4 +1,5 @@
-let players = {
+const axios = require('axios')
+const players = {
  "755e79e9-3df4-4c7b-885f-008b2ad34d91": {
   "name": "twitter severe2c"
  },
@@ -906,19 +907,19 @@ let players = {
   "name": "DELTA.プロ狩りのおにぎり"
  },
  "1b57112f-8bea-4fe2-8de7-10fabfed01bf": {
-  "name": "alba L4ex, CE L4ex, CE L4ex, alba L4ex, ALBA L4ex, L4éx, alba L4ex, alba L4ex, alba L4ex, alba L4ex, ALBA L4ex, alba L4ex"
+  "name": "alba L4ex, CE L4ex, alba L4ex, alba L4ex, ALBA L4ex, L4éx, alba L4ex, alba L4ex, alba L4ex, alba L4ex, ALBA L4ex, alba L4ex"
  },
  "0461599e-5bc1-4ce3-a819-1219c2c196bd": {
   "name": "ごっとらびっと"
  },
  "7874eb51-4eb6-4224-8bbc-12576db975ce": {
-  "name": "GW_UnosukeZz, UnosukeZz, UnosukeZz, GW_UnosukeZz, GW_UnosukeZz, GW_UnosukeZz, GW_Unosuke α, GW_UnosukeZz, GW_UnosukeZz, GW UnosukeZz, GW_UnosukeZz"
+  "name": "GW_UnosukeZz, UnosukeZz, GW_Unosuke α, GW_UnosukeZz, GW_UnosukeZz, GW_UnosukeZz, GW_Unosuke α, GW_UnosukeZz, GW_UnosukeZz, GW UnosukeZz, GW_UnosukeZz"
  },
  "52e54bdb-08e7-41fa-a5d0-150ea64e9fbb": {
   "name": "新大久保のキンパ, АSF.眠れる森のななこかも"
  },
  "185e2699-a4c3-491a-b369-18670d09717b": {
-  "name": "私の彼女 まいぽり, まいぽり, まいぽり, 私の彼女 まいぽり, xMipoli, xMipoli, xMipoli, 私の彼女 まいぽり, 私の彼女 まいぽり, xMipoli, 私の彼女 まいぽり"
+  "name": "私の彼女 まいぽり, まいぽり, 私の彼女 まいぽり, 私の彼女 まいぽり, xMipoli, xMipoli, xMipoli, 私の彼女 まいぽり, 私の彼女 まいぽり, xMipoli, 私の彼女 まいぽり"
  },
  "e173a262-484d-4bd2-9b08-1c993c505785": {
   "name": "GW Fleder1st, GW_Fleder, GW_Fleder, GW Fleder1st, GW Fleder1st, GW_Fleder, GW Fleder1st, GW Fleder1st"
@@ -936,13 +937,13 @@ let players = {
   "name": "ジャイアントあしゆ"
  },
  "d9ec4878-30a9-42a6-bf32-2dbb066a7a74": {
-  "name": "CCC_ALBAだだんだんだんご, CCC REETψ, throne_hungry895, BOT_dango, BOT_dango, throne_hungry895, 安置外Wキーマジでやめて, 安置外Wキーマジでやめて, CCC_ALBAだだんだんだんご, throne_hungry895, CCC_ALBA_ぼっとだんご, throne_hungry895, CCCでALBAな_ぼっとだんご, throne_hungry895"
+  "name": "CCC_ALBAだだんだんだんご, CCC REETψ, throne_hungry895, BOT_dango, CCC_ALBAだだんだんだんご, throne_hungry895, 安置外Wキーマジでやめて, 安置外Wキーマジでやめて, CCC_ALBAだだんだんだんご, throne_hungry895, CCC_ALBA_ぼっとだんご, throne_hungry895, CCCでALBAな_ぼっとだんご, throne_hungry895"
  },
  "474e305d-75d3-4191-9bab-32fb5c4650d1": {
-  "name": "GW_Kоgane, Its Kogane, GW_Kоgane, GW_Kоgane, GW_Kоgane, GW_Kоgane, GW_Kоgane, GW_Kоgane"
+  "name": "GW_Kоgane"
  },
  "b0a7e840-560e-4b79-b448-3afd02c63237": {
-  "name": "LBR やま, yamathy., yamathy., LBR やま, YAMA_QQ, YAMA_QQ, YAMA_QQ, LBR やま, LBR やま, LBR やま, LBR やま"
+  "name": "LBR やま, yamathy., LBR やま, LBR やま, YAMA_QQ, YAMA_QQ, YAMA_QQ, LBR やま, LBR やま, LBR やま, LBR やま"
  },
  "939b46fd-8aaa-453b-bcae-3d1ab183e7a0": {
   "name": "A2 FNCS８位, Aisrr, A2.Aisrr, A2 Aisrr, A2 Ais, A2 Aisrr"
@@ -960,7 +961,7 @@ let players = {
   "name": "LUDY 9w9"
  },
  "5b9c44b8-c244-47c5-b531-4b2e4a6db887": {
-  "name": "Ruiサナ, るーさな.jp, DELTA Ruiサナ, DELTA Ruiサナ, マニマニRui, マニマニRui, マニマニRui, マニマニRui, るーさな.jp, マニマニRui, Ruiサナ, るーさな.jp, マニマニRui, るーさな.jp"
+  "name": "Ruiサナ, るーさな.jp, DELTA Ruiサナ, Ruiサナ, マニマニRui, マニマニRui, マニマニRui, マニマニRui, るーさな.jp, マニマニRui, Ruiサナ, るーさな.jp, マニマニRui, るーさな.jp"
  },
  "2280a17c-6cce-46e7-9100-4b545156c9d6": {
   "name": "CRノRuri, 1226.ruri cr, CRノRuri, CR Ruri 雪, CR Ruri 雪, 1226.ruri cr, 1226.ruri cr, 1226.ruri cr, 1226.ruri cr, 1226.ruri cr, CRノRuri, 1226.ruri cr, 1226.ruri cr, CRノRuri"
@@ -969,7 +970,7 @@ let players = {
   "name": "Secret xEllthuR, NSR 少年 L, Secret xEllthuR, Secret xEllthuR, Secret xEllthuR, 100T MrSavage 改, 100T MrSavage 改, 100T MrSavage 改, Secret xEllthuR"
  },
  "3fa7e73a-cccd-4190-9935-5b6b3d172d4f": {
-  "name": "Larkrr, wávy fanbòy, wávy fanbòy, Larkrr, Larkrr"
+  "name": "Larkrr, wávy fanbòy, Larkrr, Larkrr, Larkrr"
  },
  "0995a065-8061-4cad-997d-5ce3585fb219": {
   "name": "諦めない限り負けない"
@@ -987,7 +988,7 @@ let players = {
   "name": "GW_Kurara, アルティメットクララ, アルティメットクララ, GW_Kurara, GW_Kurara, GW_Kurara, GW_Kurara, GW_Kurara, GW_Kurara, GW_Kurara, GW_Kurara, GW_Kurara"
  },
  "21ed08e8-6528-45a7-89fa-672be388cfb2": {
-  "name": "The Kid MAESAR, Biggest fanboy, Maеsar, The Kid MAESAR, fishy on maesar, fishy on maesar, fishy on maesar, fishy on maesar, The Kid MAESAR, MAESAR ON TOP, マエサーです"
+  "name": "The Kid MAESAR, Biggest fanboy, The Kid MAESAR, The Kid MAESAR, fishy on maesar, fishy on maesar, fishy on maesar, fishy on maesar, The Kid MAESAR, MAESAR ON TOP, マエサーです"
  },
  "59fdfc41-4bde-4cbc-898e-67fd1fc5b7dc": {
   "name": "ALBAひろ.椿, ちーむ探してるhiroです, ちーむ探してるhiroです, ALBAひろ.椿, ALBAひろ.椿, ひろ of ALBA"
@@ -1008,7 +1009,7 @@ let players = {
   "name": "Rylе, Ryle WINS, Ryle WINS, Rylе, NRG MrSаvagе, Rylе, Rylе, Rylе, Rylе, Rylе"
  },
  "e6ead8c8-80d6-45a7-b21a-7787da048336": {
-  "name": "Rid Bob Knight, Riddle Bobrr, Rid Bob ゆ機, Rid Bob ゆ機, Rid Bob Knight, Riddle Bobrr, Riddle Bobrr, Riddle Bobrr, Riddle Bobrr, Rid Bob Knight, Riddle Bobrr, Riddle Bobrr, Rid Bob Knight"
+  "name": "Rid Bob Knight, Riddle Bobrr, Rid Bob ゆ機, Rid Bob Knight, Rid Bob Knight, Riddle Bobrr, Riddle Bobrr, Riddle Bobrr, Riddle Bobrr, Rid Bob Knight, Riddle Bobrr, Riddle Bobrr, Rid Bob Knight"
  },
  "8810f7b4-9b48-4bc3-992e-78e4cda05d76": {
   "name": "Rеriy, NSR らるJP, Rеriy, Rеriy, ncr rarutor, YouTubeらるJPで検索, Rеriy"
@@ -1017,7 +1018,7 @@ let players = {
   "name": "lgm-asahi"
  },
  "4b32c4b7-fb89-44d3-a452-7f48c2a2d62b": {
-  "name": "cr naetor様, CR Qjacduo, OJZ.最強のドラミちゃん, cr naetor様, cr naetor 火炎竜王, cr naetor 火炎竜王, cr naetor 火炎竜王, cr naetor 火炎竜王, cr naetor様, xnaetor.cr, CR NAETRETCH, cr naetor様"
+  "name": "cr naetor様, CR Qjacduo, cr naetor様, cr naetor様, cr naetor 火炎竜王, cr naetor 火炎竜王, cr naetor 火炎竜王, cr naetor 火炎竜王, cr naetor様, xnaetor.cr, CR NAETRETCH, cr naetor様"
  },
  "9d76faac-42d0-481c-aa23-8018f59153a8": {
   "name": "俺の彼女 みりむ"
@@ -1026,7 +1027,7 @@ let players = {
   "name": "Refret FN"
  },
  "d4e9094c-bad5-47e5-a349-8476dc62fd1b": {
-  "name": "xavid ., JUP Diva_α, JUPITER Diva ., life.will change, xavid ., icebreaker ., xavid ."
+  "name": "xavid ., JUP Diva_α, xavid ., life.will change, xavid ., icebreaker ., xavid ."
  },
  "7d81d175-b22d-4ac3-85bf-88fbb98b7257": {
   "name": "stork 笑, ΞSTÔRKΞ, ΞSTÔRKΞ, nsr stork, nsr stork, stork 笑, 私はすとーくあなたはだーれ, stork 笑, 私はすとーくあなたはだーれ, stork 笑"
@@ -1056,7 +1057,7 @@ let players = {
   "name": "やらかしんたま."
  },
  "f9674478-b4ef-45ec-b451-935be1bccbb0": {
-  "name": "TheArkhram., あくりーてーるǃ, Liberta aqxly, spt aqxly, ユ シジン"
+  "name": "TheArkhram., あくりーてーるǃ, TheArkhram., spt aqxly, ユ シジン"
  },
  "745587df-e0b9-4c51-8c2e-95ffcacf2db8": {
   "name": "SVN Chipson"
@@ -1068,19 +1069,19 @@ let players = {
   "name": "0399366093 O_O"
  },
  "c90e8c91-e7c2-40da-9b99-a10db204ae23": {
-  "name": "LCF 太ってるたく, Σ.Debs, Σ.Debs, Σ.Debs, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF Debs笑, LCF 太ってるたく1st, LCF 太ってるたく"
+  "name": "LCF 太ってるたく, Σ.Debs, Σ.Debs, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF 太ってるたく, LCF Debs笑, LCF 太ってるたく1st, LCF 太ってるたく"
  },
  "714363a2-e4d3-4260-90ac-a59f76489981": {
-  "name": "MaufinTT, Αpagando las luc, Rid Maufin 雪, Rid Maufin 雪, MaufinTT, Maufin., Maufin., Maufin., Maufin., MaufinTT, Maufin., MaufinTT, MaufinTT"
+  "name": "MaufinTT, Αpagando las luc, Rid Maufin 雪, MaufinTT, MaufinTT, Maufin., Maufin., Maufin., Maufin., MaufinTT, Maufin., MaufinTT, MaufinTT"
  },
  "6eeb88fe-f202-442c-9645-a9609e557e87": {
   "name": "ragisTT, NSR.TAX, 身勝手の極意 ragis, 身勝手の極意 ragis, 俺がかますぜハイグラragis, 身勝手の極意 ragis, ragisTT, 身勝手の極意 ragis, ragis 極, Nsr ragis, 身勝手の極意 ragis"
  },
  "341128be-5180-4cde-bde3-b18847d51939": {
-  "name": "しゅう of 仙道Fanboy, しゅう of そうねこガチ勢, しゅう of そうねこガチ勢, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy"
+  "name": "しゅう of 仙道Fanboy, しゅう of そうねこガチ勢, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy, しゅう of 仙道Fanboy"
  },
  "fd5a68f8-f02d-46ef-bd29-b2f8faabb501": {
-  "name": "ALBA いぐる, JOB igru-k, ALBA いぐる, ALBA igru-k, ALBA igru-k, ALBA いぐる, ALBA いぐる, ALBA いぐる"
+  "name": "ALBA いぐる, ALBA igru-k, ALBA igru-k, ALBA いぐる, ALBA いぐる, ALBA いぐる"
  },
  "941f52e5-d8fe-425e-a876-b547b6a177ce": {
   "name": "KUREN 覇, 覇王色の覇気 kuren, KUREN 覇, JUPITER KUREN ୨୧, KUREN 覇, KUREN 覇, ΞKURENΞ, シカマルϟ, KUREN 覇, KUREN 覇, 私はくれんあなたはだーれ, KUREN 覇, 私はくれんあなたはだーれ, KUREN 覇"
@@ -1089,7 +1090,7 @@ let players = {
   "name": "svl nend, Maximum NeNd ., svl nend, NeNdxr, NeNdxr"
  },
  "57eed6e8-cc2f-42f8-b26b-b8b0229e50ed": {
-  "name": "CH.ほとけいずぶっだ 姫, HYG Chocoluv -ω-, HYG Chocoluv -ω-, HYG Chocoluv -ω-, HYG Chocoluv -ω-, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶった 姫, CH.ほとけいずぶった 姫, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶった 姫, HYG Chocoluv1st, CH.ほとけいずぶっだ 姫"
+  "name": "CH.ほとけいずぶっだ 姫, HYG Chocoluv -ω-, HYG Chocoluv -ω-, HYG Chocoluv -ω-, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶった 姫, CH.ほとけいずぶった 姫, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶっだ 姫, CH.ほとけいずぶった 姫, HYG Chocoluv1st, CH.ほとけいずぶっだ 姫"
  },
  "7c0e7c43-8f1d-4bb7-bf6a-ba65426eb220": {
   "name": "Swillium, DWG Swillium, Swillium, DWG Swillium, Swillium, DWG Swillium, DWG Swillium, Swillium, Swillium, Swillium, Swillium, Swillium, Swillium"
@@ -1137,7 +1138,7 @@ let players = {
   "name": "pんかす, ぱんかs, pんかす, pんかす"
  },
  "2919796b-91aa-41a7-bed9-da84d5e12919": {
-  "name": "ÆALBAÆRyuChanÆÆÆ, Rqu1an0.0, Rqu1an0.0, ÆALBAÆRyuChanÆÆÆ"
+  "name": "ÆALBAÆRyuChanÆÆÆ, Rqu1an0.0, ÆALBAÆRyuChanÆÆÆ, ÆALBAÆRyuChanÆÆÆ"
  },
  "61d258e3-8fc2-4979-b8db-daf22356ed2e": {
   "name": "Learn To FIy"
@@ -1155,7 +1156,7 @@ let players = {
   "name": "GW_Hamuppi"
  },
  "88d7c859-cf4c-4371-af3e-e047539bcefb": {
-  "name": "我是北极最强的战士, JUP Peta, JUP Peta, 我是北极最强的战士"
+  "name": "我是北极最强的战士, JUP Peta, 我是北极最强的战士, 我是北极最强的战士"
  },
  "0013311b-517c-474c-b79f-e15790610ff3": {
   "name": "Shinoar, LBR Shinokiyo 88, Shinoar, 最強の男 しのあ, Shinoar"
@@ -1164,13 +1165,13 @@ let players = {
   "name": "Kelix of FCS, KENTAch 豚, wavykenkob"
  },
  "22b05da1-7e9b-460d-9874-e6426f271e45": {
-  "name": "CR QJАC, CR Qjаc, CR QJАC, CR Qjache32, CR Qjache32, CR Qjache32, CR QJАC, CR Qjаc, CR Qjаc, CR Qjаc, CR Qjаc, CR QJАC, CR Qjаc, CR Qjac7, CR QJАC"
+  "name": "CR QJАC, CR Qjаc, CR QJАC, CR Qjache32, CR Qjache32, CR QJАC, CR QJАC, CR Qjаc, CR Qjаc, CR Qjаc, CR Qjаc, CR QJАC, CR Qjаc, CR Qjac7, CR QJАC"
  },
  "939ac158-6e38-4d1c-8363-e6ee49124e52": {
   "name": "pinaxsweeze., kejseR dA Pina, kejseR dA Pina, pinaxsweeze., pinaxsweeze., Physical gifted"
  },
  "b5126124-813b-4a16-8347-e9119236840d": {
-  "name": "princeyuraxx, shamokiy, monkey in box, SVN shamokiy, shamokiy, svn shamokiye, svn shamokiye, svn shamokiye, shamokiy, svn shamokiyy, princeyuraxx, shamokiy, Ronald Latimer, shamokiy"
+  "name": "princeyuraxx, shamokiy, monkey in box, princeyuraxx, shamokiy, svn shamokiye, svn shamokiye, svn shamokiye, shamokiy, svn shamokiyy, princeyuraxx, shamokiy, Ronald Latimer, shamokiy"
  },
  "6552f350-11b3-4bfa-92f1-eeb4bb76fd05": {
   "name": "GOL.D.RОGER, CR аlice, GOL.D.RОGER, CR.最強のジャイアン, CR.最強のジャイアン, GOL.D.RОGER, GOL.D.RОGER, aqua cr, aqua cr, GOL.D.RОGER, GOL.D.RОGER, LOWGROUND КING, cr аlice, GOL.D.RОGER"
@@ -1182,7 +1183,7 @@ let players = {
   "name": "ce zobib, помощник zotax, помощник zotax, помощник zotax, ce zobib, CE zotaxçəkmək, ce zobib, ce zobib, CE Jason Statham, ce zobib"
  },
  "679f00c2-4334-47e6-9fe0-f9a1baab23a9": {
-  "name": "Peterpan 76, Peterpаn., Peterpаn., Peterpan 76, Peterpan ӝ, Peterpan ӝ, Peterpan ӝ, Peterpan 76, Peterpan ӝ, Peterpan 76, Peterpan 76"
+  "name": "Peterpan 76, Peterpаn., peterpan ay лол, Peterpan 76, Peterpan ӝ, Peterpan ӝ, Peterpan ӝ, Peterpan 76, Peterpan ӝ, Peterpan 76, Peterpan 76"
  },
  "4ff01449-2756-492e-8cd0-fce71c030a79": {
   "name": "FFFFIIIIZZZZ, scytes harshul, scytes harshul, FFFFIIIIZZZZ, pdg fiz, FFFFIIIIZZZZ, FFFFIIIIZZZZ, FFFFIIIIZZZZ, Fiz the 4325th, FFFFIIIIZZZZ"
@@ -1518,7 +1519,7 @@ let players = {
   "name": "POWER 7MOOD"
  },
  "22e8a84b-8c24-463f-9c82-0f7a0f2aa031": {
-  "name": "TE BIG ADY, Exploit Ady, MES BIG ADY, Exploit Ady"
+  "name": "Exploit Ady, MES BIG ADY, Exploit Ady"
  },
  "d825a5fc-fcfa-4f3c-9e3a-11555c8a1fb0": {
   "name": "SCYTES roushdi10"
@@ -1548,19 +1549,19 @@ let players = {
   "name": "POWER Zeeyadx"
  },
  "28d7f88e-b0f8-4fbd-8d8f-2d2a5a141a48": {
-  "name": "Асмр 7мед, Bолк 7меd メ, Bолк 7меd メ, ASMR Xx731., ASMR 7med, Bолк 7меd メ, ASMR 7med, Bолк 7меd メ, Асмр 7мед"
+  "name": "Bолк 7меd メ, ASMR Xx731., ASMR 7med, Bолк 7меd メ, ASMR 7med, Bолк 7меd メ, Асмр 7мед"
  },
  "50273664-96ce-4254-931a-2e2f02b1af32": {
-  "name": "SAQR Hellonsteam, SAQR Hellon, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellon, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellon, SAQR Hellon, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellon"
+  "name": "SAQR Hellon, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellon, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellon, SAQR Hellon, SAQR Hellonsteam, SAQR Hellonsteam, SAQR Hellon"
  },
  "4e7f5242-382c-4429-8b4d-2ee53f3a4214": {
-  "name": "Rampdigg, Rаmpаge."
+  "name": "PDG Rampage, Rаmpаge."
  },
  "f8d85555-af4d-463f-9e63-3107d56468af": {
   "name": "Сrіminal"
  },
  "f1966fc9-84e0-4eef-9b6f-325b98f12f2c": {
-  "name": "flyingairplane21"
+  "name": "India On Top, flyingairplane21"
  },
  "14496f8a-53d5-490b-82a2-356e03fcd8ba": {
   "name": "Fаlcon Spy, cαsh cup warrior, cαsh cup warrior, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy, Fаlcon Spy"
@@ -1569,10 +1570,10 @@ let players = {
   "name": "POWER GntL"
  },
  "1978d7c8-7c47-4370-9f0a-391371e7b075": {
-  "name": "kοvaak kid, DNA Mage, cаsh cup warrior, kοvaak kid, cаsh cup warrior"
+  "name": "cаsh cup warrior, DNA Mage, cаsh cup warrior, kοvaak kid, cаsh cup warrior"
  },
  "f3ff66a0-c2d9-46bb-84ae-3b0b6a185c9e": {
-  "name": "〆OUTLAW〆, SAQR ОUTLAW, 50 50 SAQR OUT, SAQR ОUTLAW, 〆OUTLAW〆, 〆OUTLAW〆, 〆OUTLAW〆, SAQR ОUTLAW, 〆OUTLAW〆, 〆OUTLAW〆, SAQR ОUTLAW"
+  "name": "SAQR ОUTLAW, 50 50 SAQR OUT, SAQR ОUTLAW, 〆OUTLAW〆, 〆OUTLAW〆, 〆OUTLAW〆, SAQR ОUTLAW, 〆OUTLAW〆, 〆OUTLAW〆, SAQR ОUTLAW"
  },
  "82914fc6-1c3a-4a21-88ad-43ef128ec8da": {
   "name": "SCYTES Br1ckzl."
@@ -1581,7 +1582,7 @@ let players = {
   "name": "Falcon Νm7, TU Νm7, TU Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7, Falcon Νm7"
  },
  "f2d58225-1fed-4874-bf4c-4a4ecb9a0f75": {
-  "name": "STAR 么"
+  "name": "Arrow STAR., STAR 么, STAR 么, STAR 么"
  },
  "fba543dd-cd56-47a8-ad54-4c46fa534694": {
   "name": "Alpha Faisal"
@@ -1590,19 +1591,19 @@ let players = {
   "name": "TU Adapter7, TU Adapter, TU Adapter, TU Adapter7, TU Adapter, TU Adapter, TU Adapter, TU Adapter7, TU Adapter7, TU Adapter7, TU Adapter7, TU Adapter7"
  },
  "613c6bb9-2609-4bf7-9fac-51db7d06da3e": {
-  "name": "bvd neymаr, Bravado Ney, bvd neymаr"
+  "name": "nеуmаr, Bravado Ney, bvd neymаr"
  },
  "8a6fee92-4d4e-44f0-8308-5289237d8b61": {
   "name": "N1 D7om"
  },
  "2fe98e6b-52f1-4e7e-9044-56092af67627": {
-  "name": "SAQR Modisk, Falcon Modisk., SAQR Modisk, SAQR Modisk, Falcon Modisk., SAQR Modisk, SAQR Modisk, SAQR Modisk, SAQR Modisk, Falcon Modisk., SAQR Modisk, SAQR Modisk, Falcon Modisk."
+  "name": "Falcon Modisk., SAQR Modisk, SAQR Modisk, Falcon Modisk., SAQR Modisk, SAQR Modisk, SAQR Modisk, SAQR Modisk, Falcon Modisk., SAQR Modisk, SAQR Modisk, Falcon Modisk."
  },
  "a5d24766-bf78-4ed6-b874-5ad195881284": {
-  "name": "lllIlllllIllllI, TU Herо, TU Herо, the kid hero., TU Herо, C9 Hero, C9 Hero, C9 Hero, TU Herо, TU Herо, lllIlllllIllllI"
+  "name": "TU Herо, the kid hero., TU Herо, C9 Hero, C9 Hero, C9 Hero, TU Herо, TU Herо, lllIlllllIllllI"
  },
  "e6d28f41-0cae-4938-b483-614c50e47826": {
-  "name": "Arrow Sfa7, Scytes Sfa7, Scytes Sfa7, RULS outdropped, Arrow SFA7Wood, sfa7rr, sfa7rr, SFA7777777777777, Arrow Sfa7, Arrow SFA7Wood"
+  "name": "Arrow SFA7Wood, Scytes Sfa7, Scytes Sfa7, RULS outdropped, Arrow SFA7Wood, sfa7rr, sfa7rr, SFA7777777777777, Arrow Sfa7, Arrow SFA7Wood"
  },
  "9bfff282-7d02-4147-b93c-655a204981d1": {
   "name": "TU Dexefite"
@@ -1614,7 +1615,7 @@ let players = {
   "name": "SAQR Sulilex, SAQR Sul., SAQR Sul., SAQR Sul., SAQR Sulilex, SAQR Sulilex, SAQR Sulilex, SAQR Sulilex"
  },
  "b5f3a8fe-af88-4b12-9116-69ecd126bfe8": {
-  "name": "NMR Tooke, NMR 2oke, NMR 2oke, NMR 2oke, NMR Tooke, NMR Tooke, NMR Tooke ӝ"
+  "name": "NMR Tooke ӝ, NMR 2oke, NMR 2oke, NMR 2oke, NMR Tooke, NMR Tooke, NMR Tooke ӝ"
  },
  "b9783bde-2135-4df2-815a-6a00cbea4ffa": {
   "name": "Falcon Kai, Phoenix Kai., Falcon Kai, Phoenix Kai., Phoenix Kai., Phoenix Kai., Falcon Kai, Falcon Kai, Falcon Kai, Falcon Kai, Falcon Kai"
@@ -1623,10 +1624,10 @@ let players = {
   "name": "POWER Abdulelah, Abdulеlah, Abdulеlah, Abdulеlah, POWER Abdulelah"
  },
  "eb224e02-54af-437b-b0c9-6ecca313d684": {
-  "name": "HwR Dear"
+  "name": "ixDear 98, HwR Dear"
  },
  "d8651318-55c7-4169-9ca1-6f4664327507": {
-  "name": "Msgasty, Hawk Msgowski, Hawk Msgowski, SAQR Msg, SAQR Msg, Hawk Msgowski, SAQR Msg ӝ, SAQR Msg ӝ, SAQR Msg ӝ, Hawk Msgowski, SAQR Demonsg, Hawk Msgowski"
+  "name": "Hawk Msgowski, SAQR Msg, SAQR Msg, Hawk Msgowski, SAQR Msg ӝ, SAQR Msg ӝ, SAQR Msg ӝ, Hawk Msgowski, SAQR Demonsg, Hawk Msgowski"
  },
  "3c36e0f6-99a9-45eb-ba6b-72e9e99bf5df": {
   "name": "SAQR QnDx"
@@ -1635,7 +1636,7 @@ let players = {
   "name": "LND Kubars, BarQ Kubars, lKubars, lKubars, LND Kubars, LND Kubars, LND Kubars, LND Kubars, LND Kubars"
  },
  "b952068b-c7b4-47e9-a979-80395208739d": {
-  "name": "AhmarTheGreat"
+  "name": "Cancel CIEs 2021, AhmarTheGreat, AhmarTheGreat"
  },
  "8cc7e667-fd0a-40bf-86eb-84d9b45bc23a": {
   "name": "FLUID.Sickerz"
@@ -1647,7 +1648,7 @@ let players = {
   "name": "LND M7MD, LND Meliodas, LND Meliodas, LND M7MD, LND M7MD, LND M7MD"
  },
  "f8fecd83-5210-4527-b197-8d32390633e2": {
-  "name": "Brоok, Brookitr0, Brookitr0, Wiz BrooK, Wiz BrooK, Wiz Brook ELMJND, Brookitr0, Brook87192618736"
+  "name": "Brookitr0, Wiz BrooK, Wiz BrooK, Wiz Brook ELMJND, Brookitr0, Brook87192618736"
  },
  "d3e44df2-bd69-4297-8df6-8fbeb0e6a65e": {
   "name": "25 ixDire"
@@ -1656,13 +1657,13 @@ let players = {
   "name": "KINGS Metab, Me0tabHD, ASMR Metab ツ, KINGS Metab, ASMR Metab, ASMR Metab, ASMR Metab, KINGS Metab, KINGS Metab, KINGS Metab, KINGS Metab, KINGS Metab"
  },
  "d7947383-d34b-4a1c-8dab-936994c1865a": {
-  "name": "demonsоn, saqr stilson ッ, saqr stilson ッ, saqr stilson ッ, saqr stilson ッ, monkey stilson, demonsоn, monkey stilson"
+  "name": "monkey stilson, saqr stilson ッ, saqr stilson ッ, saqr stilson ッ, saqr stilson ッ, monkey stilson, demonsоn, monkey stilson"
  },
  "4b2c69a6-9d06-4a03-85be-93b17765dd41": {
   "name": "SCYTES vagnaR, ASMR vagnaR, ASMR vagnaR, SCYTES vagnaR, SCYTES vagnaR, SCYTES vagnaR, SCYTES vagnaR, SCYTES vagnaR, 63896732104, SCYTES vagnaR, 63896732104, 63896732104, SCYTES vagnaR, SCYTES vagnaR"
  },
  "28afbc31-390f-458e-baa0-94a774e5e5d7": {
-  "name": "DSP FARIS28"
+  "name": "VF Faris"
  },
  "ec18095b-e9b1-40cf-86cc-94dce830eeb0": {
   "name": "TE DeattWood, Vitality Deatt77, Hawk Deatt, TE DeattWood, Deattr0, TE DeattWood"
@@ -1671,10 +1672,10 @@ let players = {
   "name": "WASP 3DWANI"
  },
  "d68c85aa-4d47-44a2-a4ba-955355123b36": {
-  "name": "cigol the 7792th, Medal Cigol, Cigol Ɉ, cigol the 7792th, Medal Cigol, cigol the 7792th, cigol the 7792th, cigol the 7792th, cigol the 7792th, cigol the 7792th"
+  "name": "Medal Cigol, Cigol Ɉ, cigol the 7792th, Medal Cigol, cigol the 7792th, cigol the 7792th, cigol the 7792th, cigol the 7792th, cigol the 7792th"
  },
  "15f4b6e1-fddb-4f28-b496-979d711b8832": {
-  "name": "Scytes Killerboy, killerbxy, Scytes Killerboy, Scytes Killerboy, Scytes Killerboy, killerbxy"
+  "name": "killerbxy, Scytes Killerboy, Scytes Killerboy, Scytes Killerboy, killerbxy"
  },
  "ddf2ecd4-c2d6-47e6-a018-9afe6d6131bb": {
   "name": "Hawk Mansour, TWQ Mansour, KO Mansour, xMаnsour, xMаnsour, Hawk Mansour, xMаnsour, Hawk Mansour, Hawk Mansour"
@@ -1683,7 +1684,7 @@ let players = {
   "name": "Nezirrrツ, rizen水, WASP Pab Escobar, HWR Rizen ツ, HWR Rizen ツ, HWR Rizen ツ, HWR Rizen ツ, Nezirrrツ"
  },
  "7845af4f-0477-47cf-820d-9df436382237": {
-  "name": "TE kovolski 1337, Exploit Kovolski, Exploit Kovolski, TE kovolski, Exploit Kovolski, TE kovolski, TE kovolski 1337, Exploit Kovolski"
+  "name": "Exploit Kovolski, TE kovolski, Exploit Kovolski, TE kovolski, TE kovolski 1337, Exploit Kovolski"
  },
  "38e3ef2e-33e3-4432-a461-9ec35500199f": {
   "name": "Viiroos, Dna Viiroos, Dna Viiroos, Dna Viiroos, Viiroos"
@@ -1692,7 +1693,7 @@ let players = {
   "name": "SAQR Njﱞby, SAQR Njby, SAQR Njby, SAQR Njby ャ, SAQR Njﱞby, SAQR DEMONJBY, SAQR DEMONJBY, SAQR DEMONJBY, SAQR DEMONJBY, SAQR Njﱞby, SAQR DEMONJBY, SAQR Njﱞby, SAQR Njﱞby, SAQR Njﱞby"
  },
  "816a8580-3658-49f1-84f3-a23392d763c9": {
-  "name": "YALLA D7M, yalla d7m ツ, yalla d7m ツ, 25 D7M, 25 D7M, YALLA D7M"
+  "name": "25 D7M, yalla d7m ツ, yalla d7m ツ, 25 D7M, 25 D7M, YALLA D7M"
  },
  "4b06f770-4758-4289-9a84-a33b6189dd11": {
   "name": "SAQR Souriаnо, SAQR Souriаno, SAQR Souriаno, SAQR Souriаnо, SAQR Souriаnо, SAQR Souriаnо, SAQR Souriаnо, SAQR Souriаnо, SAQR Souriаnо, SAQR Souriаnо"
@@ -1701,13 +1702,13 @@ let players = {
   "name": "Arrow Faris, Faris FN, Velka Faris, Faris.FN, Arrow Faris, Arrow Faris, Faris.FN, Arrow Faris, Arrow Faris"
  },
  "111e535f-59cf-453b-9bc3-aa47ef00f20b": {
-  "name": "Sonic Obito lol, MES Obito, Sonic Obito lol, MES Obito., Sonic Obito lol, Sonic Obito lol, MES Obito., Sonic Obito lol"
+  "name": "MES Obito., MES Obito, Sonic Obito lol, MES Obito., Sonic Obito lol, Sonic Obito lol, MES Obito., Sonic Obito lol"
  },
  "30514916-4007-4e52-9154-af24251526fb": {
-  "name": "TE Meza, STORM Meza, STORM Meza, meza 74, Exploit Meza, meza 父, Exploit Meza"
+  "name": "Exploit Meza, STORM Meza, STORM Meza, meza 74, Exploit Meza, meza 父, Exploit Meza"
  },
  "37d1068f-d913-4f8c-a161-b027a6b021d6": {
-  "name": "Exploit Saturday, Saturday zZz, PDG Saturdache32, TE Saturday"
+  "name": "SaturdayXD, Saturday zZz, PDG Saturdache32, TE Saturday"
  },
  "7731bc6b-1347-45c5-8efe-b10e37f81ef0": {
   "name": "SAQR Rapit"
@@ -1734,28 +1735,28 @@ let players = {
   "name": "ASMR Tobi"
  },
  "85692ee9-6a42-49a3-a516-cc044111d00a": {
-  "name": "lоzer, Lоzer, Lоzer, 2912 Lozer, 2912 Lozer, Lоzer, kingslozerggg595, kingslozerggg595, kingslozerggg595, Lоzer, Lоzer, lоzer, Lоzer"
+  "name": "Lоzer, 2912 Lozer, 2912 Lozer, Lоzer, kingslozerggg595, kingslozerggg595, kingslozerggg595, Lоzer, Lоzer, lоzer, Lоzer"
  },
  "bb425d81-5820-4c68-a0d5-ced50b1da0b2": {
   "name": "Mevǃ"
  },
  "2e6c9264-32fa-4b5f-9ed0-d0523afee6d0": {
-  "name": "WITD TaySon"
+  "name": "WITD GOKU"
  },
  "1cdab0fa-2d47-420a-9ec4-d4772a35798a": {
-  "name": "Mess1 ψ, Messipro Ψ, Gemx Messi, cLaw Messi, Mess1 ψ, Gemx Messi"
+  "name": "Gemx Messi, Messipro Ψ, Gemx Messi, cLaw Messi, Mess1 ψ, Gemx Messi"
  },
  "48e06096-147e-4919-b679-dad024a02406": {
-  "name": "SCYTES Bomba"
+  "name": "скиты бомба, SCYTES Bomba, SCYTES Bomba, SCYTES Bomba"
  },
  "e3771c7e-ae3a-423a-a66e-daeff888de76": {
   "name": "Hasooxn."
  },
  "dd1f2310-a93b-4b36-93ac-db437f60b289": {
-  "name": "Mjeedilex, DNA Mjeedeyy, DNA Mjeedeyy, ASMR Mjeed, ASMR Mjeed, Monkey Mjeed, Monkey Mjeed, DNA Mjeedeyy, Monkey Mjeed, Mjeedilex, DNA Mjeedeyy"
+  "name": "DNA Mjeedeyy, ASMR Mjeed, ASMR Mjeed, Monkey Mjeed, Monkey Mjeed, DNA Mjeedeyy, Monkey Mjeed, Mjeedilex, DNA Mjeedeyy"
  },
  "8ce1ac8f-e730-4a67-922d-db71143c7a1d": {
-  "name": "yoitsmee."
+  "name": "GE yoitsmee"
  },
  "2710f646-cfbf-4104-8672-df6131ad7662": {
   "name": "Falcon Snowitr0, SAQR SNOWVAKS, Falcon Snowy, Falcon Snowitr0, Falcon Snowaldo, Falcon Snowaldo, Falcon Snowaldo, Falcon Snowaldo, Falcon Snowitr0, Falcon Snowitr0"
@@ -1764,22 +1765,22 @@ let players = {
   "name": "Sonic Dream77, Phoenix Dream., Phoenix Dream., Sonic Dream77, Phoenix Dream., Phoenix Dream., Sonic Dream77, Sonic Dream77"
  },
  "82203a3d-8040-4622-97a8-e282a100d2d2": {
-  "name": "Arrow Ricooo, Ric0HD, HwR Ric0HD, HwR Ric0HD"
+  "name": "Arrow Rico76, Ric0HD, HwR Ric0HD, HwR Ric0HD"
  },
  "48159c43-fd57-4597-9719-ede26f05e3a9": {
-  "name": "Phoenix Fw."
+  "name": "Arrow Sfa7"
  },
  "8f008e74-e862-4a18-ab99-ef9757866d56": {
   "name": "KINGS Azizilex, Aziz え, Aziz え, KINGS Azizilex, KINGS Aziz, KINGS Aziz, KINGS Aziz, KINGS Azizilex, KINGS Aziz, KINGS Azizilex, KINGS Azizilex, KINGS Azizilex"
  },
  "e7eed927-860f-4fbb-874c-efd09eabeb97": {
-  "name": "GXR Nylereyli, GXR Nylereyli ӝ, GXR Nylereyli ӝ, Nyle Δ, EpikNylelol, GXR Nylereyli ӝ, EpikNylе, EpikNylе, EpikNylе, EpikNylе, GXR Nylereyli ӝ, GXR Nyle77, GXR Nylereyli ӝ, GXR Nylereyli, GXR Nylereyli ӝ"
+  "name": "GXR Nylereyli ӝ, Nyle Δ, EpikNylelol, GXR Nylereyli ӝ, EpikNylе, EpikNylе, EpikNylе, EpikNylе, GXR Nylereyli ӝ, GXR Nyle77, GXR Nylereyli ӝ, GXR Nylereyli, GXR Nylereyli ӝ"
  },
  "37501389-19cb-423d-b8de-effebe52c4ed": {
   "name": "TU iExon"
  },
  "c63c5a30-3c7b-40e8-9a1e-f24b9d24ef9b": {
-  "name": "simp frenzy, Muse Frenzy, Muse Frenzy"
+  "name": "simp frenzy, Muse Frenzy, simp frenzy"
  },
  "1bf60fbc-1af9-43bf-8d53-f5826557062a": {
   "name": "SCYTES Flamors., Scytes Flamorsア, Scytes Flamorsア, SCYTES Flamors., scytes flamorsツ, scytes flamorsツ, SCYTES Flamors."
@@ -1803,40 +1804,40 @@ let players = {
   "name": "Overt Azoh"
  },
  "f70e096e-0270-452f-a78e-0f3a56445d72": {
-  "name": "HVT LunR, LυnR, LυnR, SPG LunR, SPG LunR, SPG LunR, SPG LunR, HVT LunR, HVT LunR, HVT LunR, HVT LunR"
+  "name": "HVT LunR, LυnR, LυnR, SPG LunR, HVT LunR, SPG LunR, SPG LunR, HVT LunR, HVT LunR, HVT LunR, HVT LunR"
  },
  "edbc2414-8e28-4c0e-82c0-1070319f8866": {
   "name": "jack borbon"
  },
  "645f6ea4-99ae-4550-a46b-111ae8d64115": {
-  "name": "Forbidden Vortex, IMS VortexM, VortexM., VortexM., ADR Vortex, Forbidden Vortex, Forbidden Vortex, Forbidden Vortex, Forbidden Vortex, Forbidden Vortex"
+  "name": "Forbidden Vortex, IMS VortexM, VortexM., Forbidden Vortex, ADR Vortex, Forbidden Vortex, Forbidden Vortex, Forbidden Vortex, Forbidden Vortex, Forbidden Vortex"
  },
  "83e9f231-efee-418f-b011-134bb93c0a9a": {
-  "name": "agent re11, rеl, rеl, agent re11, rеl, agent re11, agent rel, agent rel, agent rel, agent re11, rеl, rеl, agent re11"
+  "name": "agent re11, rеl, rеl, agent re11, rеl, agent re11, agent rel, agent re11, agent rel, agent re11, rеl, rеl, agent re11"
  },
  "63617d65-4b81-4918-9dd1-1747b850d636": {
-  "name": "volx, RBK IDK, RBK IDK, spg bercanvolx, volx, RBK IDK, volx, spg pengi, spg pengi, spg gorilla volx, spg pengi, volx, spg bercanvolx, spg bercanvolx, volx"
+  "name": "volx, RBK IDK, RBK IDK, spg bercanvolx, volx, RBK IDK, volx, spg pengi, volx, spg gorilla volx, spg pengi, volx, spg bercanvolx, spg bercanvolx, volx"
  },
  "390a2005-ae7c-4ad4-b9d1-184144c1f0c8": {
   "name": "sYnAf, inF synaf, susnaf, sYnAf, sweatyn00b69, sweatyn00b69, sYnAf, sYnAf"
  },
  "be783dac-60a3-4adf-83f3-1997f586c4c1": {
-  "name": "スライム ., PRM jhk, PRM jhk, スライム ., スライム ., 미친 개., スライム ., 미친 개., 미친 개., 미친 개., スライム ."
+  "name": "スライム ., PRM jhk, PRM jhk, スライム ., スライム ., 미친 개., スライム ., スライム ., 미친 개., 미친 개., スライム ."
  },
  "933b3448-6f24-4cd9-b7c0-1b36e8290713": {
-  "name": "рhluxzy, 志华董, phluxzy ӝ, рhluxzy, рhluxzy, рhluxzy, рhluxzy, рhluxzy, рhluxzy, mako phluxzy, рhluxzy, рhluxzy"
+  "name": "рhluxzy, 志华董, phluxzy ӝ, рhluxzy, phluxzy ӝ, рhluxzy, рhluxzy, рhluxzy, рhluxzy, mako phluxzy, рhluxzy, рhluxzy"
  },
  "b681f129-a70e-4bc3-976c-1b576966fca9": {
   "name": "scammed ihmo, MG scamcito, MG scamcito, scalkerr ihmo, scammed ihmo, scalkerr ihmo, MG scammed, MG scammed, scammed ihmo"
  },
  "50a50695-a681-4609-ae87-1bd4e4330af6": {
-  "name": "HVT Forbes, forbes wins, YNW Forbes, forbes wins, HVT Forbes, YNW Forbes, YNW Forbes, fоrbеѕ, YNW Forbes, HVT Forbes, HVT Forbes, YNW Forbes, YNW Forbes, YNW Forbes, HVT Forbes"
+  "name": "HVT Forbes, forbes wins, YNW Forbes, forbes wins, HVT Forbes, YNW Forbes, HVT Forbes, fоrbеѕ, YNW Forbes, HVT Forbes, HVT Forbes, YNW Forbes, YNW Forbes, YNW Forbes, HVT Forbes"
  },
  "4db06500-600e-4371-bf9f-1c56d5e1b6f7": {
-  "name": "x2Сhubby, x2 -iwnl-, x2 -iwnl-, x2JORDAN ツ, x2Сhubby, x2JORDAN ツ, x2JORDAN ツ, x2JORDAN ツ, x2JORDAN ツ, x2Сhubby"
+  "name": "x2Сhubby, x2 -iwnl-, x2 -iwnl-, x2JORDAN ツ, x2Сhubby, x2JORDAN ツ, x2Сhubby, x2JORDAN ツ, x2JORDAN ツ, x2Сhubby"
  },
  "6b7d9599-68ae-4cde-aeb7-25a6be629392": {
-  "name": "ATL ronin, BLS ronin, BLS ronin, FURY Ronіn, ATL ronin, ronin, ronin, FURY Ronіn, ronin, ronin, ronin, ronin, ronin"
+  "name": "ATL ronin, BLS ronin, BLS ronin, FURY Ronіn, ATL ronin, ronin, ATL ronin, FURY Ronіn, ronin, ronin, ronin, ronin, ronin"
  },
  "2d5df6c7-6fb1-47c6-94f6-276eb1f24caf": {
   "name": "Stеv0, Stеvo, Stеvo, Stеv0, Stеv0, Stеv0, Stеv0"
@@ -1848,7 +1849,7 @@ let players = {
   "name": "Ciseriо"
  },
  "1da01e18-80bf-4cef-8348-2af90f5ecbd9": {
-  "name": "child predator04, qeaxzy, qeaxzy, child predator04, qeaxzy, child predator04, qeaxzy, qeaxzy, 3x cash cup king, child predator04, 3x cash cup king, qeaxzy, 3x cash cup king, child predator04"
+  "name": "child predator04, qeaxzy, qeaxzy, child predator04, qeaxzy, child predator04, qeaxzy, child predator04, 3x cash cup king, child predator04, 3x cash cup king, qeaxzy, 3x cash cup king, child predator04"
  },
  "90240417-68ef-42f3-9ccb-2e65a28a7733": {
   "name": "50ㅤ"
@@ -1857,7 +1858,7 @@ let players = {
   "name": "8kden, GLM Aaron, 8kden, GLM Aaron, 8kden, n1ggazbetriflin, n1ggazbetriflin"
  },
  "9fbf1b5c-e28b-4cd1-9b52-35e6844de700": {
-  "name": "Agent Eshz, Eshzzz, Agent Eshz, PRM Mikasa, Agent Eshz, Eshzzz, Eshzzz, Eshzzz, Agent Eshz, Agent Eshz, Agent Eshz, Agent Eshz, Agent Eshz"
+  "name": "Agent Eshz, Eshzzz, Agent Eshz, PRM Mikasa, Agent Eshz, Eshzzz, Agent Eshz, Eshzzz, Agent Eshz, Agent Eshz, Agent Eshz, Agent Eshz, Agent Eshz"
  },
  "a54a89f4-976a-480e-8234-38eeac37df58": {
   "name": "good loooks"
@@ -1872,7 +1873,7 @@ let players = {
   "name": "ATL Spraz, muffinman2104, G502KING, ATL Spraz, G502KING, ATL Spraz, sprаz, sprаz, sprаz, sprаz"
  },
  "fe6342e8-9aa9-4ec7-903a-3bd1088e5aac": {
-  "name": "AGENT Raiku, PRM Raiku, PRM Raiku, PRM Raiku, PRM Raiku, PRM Raiku, AGENT Raiku, AGENT Raiku, AGENT Raiku, AGENT Raiku"
+  "name": "AGENT Raiku, PRM Raiku, PRM Raiku, AGENT Raiku, PRM Raiku, PRM Raiku, AGENT Raiku, AGENT Raiku, AGENT Raiku, AGENT Raiku"
  },
  "545f71fa-7ceb-4cb6-9d18-41fab080d4b4": {
   "name": "zgmt"
@@ -1893,10 +1894,10 @@ let players = {
   "name": "dimi szn"
  },
  "211e8023-3877-4131-86fa-4dc49037a554": {
-  "name": "demon mode x, crαyon, SPG best player, demon mode x, SPG Caryion ., demon mode x, SPG 4ft8, SPG 4ft8, SPG 4ft8, last tournament, demon mode x"
+  "name": "demon mode x, crαyon, SPG best player, demon mode x, SPG Caryion ., demon mode x, SPG 4ft8, demon mode x, SPG 4ft8, last tournament, demon mode x"
  },
  "7329b73a-d287-46c5-89ad-4de9f880d63d": {
-  "name": "GLM oreo, oreogød, oreogød, GLM oreo, GLM oreo, GLM oreo, GLM oreo, GLM oreo"
+  "name": "GLM oreo, oreogød, GLM oreo, GLM oreo, GLM oreo, GLM oreo, GLM oreo, GLM oreo"
  },
  "db11b4c9-c953-42ed-a44b-50ca51beb086": {
   "name": "JFT xalkerr, xalkerr., xalkerr., MG xalkerr, xalkerr., JFT xalkerr, xalkerrXX, xalkerrXX, xalkerr ihmo, xalkerr ihmo, xalkerr ihmo, MG xalkerr, MG xalkerr, xalkerr ihmo"
@@ -1926,10 +1927,10 @@ let players = {
   "name": "Bolаrr, Вolа, Вolа, Bolаrr, Bolаrr, Bolаrr, Bolаrr, Bolаrr, Bolаrr, Bolаrr"
  },
  "95b500de-2274-4225-ba86-64ac6da413fd": {
-  "name": "protoon., VNR Protoon, VNR Protoon, protoon."
+  "name": "protoon., VNR Protoon, protoon., protoon."
  },
  "71be8f2c-ed48-4983-94db-684cc6781d54": {
-  "name": "rahcks FA, twitter rahcks, rahcks FA, twitter rahcks, rahcks FA, overt obito, overt obito, overt obito, overt obito, rahcks FA, rahcks otsutsuki, rahcks otsutsuki"
+  "name": "rahcks FA, twitter rahcks, rahcks FA, twitter rahcks, rahcks FA, overt obito, rahcks FA, overt obito, overt obito, rahcks FA, rahcks otsutsuki, rahcks otsutsuki"
  },
  "ba1b57c9-61e9-4311-a7c1-6a0139bc3f9f": {
   "name": "GLM osiris., оѕiris, оsiris., GLM osiris., GLM osiris., GLM osiris., GLM osiris., GLM osiris., GLM osiris., GLM osiris., GLM osiris."
@@ -1938,7 +1939,7 @@ let players = {
   "name": "daddyMatthew.x"
  },
  "fb591bc2-41b1-4a82-9e12-6d17b4db8130": {
-  "name": "Mr.PlantBomb12, paperplane2000, Τyhu, Mr.PlantBomb12, Τyhu, Τyhu, Τyhu, Mr.PlantBomb12, Mr.PlantBomb12"
+  "name": "Mr.PlantBomb12, paperplane2000, Τyhu, Mr.PlantBomb12, Τyhu, Mr.PlantBomb12, Τyhu, Mr.PlantBomb12, Mr.PlantBomb12"
  },
  "df34aa1d-c4b2-48f5-bbfe-6f462b64a619": {
   "name": "Link.ㅤ"
@@ -1947,7 +1948,7 @@ let players = {
   "name": "Bemо"
  },
  "5a2fec06-81fc-42d9-a5ca-7964635935ef": {
-  "name": "2321451254213123, epik pickle will, 2321451254213123, Agent Will., Agent Will., Agent Will., Agent Will., 2321451254213123, Agent Will., Agent Will., 2321451254213123"
+  "name": "2321451254213123, epik pickle will, 2321451254213123, Agent Will., 2321451254213123, Agent Will., Agent Will., 2321451254213123, Agent Will., Agent Will., 2321451254213123"
  },
  "8bd4f821-6934-400d-a7cb-7b3fb975f0ac": {
   "name": "jаhlyn, jahlynそ, jahlynそ, jаhlyn, jahlynそ, jаhlyn, jаhlyn, jаhlyn, jаhlyn, jаhlyn, jаhlyn, jаhlyn, jаhlyn"
@@ -1959,7 +1960,7 @@ let players = {
   "name": "Virat Kohli水"
  },
  "04489b66-290d-4896-8dde-800325510257": {
-  "name": "agent sorif, PRM Sorif, PRM Sorif, Agent Sorif, agent sorif, PRM Sorif, agent sorif, PRM Sorif, Agent Sorif, PRM Sorif, Agent SorifGoms, Agent SorifGoms, Agent SorifGoms, Agent SorifGoms, Agent SorifGoms"
+  "name": "agent sorif, PRM Sorif, PRM Sorif, Agent Sorif, agent sorif, PRM Sorif, agent sorif, PRM Sorif, agent sorif, PRM Sorif, Agent SorifGoms, Agent SorifGoms, Agent SorifGoms, Agent SorifGoms, Agent SorifGoms"
  },
  "be0e7e31-92e3-4dde-bed2-8417b3235c03": {
   "name": "Twitch TommyOC3"
@@ -1977,13 +1978,13 @@ let players = {
   "name": "noob jynx, RNG Jynxyfishy, RNG Jynxyfishy, noob jynx, noob jynx, RNG Jynxyfishy, noob jynx, noob jynx, noob jynx, noob jynx, noob jynx, noob jynx, noob jynx, noob jynx, noob jynx, noob jynx"
  },
  "143ab2fd-5f8d-4c05-bc8f-9864c20851bf": {
-  "name": "x2prhzy, IMS Prhzy, x2prhzy, IMS Prhzy, prhzy, prhzy, prhzy, prhzy, x2prhzy, ATL Prhzy, ATL Prhzy, ATL Prhzy, x2prhzy"
+  "name": "x2prhzy, IMS Prhzy, x2prhzy, IMS Prhzy, prhzy, x2prhzy, prhzy, prhzy, x2prhzy, ATL Prhzy, ATL Prhzy, ATL Prhzy, x2prhzy"
  },
  "c5f357ab-648a-427e-ab44-986b1f25f5c6": {
   "name": "Bаntis"
  },
  "af77ed8e-101d-4f10-a0b3-9ca817ed42c5": {
-  "name": "skvtzz, Driller Skvts, Skvts 7, skvtzz, Skvtzrr, Skvtzrr, Skvtzlol, Skvtzrr, skvtzz, Big Booty Skvtz, Big Booty Skvtz"
+  "name": "skvtzz, Driller Skvts, Skvts 7, skvtzz, Skvtzrr, skvtzz, Skvtzlol, Skvtzrr, skvtzz, Big Booty Skvtz, Big Booty Skvtz"
  },
  "80c96217-133c-455e-9939-a0564b986472": {
   "name": "wavyalecc, alecc 水, alecc 水, noob alecc, wavyalecc, noob alecc, wavyalecc, noob alecc, wavyalecc, wavyalecc, wavyalecc, wavyalecc, wavyalecc, wavyalecc"
@@ -1992,7 +1993,7 @@ let players = {
   "name": "xrs0101010"
  },
  "5a2f9524-d3ed-465f-b351-a8e3cf13b846": {
-  "name": "Cоde x2Twins, x2Jeѕse, x2Jeѕse, Cоde x2Twins, Dr. x2Twins, Dr. x2Twins, Dr. x2Twins, Dr. x2Twins, Cоde x2Twins"
+  "name": "Cоde x2Twins, x2Jeѕse, x2Jeѕse, Cоde x2Twins, Dr. x2Twins, Cоde x2Twins, Dr. x2Twins, Dr. x2Twins, Cоde x2Twins"
  },
  "3b5f7b1d-627d-4142-8435-ac23d214b180": {
   "name": "zoreh 4pf, zoreh水, zoreh 4pf, zoreh水, zoreh 4pf, zoreh 4pf, zoreh 4pf, zoreh 4pf, zoreh 4pf, zoreh 4pf, zoreh 4pf, zoreh 4pf"
@@ -2007,16 +2008,16 @@ let players = {
   "name": "YouTube Spag"
  },
  "ad53e398-b588-4b15-a797-ba0a61658cc4": {
-  "name": "Jace 75, jace ay лол, Jace 75, jace ay лол, jace ay лол, jace ay лол, jacegød, Jace 75, Jace 75, jacegød, Jace 75"
+  "name": "Jace 75, jace ay лол, Jace 75, jace ay лол, Jace 75, jace ay лол, jacegød, Jace 75, Jace 75, jacegød, Jace 75"
  },
  "8e60e750-c4fd-4eac-a11e-bb49686a590a": {
-  "name": "GLM danath, GLM irongolem, GLM irongolem, GLM danath, GLM danath, GLM danath, GLM danath"
+  "name": "GLM danath, GLM irongolem, GLM danath, GLM danath, GLM danath, GLM danath, GLM danath"
  },
  "25961545-eb23-4080-830c-bb4ad3b98566": {
-  "name": "SPG repuk, PWR repulse, PWR repulse, SPG repuk, PWR repulse, SPG repuk, PWR repulse, PWR repulse, PWR repulse, PWR repulse, SPG repuk, SPG repuk, SPG repuk, SPG repuk, SPG repuk, SPG repuk"
+  "name": "SPG repuk, PWR repulse, PWR repulse, SPG repuk, PWR repulse, SPG repuk, PWR repulse, SPG repuk, PWR repulse, PWR repulse, SPG repuk, SPG repuk, SPG repuk, SPG repuk, SPG repuk, SPG repuk"
  },
  "2fa701ba-a412-4a60-8983-c666e683a809": {
-  "name": "basil 74, basil ӝ, IMS basil, basilreyli, basilreyli, basilreyli, basil 74, basil 74, basil 74, basil 74, basil 74"
+  "name": "basil 74, basil ӝ, IMS basil, basilreyli, basil 74, basilreyli, basil 74, basil 74, basil 74, basil 74, basil 74"
  },
  "ae423c92-25bb-4980-9c19-c8c38e4ed45f": {
   "name": "IGL Tilted, TiltedAU, IGL Tilted"
@@ -2025,7 +2026,7 @@ let players = {
   "name": "Agera twopump"
  },
  "8b8c0941-5d91-466c-b0f0-d41a6613e41c": {
-  "name": "Jаmmers, сutѕ, сutѕ, сutѕ, Jаmmers"
+  "name": "Jаmmers, сutѕ, сutѕ, Jаmmers"
  },
  "abb70c71-9e38-43e4-bc70-d8c48590c5f0": {
   "name": "HVT Breso, Brеso, Brеso, HVT Breso, Brеso, HVT Breso, HVT Breso, Brеso, Brеso, HVT Breso"
@@ -2043,16 +2044,16 @@ let players = {
   "name": "PWR looter"
  },
  "6901d8d6-299a-40e4-8088-de710a094cab": {
-  "name": "Mix 父, Miх., Miх., Miх."
+  "name": "Mix 父, Miх., Mix 父, Miх."
  },
  "8e0540ab-69d0-4a7f-9f01-dff74dac99de": {
-  "name": "GLM x2Suns, GLM suns, GLM suns, GLM x2Suns, GLM suns, GLM suns, GLM suns, GLM suns, GLM x2Suns, GLM x2Suns, GLM suns, GLM x2Suns"
+  "name": "GLM x2Suns, GLM suns, GLM suns, GLM x2Suns, GLM suns, GLM x2Suns, GLM suns, GLM suns, GLM x2Suns, GLM x2Suns, GLM suns, GLM x2Suns"
  },
  "f9aafac7-73c2-45bf-a96f-e2f01ca66880": {
-  "name": "speedy at pub, TP speedynd, speedy at pub, TP speedynd, TP speedynd, speedy at pub, speedy at pub, speedy at pub, speedy at pub, speedy at pub"
+  "name": "speedy at pub, TP speedynd, speedy at pub, TP speedynd, speedy at pub, speedy at pub, speedy at pub, speedy at pub, speedy at pub, speedy at pub"
  },
  "234887ea-510f-41d4-8d59-e3042f944c6e": {
-  "name": "РWR Banana, BLS Muz, BLS Muz, РWR Мuz, РWR Banana, BLS Muz, РWR Banana, РWR Мuz, РWR Мuz, РWR Мuz, РWR Banana, РWR Мuz, РWR Мuz, РWR Banana"
+  "name": "РWR Banana, BLS Muz, BLS Muz, РWR Мuz, РWR Banana, BLS Muz, РWR Banana, РWR Мuz, РWR Banana, РWR Мuz, РWR Banana, РWR Мuz, РWR Мuz, РWR Banana"
  },
  "094e23ed-a0f5-458f-9ea6-e30c1ec5aa43": {
   "name": "FURY Remi, vertex remi, FURY Remi, FURY Remi, vertex remi, FURY Remi, FURY 100cuz, FURY 100cuz, FURY Remi, FURY Remi, FURY Remi, FURY Remi, FURY Remi, FURY Remi"
@@ -5766,7 +5767,7 @@ let players = {
   "name": "res khanadä"
  },
  "88aa191f-71c4-4cfd-b39f-0c2482f1149d": {
-  "name": "NEXUS.Imis, Heart Imis, Heart Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis"
+  "name": "NEXUS.Imis, Heart Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis, NEXUS.Imis"
  },
  "2be35931-b642-4e90-8be6-0ec88cfce420": {
   "name": "ONqRaLiy, RaL1y, GM Queen, RaL1y, RaL1y, SG4 RaLiy, SG4 RaLiy, RaL1y"
@@ -5784,10 +5785,10 @@ let players = {
   "name": "中卒wkey, L1quid ｍitr0, L1quid ｍitr0"
  },
  "58bde9b6-2964-41b7-a8e2-244434e103c3": {
-  "name": "CE 2SNgNl, CЕ 2SNgNl, CE 2SNgNl, CE 2SNgNl, CE 2SNgNl, CЕ 2SNgNl, CЕ 2SNgNl, CЕ 2SNgNl, CE 2SLAROI, CЕ 2SNgNl"
+  "name": "CE 2SNgNl, CЕ 2SNgNl, CЕ 2SNgNl, CE 2SNgNl, CE 2SNgNl, CE 2SNgNl, CЕ 2SNgNl, CЕ 2SNgNl, CЕ 2SNgNl, CE 2SLAROI, CЕ 2SNgNl"
  },
  "e3f4866b-ade8-4267-abec-24c822efa5cf": {
-  "name": "ケニアの国王, クソエイムの申し子., クソエイムの申し子., yoshikawa tee, ケニアの国王"
+  "name": "ケニアの国王, クソエイムの申し子., 3.11震災万歳怪しい米志村けん, yoshikawa tee, ケニアの国王"
  },
  "0a829a6b-e92c-437a-b0f6-26f0909f22ea": {
   "name": "サービスします, サンタクロースクリスマスソングⅠ, サンタクロースクリスマスソングⅠ, サンタクロースクリスマスソングⅠ, 不登校競技勢しんたまくん, 不登校競技勢しんたまくん, 森まりものタイマン屋さん製作者, 不登校競技勢しんたまくん"
@@ -5796,10 +5797,10 @@ let players = {
   "name": "mug1cha, mitr0 fanb0y, mugίchá"
  },
  "0119db46-561b-4697-97df-2fed1153c8fc": {
-  "name": "ASF ぷらちな, FA.ぷらちな 碧, FA.ぷらちな 碧, FA.ぷらちな 碧, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな"
+  "name": "ASF ぷらちな, FA.ぷらちな 碧, FA.ぷらちな 碧, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな, ASF ぷらちな"
  },
  "a66b050f-ad52-47b8-ad30-440dc5cf71a2": {
-  "name": "くあにだ, Relax_ミカンニャン .I."
+  "name": "くあにだ, amazingquattro"
  },
  "1cee8641-d99d-407b-8efd-4832340cb5c4": {
   "name": "ZeR TaipongraalX"
@@ -5808,7 +5809,7 @@ let players = {
   "name": "Astera Hyazard."
  },
  "f2a3b26d-f951-4fac-90bf-56304a512f62": {
-  "name": "Hаrukiyo 88, Harukiyo 88, Harukiyo 88, Hаrukiyo 88, おれはǃǃǃǃ 弱いっǃǃǃǃ, おれはǃǃǃǃ 弱いっǃǃǃǃ, Hаrukiyo 88, Harukiyo 8д8, Harukiyo 8д8, Hаrukiyo 88"
+  "name": "Hаrukiyo 88, Harukiyo 88, Hаrukiyo 88, Hаrukiyo 88, おれはǃǃǃǃ 弱いっǃǃǃǃ, おれはǃǃǃǃ 弱いっǃǃǃǃ, Hаrukiyo 88, Harukiyo 8д8, Harukiyo 8д8, Hаrukiyo 88"
  },
  "48877ef7-a3fe-43bc-bdf6-56f90857e4d0": {
   "name": "RiddleFire"
@@ -5817,7 +5818,7 @@ let players = {
   "name": "SG4 はぎたそ"
  },
  "27c6e3b2-7bb5-4579-9cdc-646c2557dc93": {
-  "name": "FA りるち好きまーまん, SVR Opr Freeze, MeRMqn"
+  "name": "FA りるち好きまーまん, SVR Opr Freeze, SVR Opr Freeze"
  },
  "58b2cd03-a990-4197-aecf-6797326704e7": {
   "name": "ゆずきんたまりお"
@@ -5835,7 +5836,7 @@ let players = {
   "name": "CR Xハムスターゆせあ, cr yuseakun-., cr yuseakun-., cr yusea 大大大猿王銃, cr yusea 大大大猿王銃, cr yusea 大大大猿王銃, cr yuseakun-., cr yuseakun-., cr yusea 0208 洋, cr yuseakun-., cr yuseAcacia, cr yuseakun-."
  },
  "8cde1a0c-6a60-407d-a019-7979da606a67": {
-  "name": "pizdun osu, hikkiasd, hikkiasd, OVA pizdun, OVA pizdun, OVA pizdun"
+  "name": "pizdun osu, hikkiasd, OVA pizdun, OVA pizdun, OVA pizdun, OVA pizdun"
  },
  "ca8288e8-ac2b-4ced-be53-7c52af6509d9": {
   "name": "FA たかちゃん"
@@ -5844,7 +5845,7 @@ let players = {
   "name": "NRG Freeze."
  },
  "d64f3108-139f-4b12-a4d7-807b8903df12": {
-  "name": "1nr M, 2020まめさん"
+  "name": "1nr M, まめズラ"
  },
  "69e62154-2495-4cb6-a8b5-80bcd0f4097b": {
   "name": "NVS おにぎりゃー, 09 Makia, 09 Makia, 09 Makia, 7th ケルビン松村ゴイ3世, 09 Makia"
@@ -5856,10 +5857,10 @@ let players = {
   "name": "ice3 Mren0zisBuu"
  },
  "dcc5f4df-088a-4bca-b405-8b9b0fb2f97c": {
-  "name": "Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon."
+  "name": "Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon., ALBA Jaemon."
  },
  "f08aad62-9bf0-40d6-beb7-8c7aea8e0a1f": {
-  "name": "NEXUS.ZAZI, Ac.zazi, Ac.zazi, 00zazi00"
+  "name": "NEXUS.ZAZI, Ac.zazi, Ac.zazi, NEXUS.ZAZI"
  },
  "ee4bf5bf-06d6-43e6-b30d-8dd807982a44": {
   "name": "なまらおかしっぺ"
@@ -5871,13 +5872,13 @@ let players = {
   "name": "T1 SinOoh 666, T1 SinOoh, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666, T1 SinOoh 666"
  },
  "98709dbd-5d8c-414f-bfe0-97412632e6e4": {
-  "name": "Bweqwе, BweqWhaleツ"
+  "name": "Bweqwе, Ace Bwekweeeeeeh"
  },
  "fc02ed69-e6e5-41d8-9578-9a66e4013fb7": {
   "name": "ALBA Melon, Mеlonㅤ, ALBA 腐ったスイカ, ALBA 腐ったスイカ, ALBA Melon, ALBA 腐ったスイカ, ALBA 腐ったスイカ"
  },
  "39527ee8-18bb-4c2c-9a28-9e5178d4da27": {
-  "name": "PsychoDominator, lolPley3r.a2, Swetysans"
+  "name": "PsychoDominator, Swetysans, Swetysans"
  },
  "3b92e62f-76d1-4006-8001-9f34e6edb3aa": {
   "name": "Heart たこさんウインナー, Heart.たこ 雪山の覇者"
@@ -5889,25 +5890,25 @@ let players = {
   "name": "IDEAL そらくん"
  },
  "ebd5e749-4724-4405-b8a5-ad337d9cd607": {
-  "name": "屠畜場 せいん, ハイパーnoob REFAR ψ, ハイパーnoob REFAR ψ, ALBA Raifer ϟ, ALBA Raifer ϟ, ALBA HOLLY DEVIL, ALBA_ӝ_だいこんぽよ91., ALBA Raifer WINS, ALBA_ӝ_だいこんぽよ91."
+  "name": "屠畜場 せいん, ハイパーnoob REFAR ψ, ALBA_ӝ_だいこんぽよ91., ALBA Raifer ϟ, ALBA Raifer ϟ, ALBA HOLLY DEVIL, ALBA_ӝ_だいこんぽよ91., ALBA Raifer WINS, ALBA_ӝ_だいこんぽよ91."
  },
  "853bbff0-98e2-4903-8760-ae39dfae5924": {
   "name": "NEXUS.ゆうゆう, AMORIS ゆうゆう, NEXUS.対面雑魚のゆうゆう, AMORIS ゆうゆう, NEXUS.ゆうゆう, NEXUS.ゆうゆう, AMORIS ゆうゆう, AMORIS ゆうゆう, ゆうゆう ヰ, ゆうゆう ヰ, AMORIS ゆうゆう"
  },
  "cfc552b6-e941-439b-a8fc-af090aa28e74": {
-  "name": "学生の青春ミラノ風ドリア, とむっちょClix, 学生の青春ミラノ風ドリア"
+  "name": "学生の青春ミラノ風ドリア"
  },
  "8f70b285-1465-4de7-9990-b01aef245109": {
   "name": "Unosuke弱すぎ, rенx, Салом ба англис, Салом ба англис, Салом ба англис, Салом ба англис, Салом ба англис"
  },
  "9f5e4083-81ab-4e6e-862f-b472bbc439ac": {
-  "name": "NRG Clix No.1, クリープだぅ, SG4 クリープだぅ, SG4 クリープだぅ"
+  "name": "NRG Clix No.1, クリープだぅ, SG4 クリープだぅ, クリープだぅ"
  },
  "45e1c6fc-7523-4d11-9968-b6b8e80931de": {
   "name": "ВELK"
  },
  "461df2a7-4eed-48b0-91b2-b6e5c12235df": {
-  "name": "しんでしまうとは なにごとだ, komon -α-, komonの肛門まじ拷問"
+  "name": "しんでしまうとは なにごとだ, エルコモンドルパサー, komonの肛門まじ拷問"
  },
  "30b0a1d1-ba20-475f-8351-bb52982d1b01": {
   "name": "Fleek ちくわYoutube, Fleek.ちくわ ǃǃǃǃǃ"
@@ -5919,7 +5920,7 @@ let players = {
   "name": "MRE 覚醒Supisuna, Supisuna., Supisuna."
  },
  "b1b1e484-fc48-4d88-a713-c68be3c9c6ba": {
-  "name": "ただのてぃが, Ac.てぃが, Ac.てぃが, Ac.てぃが, マニマニTig, マニマニTig, マニマニTig, マニマニTig, マニマニTig"
+  "name": "ただのてぃが, Ac.てぃが, Ac.てぃが, マニマニTig, マニマニTig, マニマニTig, マニマニTig, マニマニTig, マニマニTig"
  },
  "67c79fb1-1978-41bf-a011-c6c0148ec54a": {
   "name": "厨二病., 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ, 黒の剣士ℛ"
@@ -5937,10 +5938,10 @@ let players = {
   "name": "GW_Nephrite"
  },
  "3105d6d8-bbaf-4de0-85eb-d8267795b4d0": {
-  "name": "RyuCyan., 影オロチ s, 影オロチ s, 影オロチ s, RyuCyan., RyuCyan., AMORIS RC., AMORIS RC."
+  "name": "RyuCyan., 影オロチ s, 影オロチ s, AMORIS RC., RyuCyan., RyuCyan., AMORIS RC., AMORIS RC."
  },
  "376fc61c-3611-4d6a-8ea5-db25c74ec5fd": {
-  "name": "FA Runa, ASF Runa, Aile9 Runa, ASF Runa, FA Runa, FA Runa, ASF Runa, ASF Runa, FA Runa, ASF Runa, ASF Runa, ASF Runa"
+  "name": "FA Runa, ASF Runa, ASF Runa, ASF Runa, FA Runa, FA Runa, ASF Runa, ASF Runa, FA Runa, ASF Runa, ASF Runa, ASF Runa"
  },
  "df4682ab-3505-4d3c-a2da-df7874e149a8": {
   "name": "MrLiMeM"
@@ -5952,7 +5953,7 @@ let players = {
   "name": "CODE TOP_FAXFOX, HVN Ecllar"
  },
  "1c39ddb4-cf3e-4973-b6f0-e5bf1a4b419e": {
-  "name": "Štunt, GTS Stunt, Štunt, Štunt, Štunt, Štunt"
+  "name": "Štunt"
  },
  "6975f7b9-eaef-4cbb-9048-e801c87f3b1c": {
   "name": "愉快なさんた"
@@ -5961,16 +5962,16 @@ let players = {
   "name": "桃喰 リリカ."
  },
  "258907a8-8a72-4297-8e73-ebc353b60cf8": {
-  "name": "ASF Lulu, WR.Lulu, Lulu ヰ, Lulu ヰ, User-061962acbf, User-061962acbf, ASF Lulu ヰ, asf lulu, User-061962acbf"
+  "name": "ASF Lulu, User-061962acbf, Lulu ヰ, Lulu ヰ, User-061962acbf, User-061962acbf, ASF Lulu ヰ, asf lulu, User-061962acbf"
  },
  "84afe863-3308-425f-8269-f94cc5c152b6": {
-  "name": "Tzuyulol., XTRA Reet., Σ Tzẍyu., LBR Twisty, 설담 SeolDam, 설담 SeolDam, 설담 SeolDam, LBR Twisty, LBR TWIMON, LBR Twisty, LBR Twisty, LBR Twisty"
+  "name": "Tzuyulol., XTRA Reet., Ṭzuyu2k, LBR Twisty, 설담 SeolDam, 설담 SeolDam, 설담 SeolDam, LBR Twisty, LBR TWIMON, LBR Twisty, LBR Twisty, LBR Twisty"
  },
  "2114947d-297a-457a-96de-fa0083eb9366": {
   "name": "ゆっくり実況トール"
  },
  "1a397c32-b529-406e-8d75-fcf6b3797954": {
-  "name": "Wizard3594, публичный348паук"
+  "name": "Wizard3594, Wίzard"
  },
  "d43f20f2-a479-437c-8f50-04a3e5e6a42a": {
   "name": "ce washt1s, CE Føst1s, ce washt1s"
@@ -5979,13 +5980,13 @@ let players = {
   "name": "NEXUS.げろ Mildom"
  },
  "8b42f093-72e2-4284-87a9-10ed2d34cea0": {
-  "name": "mre santed, さんまはま, XTRA EpikNeet, ごり押しのたくϟ"
+  "name": "mre santed, XTRA EpikNeet, ごり押しのたくϟ"
  },
  "6d32ca06-233c-4ab3-9e9c-1b24f5d1a3a6": {
   "name": "Hrt どらちゃんYouTube"
  },
  "d2e520a3-3ef7-4f42-832f-265559dd393b": {
-  "name": "Quit Fortnite ., ukicyã 楪, Dòppélgänger, Dòppélgänger, Quit Fortnite ., Spankbang ."
+  "name": "Quit Fortnite ., Dòppélgänger, Dòppélgänger, Quit Fortnite ., Spankbang ."
  },
  "08318ce7-8a1e-4114-b33e-27c8b2544636": {
   "name": "てぃーちゃん."
@@ -6006,10 +6007,10 @@ let players = {
   "name": "かげとらFA"
  },
  "52ce93aa-9096-448a-ba20-4e702e17244d": {
-  "name": "CREssway, essteelix, essteelix, CREssway, CR Essǃǃ, CR Essǃǃ, CR Essǃǃ, CREssway, CREssway, CREssway, CREssway"
+  "name": "CREssway, essteelix, CREssway, CREssway, CR Essǃǃ, CR Essǃǃ, CR Essǃǃ, CREssway, CREssway, CREssway, CREssway"
  },
  "8cc7ed42-6e6e-4552-87d3-52a866fcf02b": {
-  "name": "NEXUS.しふぉん MLD, NEXUS.BuckeFPS, NEXUS.しふぉん MLD, NEXUS.しふぉん MLD, NEXUS.しふぉん MLD, NEXUS.しふぉん MLD, NEXUS.しふぉん MLD"
+  "name": "NEXUS.しふぉん MLD"
  },
  "7d184984-89b7-4c32-95c5-56e96109a218": {
   "name": "HOP Tasuk1nG"
@@ -6030,13 +6031,13 @@ let players = {
   "name": "SHINCK ON TOP, Shinckyfishy, SHINCK ON TOP, SHINCK ON TOP, fishy on shinck, fishy on shinck, fishy on shinck, fishy on shinck, SHINCK ON TOP, SHINCK ON TOP, SHINCK ON TOP"
  },
  "9f26462a-3da6-49aa-b1fd-7426163faefc": {
-  "name": "ALBA まるお, ぱこなんばーわん, ぱこなんばーわん, ぱこなんばーわん, ALBA まるお, ALBA ぱこ, ALBA ぱこ, ALBA まるお, ALBA ぱこ, ALBA まるお, ALBA まるお, ALBA まるお"
+  "name": "ALBA まるお, ぱこなんばーわん, ぱこなんばーわん, ALBA まるお, ALBA まるお, ALBA ぱこ, ALBA ぱこ, ALBA まるお, ALBA ぱこ, ALBA まるお, ALBA まるお, ALBA まるお"
  },
  "1cad86e5-c84e-4732-ac8f-82fca140ef46": {
   "name": "しゅんしゃんだ, いちごフラペチーノしゅんしゃそ, しゅんしゃんだ, しゅんしゃんだ, Riddle SS, しゅんしゃんだ, しゅんしゃんだ, しゅんしゃんだ, しゅんしゃんだ, しゅんしゃんだ"
  },
  "eb112e1a-df02-4b4a-bb88-832c6def5b0e": {
-  "name": "SVN Butter, ButterTri"
+  "name": "SVN Butter"
  },
  "b2f8831e-6b0b-4243-b7e9-83e3424045fc": {
   "name": "うんちぶりぶり ."
@@ -6051,13 +6052,13 @@ let players = {
   "name": "A2 Taka of ALBA, A2 Taka, A2 Taka, A2 Taka, A2 Taka of ALBA"
  },
  "d6f3c840-b432-4dc9-9b3d-93998764f1fa": {
-  "name": "Altair ɷsigureɷ, しぐれ いつも心は虹色にぃ, Altair. sigureDX"
+  "name": "Altair ɷsigureɷ, Altair. sigureDX"
  },
  "b4649d51-2c59-46c8-9a6e-94ba673ae2e7": {
   "name": "XTRA Goma7, 規約なんて破ってなんぼ, ᴘ7., XTRA Goma7, XTRA Goma7, XTRA Goma7"
  },
  "f8e36d87-d954-4ab0-bc65-9b58aa9bd1f4": {
-  "name": "GL Metsuo, GL Metsuo -α-, GL Metsuo -α-, GL Metsuo -α-, GL Metsuo, GL Metsuo, GL Metsuo, GL Metsuo"
+  "name": "GL Metsuo, GL Metsuo -α-, GL Metsuo -α-, GL Metsuo, GL Metsuo, GL Metsuo, GL Metsuo, GL Metsuo"
  },
  "83a92ae7-88cf-4d35-9819-a8a91525720b": {
   "name": "Heart Llcia"
@@ -6066,13 +6067,13 @@ let players = {
   "name": "老铁观音"
  },
  "beb01a91-030e-44ef-8fe4-aa0ae32a94c5": {
-  "name": "LCF Rupa -w-, ゴースティングしてごめんなさい, ゴースティングしてごめんなさい, ゴースティングしてごめんなさい, フォトナ女子最強ぺむ, LCF Rupa -w-"
+  "name": "LCF Rupa -w-, ゴースティングしてごめんなさい, ゴースティングしてごめんなさい, LCF Rupa -w-, フォトナ女子最強ぺむ, LCF Rupa -w-"
  },
  "13ee67e6-7f73-4319-ac5f-aaa28c9452df": {
   "name": "крыса0_о, HVN Ratatouille, крыса0_о"
  },
  "ab64e49e-0473-4ca1-9303-b8f61dcea09c": {
-  "name": "aim assistで語らないで, 99 Mana, 99 Mana"
+  "name": "aim assistで語らないで, 99 Mana, aim assistで語らないで"
  },
  "37f16f73-2a33-4dae-9325-bbe313606dac": {
   "name": "トロール2人つれてます"
@@ -6081,13 +6082,13 @@ let players = {
   "name": "べるくらねる."
  },
  "8f7bd23b-b147-4fa1-98b4-c061eb154ee7": {
-  "name": "chopstick 馬, User-03bfe5cfdf"
+  "name": "chopstick 馬, 占い系YouTuberあらい"
  },
  "dc7e982f-6479-41c9-8f1b-c303823106cc": {
-  "name": "mokozu, GTS mokozu, GTS mokozu, mokozu, mokozu, mokozu, mokozu"
+  "name": "mokozu, GTS mokozu, mokozu, mokozu, mokozu, mokozu, mokozu"
  },
  "83f90459-347c-4895-b209-cd3e8daf0a26": {
-  "name": "FCS Xhamster, Tokumeèéêëēėę., Tokumeèéêëēėę., Tokumeèéêëēėę., Tokumee XD, fcs tkz iwnl"
+  "name": "FCS Xhamster, Tokumeèéêëēėę., Tokumeèéêëēėę., FCS Xhamster, Tokumee XD, fcs tkz iwnl"
  },
  "7ca495fa-bad1-429b-b2a8-cfed61772cc0": {
   "name": "ce Kabuto."
@@ -6126,7 +6127,7 @@ let players = {
   "name": "JOJO.STYLE"
  },
  "834d2a57-e753-4998-987f-32161f4c3214": {
-  "name": "RDT MAZE, VEILZ Davin, Retired Davin"
+  "name": "RDT MAZE, Retired Davin, VEILZ Davin, Retired Davin"
  },
  "93d9b61a-c0b1-4ba5-a41f-36459b11d4ba": {
   "name": "PP天使の段, FLK ゴルシ, Fleek ゴキブリ出ました, FLK ゴルシ"
@@ -6141,16 +6142,16 @@ let players = {
   "name": "Mozefps 200IQ w, NEXUS.もぜ, NEXUS.もぜ, NEXUS.もぜ"
  },
  "f5958151-8f68-4999-82f8-495197fb2fd4": {
-  "name": "Zuity gets 5050, PinkyWarrior26, zuity the 2244th, zuity the 2244th, zuity the 2244th, zuity the 2244th"
+  "name": "Zuity gets 5050, PinkyWarrior26, PinkyWarrior26, zuity the 2244th, zuity the 2244th, zuity the 2244th, zuity the 2244th"
  },
  "186a7dbf-166e-4b23-b55e-5475749c75f1": {
   "name": "Fennel かわしー, FENNEL かわしー, FENNEL かわしー, FENNEL かわしー, FENNEL かわしー, FENNEL かわしー"
  },
  "7f23febb-7bca-447d-b2c6-596085556d4a": {
-  "name": "mobnium, sеlenium, sеlеnium"
+  "name": "mobnium, sеlеnium, sеlеnium"
  },
  "4bcff805-b2b6-40d7-998a-5fc9be958dbf": {
-  "name": "Fleek れんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん"
+  "name": "Fleek れんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん, MREれんこん"
  },
  "ab43812e-cf78-45b2-8ab8-60a27a8918a5": {
   "name": "Marufwoi."
@@ -6159,7 +6160,7 @@ let players = {
   "name": "bell 水, use_bell"
  },
  "a9efa3f9-aea1-4015-9f50-6ae6924fa02b": {
-  "name": "Odile.Äiκ一発逆転"
+  "name": "Odile.Äiκ一発逆転, TrаinH saffy"
  },
  "8046d86b-d40d-4f74-9c57-75e4e27361cf": {
   "name": "りりです., reon_0911"
@@ -6180,7 +6181,7 @@ let players = {
   "name": "grappler ariel"
  },
  "e0f0d8f6-34b9-4ffa-8be9-a1326472c94f": {
-  "name": "RDT afl4w, uG aflow, Skyχ"
+  "name": "RDT afl4w, Skyχ, uG aflow, Skyχ"
  },
  "8d5e4aa6-3aca-4a11-95a8-a6910867234a": {
   "name": "FA Rukì Ⅱ, Rukì, Rukì"
@@ -6195,16 +6196,16 @@ let players = {
   "name": "Melius.pale, hvn pale7, hvn pale7, hvn pale7, hvn pale7, hvn pale7"
  },
  "1d313c1d-d01e-4105-97a4-aff0e63ca24a": {
-  "name": "ばばぁじゃねぇーよアリババだよ, FCS ALBB, FCS ALBB, ALBB AR, albb fcs, FCS ありばば, albb fcs, FOCUS ALBB 74, albb fcs"
+  "name": "ばばぁじゃねぇーよアリババだよ, albb fcs, FCS ALBB, FCS ALBB, ALBB AR, albb fcs, FCS ありばば, albb fcs, FOCUS ALBB 74, albb fcs"
  },
  "9b920a06-8423-4c9e-9b10-b996ec6ea026": {
   "name": "OMEGA RiRu., LCF りる, LCF りる, Liberta りる, Liberta りる, Liberta りる, LCF りる, LBR りる, LCF りる"
  },
  "d24b55c5-2586-48d2-8cc2-ca59650e99e4": {
-  "name": "CЕS quala, i_quala, TN QUANADA, TN QUANADA"
+  "name": "CЕS quala, Hypro Quala, TN QUANADA, TN QUANADA"
  },
  "baef867e-29f7-4e42-930f-d1bef818fe16": {
-  "name": "てぃあのすけ, Ac てぃあのすけ, Ac てぃあのすけ ヰ, Ac てぃあのすけ, Ac てぃあのすけ"
+  "name": "てぃあのすけ, Ac てぃあのすけ, Ac てぃあのすけ, Ac てぃあのすけ ヰ, Ac てぃあのすけ, Ac てぃあのすけ"
  },
  "bacfe956-cee6-4f71-b6a5-d6868058b812": {
   "name": "Discentra.nR"
@@ -6216,10 +6217,10 @@ let players = {
   "name": "akaPD_, SVN PDNADA, SVN Frenzy"
  },
  "1de579fa-0ebd-4fb4-9051-ef46afb37826": {
-  "name": "Atlxntid, SR Atlxntid, SR Atlxntid"
+  "name": "Atlxntid, SR Atlxntid, SR Atlxntid, SR Atlxntid"
  },
  "86e823e2-a9d5-4442-97ab-f42e040976b0": {
-  "name": "じんべいざめ -ω-, EpikWhaleShark., Fo じんべい YouTube"
+  "name": "じんべいざめ -ω-, Fo じんべい YouTube, Fo じんべい YouTube"
  },
  "9f89fbf4-8165-49ad-bfe4-0dc4480fcbec": {
   "name": "SPT_友利奈緒 0bscure"
@@ -6228,7 +6229,7 @@ let players = {
   "name": "OCN.大轟竜ティガレックス"
  },
  "7fb28973-73ed-497b-ba51-161a6c1a7da7": {
-  "name": "Rуpit, xrypitor.og, xrypitor.og"
+  "name": "Rуpit, xrypitor.og, xrypitor.og, xrypitor.og"
  },
  "1bc5057b-9e72-43ad-b968-1a8ceef8e8ce": {
   "name": "sekosama fanboy"
@@ -6237,7 +6238,7 @@ let players = {
   "name": "しおぽんず Siopon_z"
  },
  "4789f42e-87c7-42dd-998d-203b8585ed26": {
-  "name": "vx Kyra, 伊藤 ぐー, Focus Kira 神童, 伊藤 ぐー, FCS clxxer king, 伊藤 ぐー"
+  "name": "vx Kyra, 伊藤 ぐー, 伊藤 ぐー, Focus Kira 神童, 伊藤 ぐー, FCS clxxer king, 伊藤 ぐー"
  },
  "936dd1b0-96f7-44f8-89a1-47c8c181826e": {
   "name": "Riddle RazL"
@@ -6246,10 +6247,10 @@ let players = {
   "name": "nosh fangirl, COR なぽ, COR なぽ, 受かったやつが泣くんじゃない"
  },
  "acc9309a-24ff-4115-81a7-53aa2054fd7c": {
-  "name": "A2 Allen, svn allen, svn allen, svn allen, svn allen, DaAllen., Z2 allen, DaAllen., DaAllen., DaBaby A, DaAllen."
+  "name": "A2 Allen, DaAllen., svn allen, svn allen, svn allen, svn allen, DaAllen., Z2 allen, DaAllen., DaAllen., DaBaby A, DaAllen."
  },
  "81c17afb-ac87-4a4f-a90b-564a6e9b04bc": {
-  "name": "Reisy., 今日1位とるReisy, NVS Reisy, Reisy ツ"
+  "name": "Reisy., nvs reisy, NVS Reisy, Reisy ツ"
  },
  "6d7b9fdc-263a-4f4a-97fc-61169245c2bd": {
   "name": "Maugraal."
@@ -6276,10 +6277,10 @@ let players = {
   "name": "Melius.ぺぽ, FA ぺぽ 獅子奮迅, pestyk5, FA ぺぽ 獅子奮迅, FA ぺぽ 獅子奮迅, FA ぺぽ 獅子奮迅, FA ぺぽ 獅子奮迅"
  },
  "584922c9-3176-4834-bd81-a2e608183cdc": {
-  "name": "camembertさんの弟子, こちとらコンテンダー1位だぞ, 和の恥, 和.主人公はっち"
+  "name": "camembertさんの弟子, こちとらコンテンダー1位だぞ, こちとらコンテンダー1位だぞ, 和の恥, 和.主人公はっち"
  },
  "5c241d61-e1ca-4788-a913-a5ad7149f65a": {
-  "name": "Fleek x4sIoy.赤兎馬, week ralph.088, week ralph.088, 吉男DOPENESS., 吉男DOPENESS."
+  "name": "Fleek x4sIoy.赤兎馬, FLK 吉男DOPENESS., week ralph.088, week ralph.088, 吉男DOPENESS., 吉男DOPENESS."
  },
  "6f55caac-decd-4a70-9be5-a8d1ae4cde99": {
   "name": "Vital nuroking"
@@ -6309,7 +6310,7 @@ let players = {
   "name": "思考行結.いくちゃん, MRE 帝王, MRE 帝王"
  },
  "ada12ed9-4480-435f-89a1-d9d7ea85a63d": {
-  "name": "QjaFox, FaxFox iwnl., がちがち-, がちがち-, がちがち-, FaxFox77"
+  "name": "QjaFox, FaxFox77, がちがち-, がちがち-, がちがち-, FaxFox77"
  },
  "c031d801-602a-46c3-9fc3-e370e02bf4b6": {
   "name": "KUREN fan boy"
@@ -6327,25 +6328,25 @@ let players = {
   "name": "kakera."
  },
  "35476aab-7fa1-457b-9205-0ee6fea9e796": {
-  "name": "Melius.りき, RIKI_QQ, SE Riki, SE Riki"
+  "name": "SE Riki, RIKI_QQ, SE Riki, SE Riki"
  },
  "84e34469-5038-43a5-99c1-2020628b918a": {
-  "name": "vx.Burain, FCS Burain, FCS Burain, FCS Burain, FCS Burain, FCS Burain, FCS Burain"
+  "name": "FCS Burain"
  },
  "796b7404-bbc4-498e-8913-359f4e28853f": {
-  "name": "Melius.takappu"
+  "name": "弱キャラtakappu君"
  },
  "038ff0d3-81da-408f-a87f-5072996d50dc": {
-  "name": "Heart 波動の勇者ムサシ"
+  "name": "Heartの海賊団新航海士 武蔵"
  },
  "177e5745-b778-4199-8c77-9a435387dd7d": {
-  "name": "NEXUS.SSGOD, NEXUS.おれがナンバーワンだ, NEXUS.おれがナンバーワンだ"
+  "name": "NEXUS.おれがナンバーワンだ"
  },
  "77591e40-1646-49cb-9c0e-9ce84555cc21": {
-  "name": "Flot0r., ALBA Flot0rz666ӝ, ALBA Flot0rz666ӝ, ALBA Flot0r, ALBA HOLLY KING, ALBA Flot0r, ALBA Flot0r, ALBA Flot0r"
+  "name": "ALBA Flot0r, ALBA Flot0rz666ӝ, ALBA Flot0rz666ӝ, ALBA Flot0r, ALBA HOLLY KING, ALBA Flot0r, ALBA Flot0r, ALBA Flot0r"
  },
  "f0790878-4ae1-470e-9b8f-ed52de11c343": {
-  "name": "sönäcky"
+  "name": "yutaogi fanboyyy"
  },
  "00f16755-170f-40fa-a516-39981ae05196": {
   "name": "nosh_jp"
@@ -8103,7 +8104,7 @@ let players = {
   "name": "drilla belace, belace in chair, GORILLAMECHS"
  },
  "a1461707-ba74-4629-8ac7-3988af8a11ae": {
-  "name": "chainz onfroy, agent chainz, agent chainz, agent 1xchainz, AGENT CHAINZ, agent 1xchainz, agent 1xchainz, agent 1xchainz, AGENT CHAINZ"
+  "name": "chainz onfroy, agent chainz, AGENT CHAINZ, agent 1xchainz, AGENT CHAINZ, agent 1xchainz, agent 1xchainz, agent 1xchainz, AGENT CHAINZ"
  },
  "0529e315-7ade-4a05-9b83-468bd8712142": {
   "name": "raptahache32, Agent Raptah, Agent Raptah, Agent Raptah, Agent Raptah, Agent Raptah, Agent Raptah, Agent Raptah"
@@ -8115,7 +8116,7 @@ let players = {
   "name": "utube bmp, MG bmp, MG bmp, MG bmp, MG bmp"
  },
  "5bb3031b-f86e-4fff-8d8b-5c0e718bd5aa": {
-  "name": "flopper rivlee, japanese pen pal, SLC rivleetr0 ツ, Slobbered on ッ, flopper rivlee, flopper rivlee, rivlee wins, Slobbered on ッ, rivlee wins, Slobbered on ッ"
+  "name": "flopper rivlee, japanese pen pal, SLC rivleetr0 ツ, Slobbered on ッ, flopper rivlee, Slobbered on ッ, rivlee wins, Slobbered on ッ, rivlee wins, Slobbered on ッ"
  },
  "3b99d36a-30e9-494a-8c78-5ccf1fa86f04": {
   "name": "Divert Cspr, Csprfn, K16 cspr, K16 cspr"
@@ -8145,10 +8146,10 @@ let players = {
   "name": "Zuruuyu, VNR Zuruuyu"
  },
  "444591dd-e00b-4f43-af77-a49213f6a33d": {
-  "name": "Twitter zyroxAU, inF Zyrox, Twitter zyroxAU, Bulbasаur 1, Bulbasаur 1, Bulbasаur 1"
+  "name": "Twitter zyroxAU, inF Zyrox, Twitter zyroxAU, Bulbasаur 1, Twitter zyroxAU, Bulbasаur 1"
  },
  "e17cb818-ab56-48b1-b2ed-a5177ed19f39": {
-  "name": "le sió, GLM sio, GLM sio, GLM Pandasfan, GLM sio, GLM sio, GLM sioszn, GLM sio, GLM sio, GLM sio, GLM sioszn"
+  "name": "le sió, GLM sio, GLM sio, GLM Pandasfan, GLM Pandasfan, GLM sio, GLM sioszn, GLM sio, GLM sio, GLM sio, GLM sioszn"
  },
  "54620348-e19c-4a93-b71c-a8c16458272b": {
   "name": "hype -iwnl-, jap8n, hype -iwnl-, jap8n"
@@ -8166,7 +8167,7 @@ let players = {
   "name": "RBK Bigmac, wavycazi, twitter cazifn, tp cazi, tp cazi, tp cazi, tp cazi, tp cazi, tp cazigraal"
  },
  "aea98bc2-e01b-4c87-bf9f-b4bd75943c30": {
-  "name": "kоrq, MADE Korq, kоrq, kоrq, kоrq, MADE Korq, MADE Korq, MADE Korq, kоrq, MADE Korq, MADE Korq, kоrq"
+  "name": "kоrq, MADE Korq, kоrq, kоrq, kоrq, MADE Korq, kоrq, MADE Korq, kоrq, MADE Korq, MADE Korq, kоrq"
  },
  "19d8700b-0f53-4e42-a1cf-b8d7d0264b6b": {
   "name": "Jzmxe, jzmxe ., youtube jzmxe"
@@ -8202,7 +8203,7 @@ let players = {
   "name": "twitter crexfn"
  },
  "93298f77-23af-4c4c-b463-e8414096232e": {
-  "name": "Yung Distate, Distate, Distate, Distate, Dooms a hippo"
+  "name": "Yung Distate, distate, Distate, Distate, Dooms a hippo"
  },
  "6bd5558b-eead-46d2-bb81-e93131b8fb32": {
   "name": "JarvRuss, Keqzu, qek109, Keqzu"
@@ -8229,7 +8230,7 @@ let players = {
   "name": "75hz playa, ajax ay лол, ajax ay лол"
  },
  "85a3a788-4e36-4e64-a843-0a141078059d": {
-  "name": "overt newbatoon, newbatoon., twitch newbatoon, GLM Newbatoon, GLM Newbatoon, GLM Newbatoon, newbatoon., GLM Newbatoon, GLM Newbatoon, newbatoon."
+  "name": "overt newbatoon, newbatoon., twitch newbatoon, newbatoon., GLM Newbatoon, GLM Newbatoon, newbatoon., GLM Newbatoon, GLM Newbatoon, newbatoon."
  },
  "6e3bf607-9ff0-446e-849d-0a6cf65f0d0a": {
   "name": "МАKEОUТНILL"
@@ -8244,7 +8245,7 @@ let players = {
   "name": "Kangа"
  },
  "16bac637-63e1-4b08-abd5-23b7c8892210": {
-  "name": "crisеr, CRISER 父, crisеr, CRISER 父, GLM criser, GLM criser, GLM criser, CRISER 父"
+  "name": "crisеr, CRISER 父, crisеr, CRISER 父, GLM criser, CRISER 父, GLM criser, CRISER 父"
  },
  "8bcebccf-cfb8-494a-8c73-254a5fb6398f": {
   "name": "Salvage Elm0"
@@ -8274,7 +8275,7 @@ let players = {
   "name": "Airowplane"
  },
  "0ad70f78-e34f-4930-b778-5228e4731f46": {
-  "name": "Wісkеd, PRDX Wicked, PRDX Wicked, PRDX Wicked, PRDX Wicked, PRDX Wicked, wicked гг, wicked гг"
+  "name": "Wісkеd, PRDX Wicked, PRDX Wicked, wicked гг, PRDX Wicked, PRDX Wicked, wicked гг, wicked гг"
  },
  "3b1613bf-85ce-4964-93ce-5773b4e94387": {
   "name": "Twitch WhytryFN"
@@ -8286,7 +8287,7 @@ let players = {
   "name": "thommas-"
  },
  "d0ebdb12-fa94-41d7-ab25-7d8079d44c7a": {
-  "name": "Ghеez, Тupа"
+  "name": "Ghеez, Ghееz, Ghеez, Ghеez, Тupа"
  },
  "6e370fc3-3d50-4b23-93f1-7f1c384f9ff8": {
   "name": "xurse dont care"
@@ -8295,7 +8296,7 @@ let players = {
   "name": "kaycеs, kayces, kayces, kayceyache32, kayces, kayces, kayces"
  },
  "596ff531-9052-44a4-b699-883dae5691da": {
-  "name": "m1 springs, m1 74, em won, J. A Prufrock, m1 ӝ, m1 ӝ, m1 ӝ, m1 ӝ, J. A Prufrock, m1 74, m1 74, 99.95 atar only, J. A Prufrock"
+  "name": "m1 springs, m1 74, em won, J. A Prufrock, m1 ӝ, J. A Prufrock, m1 ӝ, m1 ӝ, J. A Prufrock, m1 74, m1 74, 99.95 atar only, J. A Prufrock"
  },
  "e31851f8-c510-4eab-a60b-888f5410d37a": {
   "name": "sunzw1k3"
@@ -8313,7 +8314,7 @@ let players = {
   "name": "weeb 999, Ԝееb, MADE Weeb, MADE Weeb, MADE Weeb, MADE Weeb"
  },
  "31f7806a-a016-48ea-bd58-b9bab3913363": {
-  "name": "raybickz, rауs"
+  "name": "raybickz, raymoк"
  },
  "7fcb6697-bf5b-43c8-a8e1-c2aee84f273b": {
   "name": "drobеs, twitter drobesfn, twitter drobesfn"
@@ -8352,13 +8353,13 @@ let players = {
   "name": "Siren Mania, MADE Maniasaurus, MADE Maniasaurus, MADE Maniasaurus"
  },
  "15ea8285-386b-4e27-ac72-e62dd293da34": {
-  "name": "verzideゑ, javery ._., javdeal, javéry, javery.12"
+  "name": "verzideゑ, javery ._., javdeal, javdeal, javery.12"
  },
  "5a2522ff-b292-44ae-8db8-ee96360e8cdc": {
   "name": "Тed"
  },
  "40436368-4972-4feb-8462-eebb31f55a66": {
-  "name": "The doominatοr, worse morph, doomキング, good mental doom, good mental doom, good mental doom, DOOMǃǃ, yugioh doom, yugioh doom, DOOMǃǃ, nоob doom"
+  "name": "The doominatοr, worse morph, doomキング, nоob doom, good mental doom, good mental doom, DOOMǃǃ, yugioh doom, yugioh doom, DOOMǃǃ, nоob doom"
  },
  "d0bec10b-238d-4902-9f7f-f291b7f6ad24": {
   "name": "Аshby"
@@ -8379,7 +8380,7 @@ let players = {
   "name": "kyoda sama, kyoda waifu, kyоda, kyоda"
  },
  "9553dfce-be82-4463-87f6-0e33699dc76c": {
-  "name": "tptimmydumptruck, tp 2ee, tp mechszn, tp x2uii, tp x2uii, tp x2uii, tp twitch tuii, tp mechszn, tp twitch tuii, tp twitch tuii, tp mechszn"
+  "name": "tptimmydumptruck, tp 2ee, tp mechszn, tp x2uii, tp mechszn, tp x2uii, tp twitch tuii, tp mechszn, tp twitch tuii, tp twitch tuii, tp mechszn"
  },
  "7c90be13-75a8-4dd5-b438-12901d85b122": {
   "name": "altruity"
@@ -8388,7 +8389,7 @@ let players = {
   "name": "GLM prеcks, GLM Lucifer, fast boy precks, fast boy precks"
  },
  "da60a5a1-30c4-407d-bb45-21c6d7a7674b": {
-  "name": "Tekmarr, VRTX Tekmarr, BLS Tekmarr, VRTX Tekmarr, Tekmarr, Tekmarr, Tekmarr, Tekmarr, VRTX Tekmarr"
+  "name": "Tekmarr, VRTX Tekmarr, BLS Tekmarr, VRTX Tekmarr, VRTX Tekmarr, Tekmarr, Tekmarr, Tekmarr, VRTX Tekmarr"
  },
  "0767c814-61f7-4ab6-a724-322eba6bfe46": {
   "name": "Utopia Pawhs, youtube pawhs, рlupils"
@@ -8415,7 +8416,7 @@ let players = {
   "name": "Senpex"
  },
  "12ae0730-8853-4887-8edd-48c82232a5cb": {
-  "name": "MG nunker, ikea glizzy, stαπ, MG nunker, MG nunker, MG nunker, stαπ, MG nunker, MG nunker, MG nunker, stαπ"
+  "name": "MG nunker, ikea glizzy, stαπ, MG nunker, stαπ, MG nunker, stαπ, MG nunker, MG nunker, MG nunker, stαπ"
  },
  "b292c001-cd42-4881-8d39-4b479348829e": {
   "name": "pieсeсontrolkyle"
@@ -8451,7 +8452,7 @@ let players = {
   "name": "Thomas Jamesp"
  },
  "9e9978d6-09ff-48cc-bf85-acd7757ef46d": {
-  "name": "slаya, x2ѕlaya, slаya, ADR slaya, ADR slaya, slаya, slаya, slаya, slаya"
+  "name": "slаya, x2ѕlaya, slаya, ADR slaya, slаya, slаya, slаya, slаya, slаya"
  },
  "ac8c911d-0908-4b56-b289-ad38486041b4": {
   "name": "toyoshi77, toyogød"
@@ -8505,7 +8506,7 @@ let players = {
   "name": "Flxmzy7"
  },
  "ebf3a89e-82b7-4401-b60c-1406c8df2e10": {
-  "name": "pаrpу, SAQR parpyache32, parpeeeeeeeeeeee, ADR parpy, parpeeeeeeeeeeee, pаrpу"
+  "name": "pаrpу, SAQR parpyache32, pаrpу, ADR parpy, parpeeeeeeeeeeee, pаrpу"
  },
  "888b1a05-23aa-431d-b130-19d6cf3d1969": {
   "name": "Shiine ."
@@ -8580,7 +8581,7 @@ let players = {
   "name": "6s crippas, crippa is live, crippa is live, crippa is live, 6s crippas"
  },
  "d792ffb9-7e88-40db-b906-ac9c657e5c06": {
-  "name": "HVT Rom Dom, fаb., ESC fab, fabs quitting, HVT fab, HVT fab, HVT fab, HVT fab, HVT Zedoxs pet"
+  "name": "HVT Rom Dom, fаb., HVT Rom Dom, fabs quitting, HVT fab, HVT fab, HVT fab, HVT fab, HVT Zedoxs pet"
  },
  "ada0452e-e66c-49c0-b285-b1d609a93231": {
   "name": "Regas."
@@ -8592,7 +8593,7 @@ let players = {
   "name": "BLM Yeti"
  },
  "b548e5d0-40ca-49fe-98f6-be25ce2a7305": {
-  "name": "jake FA, SLC ryuk, jake FA, Coach Jake, Coach Jake, Jake Namikaze, Coach Jake, jake FA, jakеlol, jakеlol"
+  "name": "jake FA, SLC ryuk, jake FA, Coach Jake, jake FA, Jake Namikaze, Coach Jake, jake FA, jakеlol, jakеlol"
  },
  "0e15a25c-9f17-482e-a508-c5af5da74c37": {
   "name": "gooеy, yeoog"
@@ -8610,10 +8611,10 @@ let players = {
   "name": "samuel the 17th"
  },
  "f07e1707-b2e9-4e81-ab99-d98f46b4579a": {
-  "name": "SYX Keemo, ESC Keemo, ESC Keemo, ESC Keemo, ESC Keemo, ESC Keemo, ESC Keemo, SYX Keemo"
+  "name": "SYX Keemo, ESC Keemo, ESC Keemo, ESC Keemo, ESC Keemo, ESC Keemo, SYX Keemo"
  },
  "fe968b27-786b-4922-9198-dc90052c6f7d": {
-  "name": "6S Cyrex, cуrex, 6S Cyrex, doomhater84, doomhater84, cуrex, cуrex, cуrex, cуrex, 6S Cyrex"
+  "name": "6S Cyrex, cуrex, 6S Cyrex, 6S Cyrex, doomhater84, cуrex, cуrex, cуrex, cуrex, 6S Cyrex"
  },
  "443632a2-0f36-4c6c-a9ef-df1cc7b0446b": {
   "name": "OAHMEDO"
@@ -11760,7 +11761,7 @@ let players = {
   "name": "emotional kid"
  },
  "ab893cfc-edf9-40fb-ab94-07adf963e79c": {
-  "name": "JarvRuss, soggyshark39"
+  "name": "JarvRuss, soggyshark39, JarvRuss, JarvRuss, soggyshark39"
  },
  "38befec9-97ae-4695-9b31-094dec8a7028": {
   "name": "SPG 2Faulty, 2Faulty, 2Faulty, SPG 2Faulty, SPG 2Faulty, 2Faulty"
@@ -11778,7 +11779,7 @@ let players = {
   "name": "Farmer Gundeorge, GuandilovesAussi"
  },
  "f24c9bea-62d6-42ce-bc0f-3a53cd714e6d": {
-  "name": "skitsrr, FURY skits, skitsrr, skitsrr, FURY skits"
+  "name": "skitsrr, FURY skits, FURY skits, skitsrr, skitsrr, FURY skits"
  },
  "b70ae7f3-6093-4d52-a77e-3cd859d78db0": {
   "name": "Ρeеp"
@@ -11835,19 +11836,19 @@ let players = {
   "name": "SPG Jawsh, PYXL Jawsh, PYXL Jawsh, PYXL Jawsh"
  },
  "ba34ad89-c2d8-488b-a2f6-1ef1b57e2e23": {
-  "name": "Overt Psyper, CLR hardworker, CLR hardworker, CLR hardworker, CLR hardworker"
+  "name": "CLR hardworker, Overt Psyper, Overt Psyper, CLR hardworker, CLR hardworker, CLR hardworker, CLR hardworker"
  },
  "a2f04d81-1cb3-4597-80d4-201f434bd1b0": {
-  "name": "ninjas_dojo, washed ribzy"
+  "name": "fishfingers6969, washed ribzy"
  },
  "a02c72c7-2b7e-442e-8275-3bc5efe27828": {
   "name": "Lаtinо"
  },
  "b99109f4-1f8d-4aba-836e-3e30e1662ecb": {
-  "name": "takentabletop"
+  "name": "1k rated in ches, takentabletop"
  },
  "1a47ba12-da3d-4473-b6e4-4ce6804581d1": {
-  "name": "BAFFLMON, CLR baffle7, CLR baffle7, CLR baffle7, CLR baffle7, CLR baffle7"
+  "name": "CLR baffle7"
  },
  "3dc8a04d-75a5-4c76-9b81-6989af9c8fed": {
   "name": "hеktic"
@@ -11856,7 +11857,7 @@ let players = {
   "name": "Вlооd."
  },
  "3b8126b2-6606-4008-b154-8fa19266af2b": {
-  "name": "ESC nio, nió ӝ, ESC nio, ESC nio, ESC nio, ESC nio, nio ӝ"
+  "name": "nio ӝ, nió ӝ, ESC nio, ESC nio, ESC nio, ESC nio, nio ӝ"
  },
  "dc5e5c38-34e1-46d2-b480-97468fbc4373": {
   "name": "PWR Overstrand"
@@ -11868,13 +11869,13 @@ let players = {
   "name": "GLM PhatCent"
  },
  "2032ee6c-084b-4f4f-b4a3-a06cad7813f3": {
-  "name": "i love rhyzah."
+  "name": "Mоrph, i love rhyzah."
  },
  "3d361488-51f0-4f1c-9b78-bb8c872cac41": {
   "name": "esky 벤딘"
  },
  "545d5988-108e-4347-b7c8-cffd5edb22e2": {
-  "name": "rage 2160"
+  "name": "Endless 仙, rage 2160"
  },
  "ac7a4e8f-bdce-4018-aa16-ed4c9f2d99d2": {
   "name": "PWR Chanzes"
@@ -15471,3 +15472,12 @@ let players = {
   "name": "PYXL Noknes"
  }
 }
+Object.keys(players).map((player) => {
+  axios.post('http://localhost:3000/api/players', {player: {id: player, name: players[player].name}})
+  .then(function(response) {
+    console.log(response)
+  })
+  .catch((err) => {
+    console.log(err)
+  })
+})

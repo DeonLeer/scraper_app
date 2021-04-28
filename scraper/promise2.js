@@ -1479,23 +1479,23 @@ const newUrlArray = [
   'https://fortnitetracker.com/events/sessions/e9a70e61532e40bca2421c955883a786',
   'https://fortnitetracker.com/events/sessions/d826334e2e304b0f81acb17c7dd375cb'
 ]
-const array1 = newUrlArray.splice(0,100)
-const array2 = newUrlArray.splice(0,100)
-const array3 = newUrlArray.splice(0,100)
-const array4 = newUrlArray.splice(0,100)
-const array5 = newUrlArray.splice(0,100)
-const array6 = newUrlArray.splice(0,100)
-const array7 = newUrlArray.splice(0,100)
-const array8 = newUrlArray.splice(0,100)
-const array9 = newUrlArray.splice(0,100)
-const array10 = newUrlArray.splice(0,100)
-const array11 = newUrlArray.splice(0,100)
-const array12 = newUrlArray.splice(0,100)
-const array13 = newUrlArray.splice(0,100)
-const array14 = newUrlArray.splice(0,100)
-const array15 = newUrlArray.splice(0,76)
+const elims0 = newUrlArray.splice(0,100)
+const elims1 = newUrlArray.splice(0,100)
+const elims2 = newUrlArray.splice(0,100)
+const elims3 = newUrlArray.splice(0,100)
+const elims4 = newUrlArray.splice(0,100)
+const elims5 = newUrlArray.splice(0,100)
+const elims6 = newUrlArray.splice(0,100)
+const elims7 = newUrlArray.splice(0,100)
+const elims8 = newUrlArray.splice(0,100)
+const elims9 = newUrlArray.splice(0,100)
+const elims10 = newUrlArray.splice(0,100)
+const elims11 = newUrlArray.splice(0,100)
+const elims12 = newUrlArray.splice(0,100)
+const elims13 = newUrlArray.splice(0,100)
+const elims14 = newUrlArray.splice(0,76)
 
-let promiseArray = array15.map((url) => { return axios.get(url) })
+let promiseArray = elims3.map((url) => { return axios.get(url) })
 let eliminations = {}
 let elimsNoKillFeed = []
 
@@ -1506,16 +1506,23 @@ allSettled(promiseArray)
       let replayData = JSON.parse(x.value.data.split("imp_replayData = ")[1].split(';')[0])
       if (replayData === null) {
         let sessionData = JSON.parse(x.value.data.split("imp_sessionData = ")[1].split(';')[0])
-        for (let player of sessionData) {
-          let elimNumber = player.eliminations
-          let playerId = Object.keys(player.teamNames)[0]
-          let matchId = player.sessionId
-          for (let i = 0; i < elimNumber; i++) {
-            elimsNoKillFeed.push({id:`${playerId}${matchId}${i}`, playerId: playerId, matchId: matchId })
+        let teamSize = Object.keys(sessionData[0].teamNames).length
+        if (teamSize === 1) {
+          for (let player of sessionData) {
+            let elimNumber = player.eliminations
+            let playerId = Object.keys(player.teamNames)[0]
+            let matchId = player.sessionId
+            for (let i = 0; i < elimNumber; i++) {
+              elimsNoKillFeed.push({id:`${playerId}${matchId}${i}`, playerId: playerId, matchId: matchId })
+            }
           }
         }
       } else {
         let gameElims = replayData.eliminations
+        let sessionData = JSON.parse(x.value.data.split("imp_sessionData = ")[1].split(';')[0])
+        let teamSize = Object.keys(sessionData[0].teamNames).length
+        let sizeArray = ['no', 'solo', 'duo', 'trio', 'squad']
+        let mode = sizeArray[teamSize]
         gameElims.map((elim) => {
           eliminations[elim.id] = { 
             "matchId": elim.sessionId,
@@ -1530,7 +1537,8 @@ allSettled(promiseArray)
             "instigatorY": elim.instigatorY,
             "instigatorZ": elim.instigatorZ,
             "deathCause": elim.deathCause,
-            "dbno": elim.dbno
+            "dbno": elim.dbno,
+            "mode": mode
            }
         })
       }
@@ -1540,14 +1548,14 @@ allSettled(promiseArray)
   })
   let elimData = JSON.stringify(eliminations, null, 1)
   let elimNFData = JSON.stringify(elimsNoKillFeed, null, 1)
-  fs.writeFile('data/elimData/elims15.js', elimData, (err) => {
+  fs.writeFile('data/elimData/elims3.js', elimData, (err) => {
     if (err) {
       console.log(err)
     } else {
       console.log('success')
     }
   })
-  fs.writeFile('data/elimData/elimsnf15.js', elimNFData, (err) => {
+  fs.writeFile('data/elimData/elimsnf3.js', elimNFData, (err) => {
     if (err) {
       console.log(err)
     } else {

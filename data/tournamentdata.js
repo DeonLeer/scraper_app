@@ -1,4 +1,5 @@
-{
+const axios = require('axios')
+const tournaments = {
  "epicgames_S12_FNCS_Invitational_NAE_Week3": {
   "name": "epicgames_S12_FNCS_Invitational_NAE_Week3",
   "region": "NAE",
@@ -249,8 +250,45 @@
   "region": "NAE",
   "season": 14
  },
- "floating": {
-  "name": "floating"
+ "epicgames_S14_FNCS_Qualifier1_NAE_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_NAE_PC",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_NAE_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_NAE_PC",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_NAE_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_NAE_PC",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAE_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_NAE_PC_Heat1",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAE_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_NAE_PC_Heat2",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAE_PC_Heat3": {
+  "name": "epicgames_S14_FNCS_Finals_NAE_PC_Heat3",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAE_PC_Heat4": {
+  "name": "epicgames_S14_FNCS_Finals_NAE_PC_Heat4",
+  "region": "NAE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_NAE_PC_Grandfinals",
+  "region": "NAE",
+  "season": 14
  },
  "epicgames_S14_Dreamhack_September_EU_Finals": {
   "name": "epicgames_S14_Dreamhack_September_EU_Finals",
@@ -267,6 +305,46 @@
   "region": "EU",
   "season": 14
  },
+ "epicgames_S14_FNCS_Qualifier1_EU_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_EU_PC",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_EU_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_EU_PC",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_EU_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_EU_PC",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_EU_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_EU_PC_Heat1",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_EU_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_EU_PC_Heat2",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_EU_PC_Heat3": {
+  "name": "epicgames_S14_FNCS_Finals_EU_PC_Heat3",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_EU_PC_Heat4": {
+  "name": "epicgames_S14_FNCS_Finals_EU_PC_Heat4",
+  "region": "EU",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_EU_PC_Grandfinals",
+  "region": "EU",
+  "season": 14
+ },
  "epicgames_S14_Dreamhack_September_NAW_Finals": {
   "name": "epicgames_S14_Dreamhack_September_NAW_Finals",
   "region": "NAW",
@@ -280,6 +358,176 @@
  "epicgames_S14_Dreamhack_November_NAW_Finals": {
   "name": "epicgames_S14_Dreamhack_November_NAW_Finals",
   "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier1_NAW_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_NAW_PC",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_NAW_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_NAW_PC",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_NAW_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_NAW_PC",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAW_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_NAW_PC_Heat1",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAW_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_NAW_PC_Heat2",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAW_PC_Heat3": {
+  "name": "epicgames_S14_FNCS_Finals_NAW_PC_Heat3",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAW_PC_Heat4": {
+  "name": "epicgames_S14_FNCS_Finals_NAW_PC_Heat4",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_NAW_PC_Grandfinals",
+  "region": "NAW",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier1_ASIA_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_ASIA_PC",
+  "region": "ASIA",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_ASIA_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_ASIA_PC",
+  "region": "ASIA",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_ASIA_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_ASIA_PC",
+  "region": "ASIA",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat1",
+  "region": "ASIA",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_ASIA_PC_Heat2",
+  "region": "ASIA",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_ASIA_PC_Grandfinals",
+  "region": "ASIA",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier1_BR_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_BR_PC",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_BR_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_BR_PC",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_BR_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_BR_PC",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_BR_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_BR_PC_Heat1",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_BR_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_BR_PC_Heat2",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_BR_PC_Heat3": {
+  "name": "epicgames_S14_FNCS_Finals_BR_PC_Heat3",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_BR_PC_Heat4": {
+  "name": "epicgames_S14_FNCS_Finals_BR_PC_Heat4",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_BR_PC_Grandfinals",
+  "region": "BR",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier1_ME_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_ME_PC",
+  "region": "ME",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_ME_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_ME_PC",
+  "region": "ME",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_ME_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_ME_PC",
+  "region": "ME",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_ME_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_ME_PC_Heat1",
+  "region": "ME",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_ME_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_ME_PC_Heat2",
+  "region": "ME",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_ME_PC_Grandfinals",
+  "region": "ME",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier1_OCE_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier1_OCE_PC",
+  "region": "OCE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier2_OCE_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier2_OCE_PC",
+  "region": "OCE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Qualifier3_OCE_PC": {
+  "name": "epicgames_S14_FNCS_Qualifier3_OCE_PC",
+  "region": "OCE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_OCE_PC_Heat1": {
+  "name": "epicgames_S14_FNCS_Finals_OCE_PC_Heat1",
+  "region": "OCE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_OCE_PC_Heat2": {
+  "name": "epicgames_S14_FNCS_Finals_OCE_PC_Heat2",
+  "region": "OCE",
+  "season": 14
+ },
+ "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals": {
+  "name": "epicgames_S14_FNCS_Finals_OCE_PC_Grandfinals",
+  "region": "OCE",
   "season": 14
  },
  "epicgames_S15_Dreamhack_December_NAE_Finals": {
@@ -309,6 +557,11 @@
  },
  "epicgames_S15_FNCS_SemiFinals_NAE": {
   "name": "epicgames_S15_FNCS_SemiFinals_NAE",
+  "region": "NAE",
+  "season": 15
+ },
+ "epicgames_S15_FNCS_GrandFinals_NAE": {
+  "name": "epicgames_S15_FNCS_GrandFinals_NAE",
   "region": "NAE",
   "season": 15
  },
@@ -347,6 +600,11 @@
   "region": "EU",
   "season": 15
  },
+ "epicgames_S15_FNCS_GrandFinals_EU": {
+  "name": "epicgames_S15_FNCS_GrandFinals_EU",
+  "region": "EU",
+  "season": 15
+ },
  "epicgames_S15_FNCS_RebootRound_EU": {
   "name": "epicgames_S15_FNCS_RebootRound_EU",
   "region": "EU",
@@ -382,6 +640,11 @@
   "region": "NAW",
   "season": 15
  },
+ "epicgames_S15_FNCS_GrandFinals_NAW": {
+  "name": "epicgames_S15_FNCS_GrandFinals_NAW",
+  "region": "NAW",
+  "season": 15
+ },
  "epicgames_S15_FNCS_RebootRound_NAW": {
   "name": "epicgames_S15_FNCS_RebootRound_NAW",
   "region": "NAW",
@@ -404,6 +667,11 @@
  },
  "epicgames_S15_FNCS_SemiFinals_ASIA": {
   "name": "epicgames_S15_FNCS_SemiFinals_ASIA",
+  "region": "ASIA",
+  "season": 15
+ },
+ "epicgames_S15_FNCS_GrandFinals_ASIA": {
+  "name": "epicgames_S15_FNCS_GrandFinals_ASIA",
   "region": "ASIA",
   "season": 15
  },
@@ -432,6 +700,11 @@
   "region": "BR",
   "season": 15
  },
+ "epicgames_S15_FNCS_GrandFinals_BR": {
+  "name": "epicgames_S15_FNCS_GrandFinals_BR",
+  "region": "BR",
+  "season": 15
+ },
  "epicgames_S15_FNCS_RebootRound_BR": {
   "name": "epicgames_S15_FNCS_RebootRound_BR",
   "region": "BR",
@@ -454,6 +727,11 @@
  },
  "epicgames_S15_FNCS_SemiFinals_ME": {
   "name": "epicgames_S15_FNCS_SemiFinals_ME",
+  "region": "ME",
+  "season": 15
+ },
+ "epicgames_S15_FNCS_GrandFinals_ME": {
+  "name": "epicgames_S15_FNCS_GrandFinals_ME",
   "region": "ME",
   "season": 15
  },
@@ -482,9 +760,30 @@
   "region": "OCE",
   "season": 15
  },
+ "epicgames_S15_FNCS_GrandFinals_OCE": {
+  "name": "epicgames_S15_FNCS_GrandFinals_OCE",
+  "region": "OCE",
+  "season": 15
+ },
  "epicgames_S15_FNCS_RebootRound_OCE": {
   "name": "epicgames_S15_FNCS_RebootRound_OCE",
   "region": "OCE",
   "season": 15
  }
 }
+Object.keys(tournaments).map((tournament) => {
+  axios.post('http://localhost:3000/api/tournaments', {
+    tournament: {
+      id: tournament,
+      name: tournament,
+      region: tournaments[tournament].region,
+      season: tournaments[tournament].season
+    }
+  })
+  .then(function(response) {
+    console.log(response)
+  })
+  .catch((err) => {
+    console.log(err)
+  })
+})

@@ -96,9 +96,10 @@ Promise.all(promiseArray)
   res.map((x) => {
     let leaderboard = JSON.parse(x.data.split("imp_leaderboard = ")[1].split(';')[0])
     let matches = JSON.parse(x.data.split("imp_matches = ")[1].split(';')[0])
+    let eventWindow = JSON.parse(x.data.split("imp_eventWindow = ")[1].split(';')[0])
     let players = leaderboard.internal_Accounts
     let teams = leaderboard.entries
-    let tournamentID = teams[0].eventId
+    let tournamentID = eventWindow.eventId
     let tournamentRegion
     let tournamentSeason
     for (region of regions) {

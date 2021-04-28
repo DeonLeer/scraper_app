@@ -3,7 +3,7 @@ module.exports = function(router, database) {
     database.resetDB()
   })
   router.post('/regions', (req, res) => {
-    database.addRegion(req.body['name'])
+    database.addRegion(req.body['region'])
       .then(region => {
         res.send(region)
       })
@@ -25,7 +25,7 @@ module.exports = function(router, database) {
   });
   router.post('/players', (req, res) => {
     console.log(req.body)
-    database.addPlayer({id: req.body.id, name: req.body.name})
+    database.addPlayer(req.body['player'])
       .then(player => {
         res.send(player)
       })
@@ -34,18 +34,8 @@ module.exports = function(router, database) {
         res.send(e)
       });
   });
-  router.post('/types', (req, res) => {
-    database.addType(req.body)
-      .then(season => {
-        res.send(season)
-      })
-      .catch(e => {
-        console.error(e)
-        res.send(e)
-      });
-  });
   router.post('/tournaments', (req, res) => {
-    database.addTournament(req.body)
+    database.addTournament(req.body['tournament'])
       .then(tournament => {
         res.send(tournament)
       })
@@ -65,7 +55,7 @@ module.exports = function(router, database) {
       });
   });
   router.post('/games', (req, res) => {
-    database.addGame(req.body)
+    database.addGame(req.body['game'])
       .then(game => {
         res.send(game)
       })
@@ -75,7 +65,7 @@ module.exports = function(router, database) {
       });
   });
   router.post('/games_played', (req, res) => {
-    database.addGamesPlayed(req.body)
+    database.addGamePlayed(req.body['game'])
       .then(gamePlayed => {
         res.send(gamePlayed)
       })
@@ -85,7 +75,7 @@ module.exports = function(router, database) {
       });
   });
   router.post('/eliminations', (req, res) => {
-    database.addElimination(req.body)
+    database.addElimination(req.body['elim'])
       .then(elimination => {
         res.send(elimination)
       })
@@ -95,7 +85,7 @@ module.exports = function(router, database) {
       });
   });
   router.post('/eliminationsnofeed', (req, res) => {
-    database.addEliminationNoFeed(req.body)
+    database.addEliminationNoFeed(req.body['elim'])
       .then(elimination => {
         res.send(elimination)
       })
@@ -114,5 +104,116 @@ module.exports = function(router, database) {
         res.send(e)
       });
   });
+  router.get(`/getplayers`, (req, res) => {
+    database.getPlayers()
+    .then(players => {
+      res.send(players)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/getsoloelims', (req, res) => {
+    console.log(req.query)
+    database.getSoloElims(req.query.id)
+    .then(elims => {
+      res.send(elims)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/getsoloelimsnofeed', (req, res) => {
+    database.getSoloElims(req.query.id)
+    .then(elims => {
+      res.send(elims)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/getduoelims', (req, res) => {
+    database.getDuoElims(req.query.id)
+    .then(elims => {
+      res.send(elims)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/gettrioelims', (req, res) => {
+    database.getTrioElims(req.query.id)
+    .then(elims => {
+      res.send(elims)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/getduos', (req, res) => {
+    database.getDuos(req.query.id)
+    .then(duos => {
+      res.send(duos)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/gettrios', (req, res) => {
+    database.getTrios(req.query.id)
+    .then(trios => {
+      res.send(trios)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/getsologamesplayed', (req, res) => {
+    database.getSoloGamesPlayed(req.query.id)
+    .then(games => {
+      res.send(games)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/getduogamesplayed', (req, res) => {
+    database.getDuoGamesPlayed(req.query.id)
+    .then(games => {
+      res.send(games)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get('/gettriogamesplayed', (req, res) => {
+    database.getTrioGamesPlayed(req.query.id)
+    .then(games => {
+      res.send(games)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
+  router.get(`/gettournaments`, (req, res) => {
+    database.getTournaments()
+    .then(tournaments => {
+      res.send(tournaments)
+    })
+    .catch(e => {
+      console.error(e)
+      res.send(e)
+    })
+  })
   return router;
 }

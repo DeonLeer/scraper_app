@@ -1,4 +1,5 @@
-{
+const axios = require('axios')
+const teams = {
  "3fb44adba289439b84d40b5bc8964122": [
   "3fb44adb-a289-439b-84d4-0b5bc8964122"
  ],
@@ -18888,3 +18889,16 @@
   "cc0c14ea-9146-4421-a7a8-a58abca8c0a0"
  ]
 }
+Object.keys(teams).map((team) => {
+  let teamObject = {id: team, size: teams[team].length}
+  teams[team].map((player, index) => {
+    teamObject[`player${index+1}_id`] = player
+  })
+  axios.post('http://localhost:3000/api/teams', teamObject)
+  .then(function(response) {
+    console.log(response)
+  })
+  .catch((err) => {
+    console.log(err)
+  })
+})
